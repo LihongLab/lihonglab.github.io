@@ -8,6 +8,8 @@ main:
     url: "/PEOPLE/"
   - title: "JOIN US"
     url: "/join_us/"
+  - title: "NEWS"
+    url: "/NEWS/"
   - title: "GALLERY"
     url: "/GALLERY/"
   - title: "CONTACT"
@@ -18,8 +20,6 @@ main:
 #    url:
   # - title: "RESOURCES"
   #   url: "/RESOURCES/" 
-  # - title: "NEWS"
-  #   url: "/NEWS/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
