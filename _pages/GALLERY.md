@@ -23,8 +23,8 @@ gallery:
     title: "New Year's Eve 2021-12-31"
   - url: /assets/img/gallery/2022-2-15.jpg
     image_path: /assets/img/gallery/2022-2-15.jpg
-    alt: "Winter Solstice"
-    title: "Winter Solstice 2022-02-15"
+    alt: "Lantern Festival"
+    title: "Lantern Festival 2022-02-15"
   - url: /assets/img/gallery/2022-2-25.jpg
     image_path: /assets/img/gallery/2022-2-25.jpg
     alt: "Hot Pot Party"
