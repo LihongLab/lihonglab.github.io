@@ -17,13 +17,13 @@ excerpt: " <br> <br> <br>"
 #     title: "GONG Xun"
 #     excerpt: >
 #       Lab Manager <br>
-#       xgong@sibs.ac.cn
+#       xgong:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
 #   - image_path: /assets/img/pic/linping.jpg
 #     alt: "xxx"
 #     title: "LIN Ping"
 #     excerpt: >
 #       Postdoc <br>
-#       linping@sibs.ac.cn
+#       linping:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
 #   - image_path: /assets/img/pic/ratio34.jpg
 #     alt: "xxx"
 #     title: "FENGFANG Youmin"
@@ -35,50 +35,50 @@ excerpt: " <br> <br> <br>"
 #     title: "JING Siyu"
 #     excerpt: >
 #       Ph.D. Student <br>
-#       jingsiyu2020@sibs.ac.cn
+#       jingsiyu2020:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
 #   - image_path: /assets/img/pic/lijiarong.jpg
 #     alt: "placeholder image 2"
 #     title: "LI Jiarong"
 #     excerpt: >
 #       Ph.D. Student <br>
-#       lijiarong2020@sibs.ac.cn
+#       lijiarong2020:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
 #   - image_path: /assets/img/pic/ratio34.jpg
 #     alt: "placeholder image 2"
 #     title: "SHEN Bihan"
 #     excerpt: >
 #       Ph.D. Student <br>
-#       shenbihan2020@sibs.ac.cn
+#       shenbihan2020:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
 #   - image_path: /assets/img/pic/likunshi.jpg
 #     title: "LI Kunshi"
 #     excerpt: >
 #       M.Sc. Student <br>
-#       likunshi2021@sibs.ac.cn
+#       likunshi2021:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
 #   - image_path: /assets/img/pic/wangheqi.jpg
 #     title: "WANG Heqi"
 #     excerpt: >
 #       M.Sc. Student <br>
-#       wangheqi2021@sibs.ac.cn
+#       wangheqi2021:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
 #   - image_path: /assets/img/pic/ratio34.jpg
 #     title: "YAN Xi"
 #     excerpt: >
 #       M.Sc. Student <br>
-#       yanxi2021@sibs.ac.cn
+#       yanxi2021:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
 feature_row:
   - image_path: /assets/img/pic/gongxun.jpg
     alt: "xxx"
     title: "Xun Gong"
     excerpt: >
       Lab Manager <br>
-      xgong@sibs.ac.cn
+      xgong:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
   - image_path: /assets/img/pic/linping.jpg
     alt: "xxx"
     title: "Ping Lin"
     excerpt: >
       Postdoc <br>
-      linping@sibs.ac.cn
+      linping:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
   - image_path: /assets/img/pic/ffym.jpg
     alt: "xxx"
-    title: "Youmin Fengfang"
+    title: "Fangyoumin Feng"
     excerpt: >
       Postdoc <br>
       fengfangyoumin@picb.ac.cn
@@ -87,34 +87,34 @@ feature_row:
     title: "Siyu Jing"
     excerpt: >
       Ph.D. Student <br>
-      jingsiyu2020@sibs.ac.cn
+      jingsiyu2020:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
   - image_path: /assets/img/pic/lijiarong.jpg
     alt: "placeholder image 2"
     title: "Jiarong Li"
     excerpt: >
       Ph.D. Student <br>
-      lijiarong2020@sibs.ac.cn
+      lijiarong2020:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
   - image_path: /assets/img/pic/shenbihan.jpg
     alt: "placeholder image 2"
     title: "Bihan Shen"
     excerpt: >
       Ph.D. Student <br>
-      shenbihan2020@sibs.ac.cn
+      shenbihan2020:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
   - image_path: /assets/img/pic/likunshi.jpg
     title: "Kunshi Li"
     excerpt: >
       M.Sc. Student <br>
-      likunshi2021@sibs.ac.cn
+      likunshi2021:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
   - image_path: /assets/img/pic/wangheqi.jpg
     title: "Heqi Wang"
     excerpt: >
       M.Sc. Student <br>
-      wangheqi2021@sibs.ac.cn
+      wangheqi2021:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
   - image_path: /assets/img/pic/yanxi.jpg
     title: "Xi Yan"
     excerpt: >
       M.Sc. Student <br>
-      yanxi2021@sibs.ac.cn
+      yanxi2021:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn
 feature_row2:
   - image_path: /assets/img/pic/lihong1.jpg
     alt: "Hong Li"
@@ -124,18 +124,20 @@ feature_row2:
       Key Laboratory of Computational Biology, <br>
       Shanghai Institute of Nutrition and Health (SINH), <br>
       Chinese Academy of Sciences (CAS) <br>
-      Office: 021-54920348 <br>
-      Email: lihong01@sibs.ac.cn <br>
-      Mailing Address: Room 340, Shengke Building, 320 Yueyang Road, Shanghai, China. <br>
+      Email: lihong01:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn <br>
       <br>
 
       <small>2021 National Natural Science Found for Excellent Youth Scientists <br>
-      2020 - Professor, Principal Investigator, SINH, CAS, P.R.China <br>
+      2020 - Present Professor, Principal Investigator, SINH, CAS, P.R.China <br>
       2019 - 2020 Professor, Principal Investigator, PICB, CAS, P.R.China <br>
       2013 - 2019 Assistant professor, SIBS, P.R.China  (Group of Prof. Yixue Li). <br>
       2010 - 2013 Postdoctoral Fellow in  Computational Genomics. Institute for Systems Biology, Seattle, WA, USA  (Laboratory of Prof. Leroy Hood). <br>
       2005 - 2010 Ph.D. in Bioinformatics. Key Lab of  Systems Biology, CAS, P.R.China (Group of Prof. Yixue  Li). <br>
       2001 - 2005 B.S. in Information Science and  Computer Technology, Central South University. <br></small>
+      <br>
+      
+      <small>2021 National Natural Science Found for Excellent Youth Scientists <br></small>
+
 
 ---
 {% include feature_row id="feature_row2" type="left" %}

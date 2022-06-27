@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: " "
 permalink: /PUBLICATIONS/
 header:
   image: /assets/img/photos/header5.jpg

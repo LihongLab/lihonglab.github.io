@@ -14,9 +14,9 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Available Positions"
     excerpt: >
-      Graduate Students: If you are a student who seeks to be admitted to a graduate program at Shanghai Institute of Nutrition and Health (SINH), Chinese Academy of Sciences (CAS), please apply through https://sedu.sinh.ac.cn/. If you have already been admitted to a SINH graduate program and are interested in joining CSB, you are welcome to email Dr. Li directly (lihong01@sibs.ac.cn). <br>
+      **Graduate Students**: If you are a student who seeks to be admitted to a graduate program at Shanghai Institute of Nutrition and Health (SINH), Chinese Academy of Sciences (CAS), please refer to https://sedu.sinh.ac.cn/. If you have already been admitted to a SINH graduate program and are interested in joining CSB, you are welcome to email Dr. Li directly (lihong01:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn). <br>
       <br>
-      Postdocs & Research Scientists: Applicants must have a PhD in bioinformatics, computer science, statistics or a related discipline. Strong candidates must have a research background and expertise in omics data analysis, machine learning, artificial intelligence or complex network. We will support candidates to apply various funding in Shanghai government, CAS or NSFC. Strong candidates will have experience mentoring and supervising research students. If interested in applying for a position you may contact Dr. Li by email (lihong01@sibs.ac.cn). Please include a link to your Curriculum Vitae and professional references. <br>
+      **Postdocs & Research Scientists**: Applicants must have a PhD in bioinformatics, computer science, statistics or a related discipline. Strong candidates must have a research background and expertise in <u>omics data analysis, machine learning, artificial intelligence or complex network</u>. We will support candidates to apply various funding in Shanghai government, CAS or NSFC. Strong candidates will have experience mentoring and supervising research students. If interested in applying for a position you may contact Dr. Li by email (lihong01:inbox_tray:sibs:small_blue_diamond:ac:small_blue_diamond:cn). Please attach your curriculum vitae and professional references. <br>
       <br>
 ---
 
