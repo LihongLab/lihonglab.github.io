@@ -1,6 +1,6 @@
 ---
 title: "News"
-# permalink: /NEWS/
+permalink: /NEWS/
 toc: true
 toc_sticky: true
 toc_label: " "
