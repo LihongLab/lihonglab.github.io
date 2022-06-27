@@ -1,0 +1,30 @@
+# main links
+main:
+  - title: "HOME"
+    url: https://lihonglab.github.io/
+  - title: "PUBLICATIONS"
+    url: "/PUBLICATIONS/"
+  - title: "PEOPLE"
+    url: "/PEOPLE/"
+  - title: "JOIN US"
+    url: "/join_us/"
+  - title: "GALLERY"
+    url: "/GALLERY/"
+  - title: "CONTACT"
+    url: "/CONTACT/"
+#  - title:
+#    url: 
+#  - title:
+#    url:
+  # - title: "RESOURCES"
+  #   url: "/RESOURCES/" 
+  # - title: "NEWS"
+  #   url: "/NEWS/"
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
