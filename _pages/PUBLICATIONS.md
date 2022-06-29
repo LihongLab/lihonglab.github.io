@@ -2,7 +2,8 @@
 title: " "
 permalink: /PUBLICATIONS/
 header:
-  image: /assets/img/photos/header5.jpg
+  image: /assets/img/photos/header6.jpg
+  caption: "Image credit: [Annie Cavanagh (CC BY-NC 4.0)](https://elifesciences.org/digests/51480/cancer-mutations-cell-by-cell)"
 toc: true
 toc_sticky: true
 toc_label: " "
