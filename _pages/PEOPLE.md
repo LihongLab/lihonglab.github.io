@@ -63,13 +63,13 @@ excerpt: " <br> <br> <br>"
 #     excerpt: >
 #       M.Sc. Student <br>
 #       yanxi2021:paperclip:sibs**.**ac**.**cn
+  # - image_path: /assets/img/pic/gongxun.jpg
+  #   alt: "xxx"
+  #   title: "Xun Gong"
+  #   excerpt: >
+  #     Lab Manager <br>
+  #     xgong:paperclip:sibs**.**ac**.**cn
 feature_row:
-  - image_path: /assets/img/pic/gongxun.jpg
-    alt: "xxx"
-    title: "Xun Gong"
-    excerpt: >
-      Lab Manager <br>
-      xgong:paperclip:sibs**.**ac**.**cn
   - image_path: /assets/img/pic/linping.jpg
     alt: "xxx"
     title: "Ping Lin"
