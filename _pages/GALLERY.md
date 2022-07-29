@@ -25,14 +25,18 @@ gallery:
     image_path: /assets/img/gallery/2022-2-15.jpg
     alt: "Lantern Festival"
     title: "Lantern Festival 2022-02-15"
-  - url: /assets/img/gallery/2022-2-25.jpg
-    image_path: /assets/img/gallery/2022-2-25.jpg
-    alt: "Hot Pot Party"
-    title: "Hot Pot Party 2022-02-25"
   - url: /assets/img/gallery/2022-06-23.jpg
     image_path: /assets/img/gallery/2022-06-23.jpg
     alt: "Haidilao Hot Pot"
     title: "Haidilao Hot Pot"
+  - url: /assets/img/gallery/2022-07-28.jpg
+    image_path: /assets/img/gallery/2022-07-28.jpg
+    alt: "Summer Ride 2022-07-28"
+    title: "Summer Ride 2022-07-28"
+  # - url: /assets/img/gallery/2022-2-25.jpg
+  #   image_path: /assets/img/gallery/2022-2-25.jpg
+  #   alt: "Hot Pot Party"
+  #   title: "Hot Pot Party 2022-02-25"
   # - url: /assets/img/gallery/2020-12-26.jpg
   #   image_path: /assets/img/gallery/2020-12-26.jpg
   #   alt: "Christmas"
