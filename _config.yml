@@ -143,7 +143,7 @@ footer:
       url: "https://github.com/LihongLab/"
       # url:
     - label: "ResearchGate"
-      icon: "fa-brands fa-researchgate"
+      icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Hong-Li-13"
     - label: "CONTACT"
       icon: "far fa-envelope"

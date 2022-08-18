@@ -76,12 +76,6 @@ feature_row:
     excerpt: >
       Postdoc <br>
       linping:paperclip:sibs**.**ac**.**cn
-  - image_path: /assets/img/pic/ffym.jpg
-    alt: "xxx"
-    title: "Fangyoumin Feng"
-    excerpt: >
-      Postdoc <br>
-      fengfangyoumin:paperclip:sibs**.**ac**.**cn
   - image_path: /assets/img/pic/jingsiyu.jpg
     alt: "placeholder image 2"
     title: "Siyu Jing"
@@ -152,5 +146,7 @@ feature_row2:
 
 {% include feature_row %}
 
+<div class="feature__wrapper">
 <h2>Alumni</h2>
-<p>Fangyoumin Feng,  Postdoc (2020-2022)</p>
+<p>Fangyoumin Feng, Postdoc (2020-2022)</p>
+</div>
