@@ -13,6 +13,10 @@ layout: single
 ---
 # Selected publications
 
+Yang J#, Lin P#, Yang M#, Liu W, Fu X, Liu D, Tao L, Huo Y, Zhang J, Hua R, Zhang Z*, Li Y*, Wang L*, Xue J*, Li H*, Sun Y*. Integrated genomic and transcriptomic analysis reveals unique characteristics of hepatic metastases and pro-metastatic role of complement C1q in pancreatic ductal adenocarcinoma. Genome biology 2021, 22(1): 4. [PDF](/assets/pdf/1-s2.0-S1673852721000849-main.pdf){: .btn .btn--info}
+
+Feng F, Shen B, Mou X, Li Y, Li H*. Large-scale pharmacogenomic studies and drug response prediction for personalized cancer medicine. J Genet Genomics. 2021;48(7):540-55 [PDF](/assets/pdf/s13059-020-02222-w.pdf){: .btn .btn--info}
+
 Hu B#, Li H#, Guo W, Sun YF, Zhang X, Tang WG, Yang LX, Xu Y, Tang XY, Ding GH, Qiu SJ, Zhou J, Li YX, Fan J, Yang XR. Establishment of a hepatocellular carcinoma patient-derived xenograft platform and its application in biomarker identification. Int J Cancer 2020 Mar 15;146(6):1606-1617. [PDF](/assets/pdf/Intl Journal of Cancer - 2019 - Hu - Establishment of a hepatocellular carcinoma patient‐derived xenograft platform and its.pdf){: .btn .btn--info}
 
 Qiu Z#, Li H#, Zhang Z#, Zhu Z, He S, Wang X, Wang P, Qin J, Zhuang L, Wang W, Xie F, Gu Y, Zou K, Li C, Li C, Wang C, Cen J, Chen X, Shu Y, Zhang Z, Sun L, Min L, Fu Y, Huang X, Lv H, Zhou H, Ji Y, Zhang Z, Meng Z, Shi X, Zhang H*, Li Y*, Hui L*. A Pharmacogenomic Landscape in Human Liver Cancers. Cancer Cell 2019 Aug 12;36(2):179-193.e11. [PDF](/assets/pdf/PIIS1535610819303289.pdf){: .btn .btn--info}
@@ -35,6 +39,7 @@ Li H#, He Y#, Ding G, Wang C, Xie L*, Li Y*. dbDEPC: a database of differentiall
 # All publications
 
 ## 2021
+Feng F, Shen B, Mou X, Li Y, Li H*. Large-scale pharmacogenomic studies and drug response prediction for personalized cancer medicine. J Genet Genomics. 2021;48(7):540-55
 
 Chen, Y., Zhou, C., Li, H., Li, H., & Li, Y. (2021). Identifying Key Genes for Nasopharyngeal Carcinoma by Prioritized Consensus Differentially Expressed Genes Caused by Aberrant Methylation. J Cancer, 12(3), 874-884. https://doi.org/10.7150/jca.49392 
 

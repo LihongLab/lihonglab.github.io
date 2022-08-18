@@ -137,9 +137,20 @@ feature_row2:
       <br>
 
       <small>2021 National Natural Science Found for Excellent Youth Scientists <br></small>
-
+# feature_row3:
+#   - image_path: /assets/img/pic/ffym.jpg
+#     alt: "xxx"
+#     title: "Fangyoumin Feng"
+#     excerpt: >
+#       Postdoc (2020-2022)<br>
+      
 
 ---
+
+
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row %}
+
+<h2>Alumni</h2>
+<p>Fangyoumin Feng,  Postdoc (2020-2022)</p>
