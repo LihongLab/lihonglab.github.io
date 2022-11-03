@@ -147,7 +147,7 @@ feature_row3:
 {% include feature_row %}
 
 <div class="feature__wrapper">
-<h1>Alumni</h1>
+<h2>Alumni</h2>
 <!-- <p>Fangyoumin Feng, Postdoc (2020-2022)</p> -->
     <div class="feature__item--left">
       <div class="archive__item">
