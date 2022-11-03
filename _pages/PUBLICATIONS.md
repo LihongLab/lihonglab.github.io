@@ -13,9 +13,9 @@ layout: single
 ---
 # Selected publications
 
-Yang J#, Lin P#, Yang M#, Liu W, Fu X, Liu D, Tao L, Huo Y, Zhang J, Hua R, Zhang Z*, Li Y*, Wang L*, Xue J*, Li H*, Sun Y*. Integrated genomic and transcriptomic analysis reveals unique characteristics of hepatic metastases and pro-metastatic role of complement C1q in pancreatic ductal adenocarcinoma. Genome biology 2021, 22(1): 4. [PDF](/assets/pdf/1-s2.0-S1673852721000849-main.pdf){: .btn .btn--info}
+Yang J#, Lin P#, Yang M#, Liu W, Fu X, Liu D, Tao L, Huo Y, Zhang J, Hua R, Zhang Z*, Li Y*, Wang L*, Xue J*, Li H*, Sun Y*. Integrated genomic and transcriptomic analysis reveals unique characteristics of hepatic metastases and pro-metastatic role of complement C1q in pancreatic ductal adenocarcinoma. Genome biology 2021, 22(1): 4. [PDF](/assets/pdf/s13059-020-02222-w.pdf){: .btn .btn--info}
 
-Feng F, Shen B, Mou X, Li Y, Li H*. Large-scale pharmacogenomic studies and drug response prediction for personalized cancer medicine. J Genet Genomics. 2021;48(7):540-55 [PDF](/assets/pdf/s13059-020-02222-w.pdf){: .btn .btn--info}
+Feng F, Shen B, Mou X, Li Y, Li H*. Large-scale pharmacogenomic studies and drug response prediction for personalized cancer medicine. J Genet Genomics. 2021;48(7):540-55 [PDF](/assets/pdf/1-s2.0-S1673852721000849-main.pdf){: .btn .btn--info}
 
 Hu B#, Li H#, Guo W, Sun YF, Zhang X, Tang WG, Yang LX, Xu Y, Tang XY, Ding GH, Qiu SJ, Zhou J, Li YX, Fan J, Yang XR. Establishment of a hepatocellular carcinoma patient-derived xenograft platform and its application in biomarker identification. Int J Cancer 2020 Mar 15;146(6):1606-1617. [PDF](/assets/pdf/Intl Journal of Cancer - 2019 - Hu - Establishment of a hepatocellular carcinoma patient‐derived xenograft platform and its.pdf){: .btn .btn--info}
 
