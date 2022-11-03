@@ -149,5 +149,29 @@ feature_row3:
 <div class="feature__wrapper">
 <h2>Alumni</h2>
 <!-- <p>Fangyoumin Feng, Postdoc (2020-2022)</p> -->
+    <div class="feature__item--left">
+      <div class="archive__item">
+        <!-- {% if f.image_path %} -->
+        <div class="archive__item-teaser">
+          <img src="/assets/img/pic/ffym.jpg"
+                alt="xxx">
+          <!-- {% if f.image_caption %}
+            <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+          {% endif %} -->
+        </div>
+        <div class="archive__item-body">
+          <!-- {% if f.title %} -->
+            <h2 class="archive__item-title">"Fangyoumin Feng"</h2>
+          <!-- {% endif %} -->
+            <div class="archive__item-excerpt">
+              Postdoc (2020-2022)<br>
+              fengfangyoumin:paperclip:picb**.**ac**.**cn
+            </div>
+          <!-- {% if f.url %}
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %} -->
+        </div>
+      </div>
+    </div>
 </div>
-{% include feature_row id="feature_row3" type="left" %}
+<!-- {% include feature_row id="feature_row3" type="left" %} -->
