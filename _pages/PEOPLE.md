@@ -147,8 +147,8 @@ feature_row3:
 {% include feature_row %}
 
 <div class="feature__wrapper">
-<h2>Alumni</h2>
-<!-- <p>Fangyoumin Feng, Postdoc (2020-2022)</p> -->
+<h1>Alumni</h1>
+<!-- <p>Fangyoumin Feng, Postdoc (2020-2022)</p>
     <div class="feature__item--left">
       <div class="archive__item">
         <div class="archive__item-teaser">
@@ -163,7 +163,7 @@ feature_row3:
             </div>
         </div>
       </div>
-    </div>
+    </div> -->
 </div>
 
-<!-- {% include feature_row id="feature_row3" type="left" %} -->
+{% include feature_row id="feature_row3" type="left" %}
