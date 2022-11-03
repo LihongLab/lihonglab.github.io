@@ -30,7 +30,6 @@ Hu H#, Li H#, Jiao F, Han T, Zhuo M, Cui J, Li Y*, Wang L*. Association of a nov
 # All publications
 
 ## 2021
-Feng F, Shen B, Mou X, Li Y, Li H*. Large-scale pharmacogenomic studies and drug response prediction for personalized cancer medicine. J Genet Genomics. 2021;48(7):540-55 [https://doi.org/10.1016/j.jgg.2021.03.007](https://doi.org/10.1016/j.jgg.2021.03.007)
 
 Chen, Y., Zhou, C., Li, H., Li, H., & Li, Y. (2021). Identifying Key Genes for Nasopharyngeal Carcinoma by Prioritized Consensus Differentially Expressed Genes Caused by Aberrant Methylation. J Cancer, 12(3), 874-884. [https://doi.org/10.7150/jca.49392](https://doi.org/10.7150/jca.49392) 
 
