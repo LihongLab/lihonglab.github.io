@@ -8,6 +8,9 @@ toc_icon: "bars"
 # classes: wide
 ---
 # 2022
+## November
+* Welcome Xufeng Chen for Lab Rotation!
+
 ## August
 * Welcome Wanhong Chen, Xueliang Li, ZhaoZhen Du for Lab Rotation!
 
