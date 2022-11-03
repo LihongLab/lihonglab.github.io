@@ -147,7 +147,7 @@ feature_row3:
 {% include feature_row %}
 
 <div class="feature__wrapper">
-<h2>Alumni</h2>
+<h1>Alumni</h1>
 <!-- <p>Fangyoumin Feng, Postdoc (2020-2022)</p> -->
     <div class="feature__item--left">
       <div class="archive__item">
@@ -156,10 +156,10 @@ feature_row3:
                 alt="xxx">
         </div>
         <div class="archive__item-body">
-            <h2 class="archive__item-title">"Fangyoumin Feng"</h2>
+            <h2 class="archive__item-title">Fangyoumin Feng</h2>
             <div class="archive__item-excerpt">
               Postdoc (2020-2022)<br>
-              fengfangyoumin:paperclip:picb**.**ac**.**cn
+              fengfangyoumin:paperclip:picb.ac.cn
             </div>
         </div>
       </div>
