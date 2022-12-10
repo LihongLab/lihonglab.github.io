@@ -13,7 +13,7 @@ toc_icon: "bars"
 * Welcome Xufeng Chen for Lab Rotation!
 
 ## August
-* Welcome Wanhong Chen, Xueliang Li, ZhaoZhen Du for Lab Rotation!
+* Welcome Wanhong Chen, Xueliang Li, Zhaozhen Du for Lab Rotation!
 
 ## July
 * [The Cancer Systems Biology (CSB) group is recruiting bioinformatics graduate students, postdocs, and research scientists.](https://mp.weixin.qq.com/s/Uy-JTOyzY0aRbXBqJhN3gQ)  Please contact us by email (lihong01:paperclip:sibs**.**ac**.**cn).
