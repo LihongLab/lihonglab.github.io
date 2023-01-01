@@ -109,6 +109,21 @@ feature_row:
     excerpt: >
       M.Sc. Student <br>
       yanxi2021:paperclip:sibs**.**ac**.**cn
+  - image_path: /assets/img/pic/wanhongchen.jpg
+    title: "Wanhong Chen"
+    excerpt: >
+      M.Sc. Student <br>
+      chenwanhong2022:paperclip:sibs**.**ac**.**cn
+  - image_path: /assets/img/pic/chenxufeng.jpg
+    title: "Xufeng Chen"
+    excerpt: >
+      M.Sc. Student <br>
+      chenxufeng2022:paperclip:sibs**.**ac**.**cn
+  - image_path: /assets/img/pic/lixueliang.jpg
+    title: "Xueliang Li"
+    excerpt: >
+      M.Sc. Student <br>
+      lixueliang2022:paperclip:sibs**.**ac**.**cn
 feature_row2:
   - image_path: /assets/img/pic/lihong1.jpg
     alt: "Hong Li"

@@ -13,6 +13,8 @@ layout: single
 ---
 # Selected publications
 
+Shen, B., Feng, F., Li, K., Lin, P., Ma, L., & Li, H. (2022). A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. *Briefings in bioinformatics*, bbac605. Advance online publication. [PDF](/assets/pdf/bbac605.pdf){: .btn .btn--info}
+
 Yang J#, Lin P#, Yang M#, Liu W, Fu X, Liu D, Tao L, Huo Y, Zhang J, Hua R, Zhang Z*, Li Y*, Wang L*, Xue J*, Li H*, Sun Y*. Integrated genomic and transcriptomic analysis reveals unique characteristics of hepatic metastases and pro-metastatic role of complement C1q in pancreatic ductal adenocarcinoma. Genome biology 2021, 22(1): 4. [PDF](/assets/pdf/s13059-020-02222-w.pdf){: .btn .btn--info}
 
 Feng F, Shen B, Mou X, Li Y, Li H*. Large-scale pharmacogenomic studies and drug response prediction for personalized cancer medicine. J Genet Genomics. 2021;48(7):540-55 [PDF](/assets/pdf/1-s2.0-S1673852721000849-main.pdf){: .btn .btn--info}
@@ -28,6 +30,10 @@ Cheng J#, Wei D, Ji Y, Chen L, Yang L, Li G, Wu L, Hou T, Xie L, Ding G, Li H*, 
 Hu H#, Li H#, Jiao F, Han T, Zhuo M, Cui J, Li Y*, Wang L*. Association of a novel point mutation in MSH2 gene with familial multiple primary cancers. J Hematol Oncol 2017 Oct 3;10(1):158. [PDF](/assets/pdf/s13045-017-0523-y.pdf){: .btn .btn--info}
 
 # All publications
+
+## 2022
+
+Shen, B., Feng, F., Li, K., Lin, P., Ma, L., & Li, H. (2022). A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. *Briefings in bioinformatics*, bbac605. Advance online publication. [https://doi.org/10.1093/bib/bbac605](https://doi.org/10.1093/bib/bbac605)
 
 ## 2021
 
