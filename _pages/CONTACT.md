@@ -16,7 +16,7 @@ feature_row3:
       Shanghai Institute of Nutrition and Health (SINH), <br>
       Chinese Academy of Sciences (CAS) <br>
       Office: 021-54920348 <br>
-      Email: lihong01:paperclip:sibs**.**ac**.**cn <br>
+      Email: lihong01:paperclip:sinh**.**ac**.**cn <br>
       Mailing Address: Room 340, Shengke Building, 320 Yueyang Road, Shanghai, China. <br>
       <br>
 ---
