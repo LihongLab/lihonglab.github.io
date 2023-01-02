@@ -11,7 +11,7 @@ toc_icon: "bars"
 
 ## December
 
-* Congrats to professor Li for being awarded for "2022 Excellent Member Award, Youth Innovation Promotion Association, Chinese Academy of Sciences " !
+* Congrats to professor Li for being awarded for "2022 Excellent Member Award, Youth Innovation Promotion Association, Chinese Academy of Sciences" !
 
 * Cancer Systems Biology group contributes a benchmarking paper entitled [“A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications”](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac605/6961794?utm_source=authortollfreelink&utm_campaign=bib&utm_medium=email&guestAccessKey=b7e964fc-aafa-438c-8414-a8bdc22e2313) in _Briefings in Bioinformatics_.
 

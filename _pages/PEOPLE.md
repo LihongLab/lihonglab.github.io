@@ -75,7 +75,7 @@ feature_row2:
       Key Laboratory of Computational Biology, <br>
       Shanghai Institute of Nutrition and Health (SINH), <br>
       Chinese Academy of Sciences (CAS) <br>
-      Email: lihong01:paperclip:sinh**.**ac**.**cn <br>
+      Email: lihong01:paperclip:sinh**.**ac**.**cn, lihong01:paperclip:sibs**.**ac**.**cn <br>
       <br>
 
       <small>
