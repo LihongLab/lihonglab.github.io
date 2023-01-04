@@ -33,7 +33,7 @@ Hu H#, **Li H#**, Jiao F, Han T, Zhuo M, Cui J, Li Y\*, Wang L\*. Association of
 
 ## 2022
 
-Shen, B.#, Feng, F.#, Li, K., Lin, P., Ma, L., & **Li, H\***. (2022). A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. *Briefings in bioinformatics*, bbac605. Advance online publication. [https://doi.org/10.1093/bib/bbac605](https://doi.org/10.1093/bib/bbac605)
+Shen, B.#, Feng, F.#, Li, K., Lin, P., Ma, L., & **Li, H\***. (2022). A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. *Briefings in bioinformatics*, bbac605. Advance online publication. [https://doi.org/10.1093/bib/bbac605](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac605/6961794?utm_source=authortollfreelink&utm_campaign=bib&utm_medium=email&guestAccessKey=b7e964fc-aafa-438c-8414-a8bdc22e2313)
 
 ## 2021
 
