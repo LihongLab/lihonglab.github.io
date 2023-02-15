@@ -7,6 +7,28 @@ toc_label: " "
 toc_icon: "bars"
 # classes: wide
 ---
+# 2023
+
+## February
+
+* Cancer Systems Biology group contributes a research paper entitled ["Kupffer cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers"](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00009-7) in Cell Stem Cell.
+
+<small>Stem cell-independent reprogramming of differentiated cells has recently been identified as an important paradigm for repairing injured tissues. Following periportal injury, mature hepatocytes re-activate reprogramming/progenitor-related genes (RRGs) and dedifferentiate into liver progenitor-like cells (LPLCs) in both mice and humans, which contribute remarkably to regeneration. However, it remains unknown which and how external factors trigger hepatocyte reprogramming. Here, by employing single-cell transcriptional profiling we reconstructed the cellular trajectory of LPLC formation and deciphered the key pathways underlying cellular state transition during the process (Figure 1). We found that immune related pathways were highly correlated with LPLC formation. By utilizing lineage-specific deletion tools, we uncovered that periportal-specific LPLC formation was initiated by regionally activated Kupffer cells but not peripheral monocyte-derived macrophages (Figure 2). Unexpectedly, using in vivo screening, the proinflammatory factor IL-6 was identified as the niche signal repurposed for RRG induction via STAT3 activation, which drove RRG expression through binding to their pre-accessible enhancers. Notably, RRGs were activated through injury-specific rather than liver embryogenesis-related enhancers. Collectively, these findings depict an injury-specific niche signal and the inflammation-mediated transcription in driving the conversion of hepatocytes into a progenitor phenotype (Figure 2). Lu Li, Lei Cui from Shanghai Institute of Biochemistry and Cell Biology (SIBCB), Center for Excellence in Molecular Cell Science, CAS and Ping Lin from Cancer Systems Biology group at Shanghai Institute of Nutrition and Health (SINH), CAS serve as co-first authors. Professor Lijian Hui from SIBCB, Center for Excellence in Molecular Cell Science, CAS, Professor Hong Li from Cancer Systems Biology group at SINH, CAS and Professor Yixue Li from SINH, CAS serves as the co-corresponding authors. This work was supported by the funding from Chinese Academy of Sciences, the National Key Research and Development Project, the National Natural Science Foundation of China, CAS Youth Innovation Promotion Association, Shanghai Science and Technology Committee, Shanghai Municipal Science and Technology Major Project, and the Shanghai Sailing Program.</small>
+
+<figure class="half">
+  <a href="/assets/img/news/CSC2023Fig1.png" title="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation" alt="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation">
+  <img src="/assets/img/news/CSC2023Fig1.png" title="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation" alt="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation"></a>
+  <a href="/assets/img/news/CSC2023Fig2.png" title="Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6" alt="Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6">
+  <img src="/assets/img/news/CSC2023Fig2.png" title="Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6" alt="Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6"></a>
+</figure>
+
+For more information, please refer to: 
+[https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00009-7](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00009-7)
+[https://mp.weixin.qq.com/s/AZETQGZwPaWNrsHOVvGwog](https://mp.weixin.qq.com/s/AZETQGZwPaWNrsHOVvGwog)
+[https://mp.weixin.qq.com/s/RPDX-sPLKQ-O45TZIgcfHg](https://mp.weixin.qq.com/s/RPDX-sPLKQ-O45TZIgcfHg)
+[http://www.sinh.ac.cn/xwgg/kyjz/202302/t20230214_6677647.html](http://www.sinh.ac.cn/xwgg/kyjz/202302/t20230214_6677647.html)
+
+
 # 2022
 
 ## December
