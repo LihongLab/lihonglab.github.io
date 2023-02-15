@@ -2,18 +2,19 @@
 main:
   - title: "HOME"
     url: https://lihonglab.github.io/
-  - title: "PUBLICATIONS"
-    url: "/PUBLICATIONS/"
   - title: "PEOPLE"
     url: "/PEOPLE/"
-  - title: "JOIN US"
-    url: "/join_us/"
+  - title: "PUBLICATIONS"
+    url: "/PUBLICATIONS/"
   - title: "NEWS"
     url: "/NEWS/"
+  - title: "JOIN US"
+    url: "/join_us/"
   - title: "GALLERY"
     url: "/GALLERY/"
   - title: "CONTACT"
     url: "/CONTACT/"
+
 #  - title:
 #    url: 
 #  - title:
