@@ -19,7 +19,7 @@ toc_icon: "bars"
 <small> [https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00009-7](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00009-7); [https://mp.weixin.qq.com/s/AZETQGZwPaWNrsHOVvGwog](https://mp.weixin.qq.com/s/AZETQGZwPaWNrsHOVvGwog); [https://mp.weixin.qq.com/s/RPDX-sPLKQ-O45TZIgcfHg](https://mp.weixin.qq.com/s/RPDX-sPLKQ-O45TZIgcfHg); [http://www.sinh.ac.cn/xwgg/kyjz/202302/t20230214_6677647.html](http://www.sinh.ac.cn/xwgg/kyjz/202302/t20230214_6677647.html)
 </small>
 
-<figure style="width: 50%;" class="align-center">
+<figure class="half">
   <a href="/assets/img/news/CSC2023Fig1.png" title="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation" alt="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation">
   <img src="/assets/img/news/CSC2023Fig1.png" title="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation" alt="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation"></a>
   <a href="/assets/img/news/CSC2023Fig2.png" title="Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6" alt="Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6">
