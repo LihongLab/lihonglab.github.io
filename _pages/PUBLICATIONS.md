@@ -13,7 +13,9 @@ layout: single
 ---
 # Selected publications
 
-Shen, B.#, Feng, F.#, Li, K., Lin, P., Ma, L., & **Li, H\***. (2022). A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. *Briefings in bioinformatics*, bbac605. Advance online publication. [PDF](/assets/pdf/bbac605.pdf){: .btn .btn--info}
+Li, L.#, Cui, L.#, Lin, P.#, Liu, Z., Bao, S., Ma, X., Nan, H., Zhu, W., Cen, J., Mao, Y., Ma, X., Jiang, L., Nie, Y., Ginhoux, F., Li, Y.\*, **Li, H.\***, & Hui, L\*. Kupffer-cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers. Cell Stem Cell. [PDF](/assets/pdf/1-s2.0-S1934590923000097-main.pdf){: .btn .btn--info}
+
+Shen, B.#, Feng, F.#, Li, K., Lin, P., Ma, L., & **Li, H\***. (2022). A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. Briefings in bioinformatics, bbac605. Advance online publication. [PDF](/assets/pdf/bbac605.pdf){: .btn .btn--info}
 
 Yang J#, Lin P#, Yang M#, Liu W, Fu X, Liu D, Tao L, Huo Y, Zhang J, Hua R, Zhang Z\*, Li Y\*, Wang L\*, Xue J\*, **Li H\***, Sun Y\*. Integrated genomic and transcriptomic analysis reveals unique characteristics of hepatic metastases and pro-metastatic role of complement C1q in pancreatic ductal adenocarcinoma. Genome biology 2021, 22(1): 4. [PDF](/assets/pdf/s13059-020-02222-w.pdf){: .btn .btn--info}
 
@@ -30,6 +32,10 @@ Cheng J#, Wei D, Ji Y, Chen L, Yang L, Li G, Wu L, Hou T, Xie L, Ding G, **Li H\
 Hu H#, **Li H#**, Jiao F, Han T, Zhuo M, Cui J, Li Y\*, Wang L\*. Association of a novel point mutation in MSH2 gene with familial multiple primary cancers. J Hematol Oncol 2017 Oct 3;10(1):158. [PDF](/assets/pdf/s13045-017-0523-y.pdf){: .btn .btn--info}
 
 # All publications
+
+## 2023
+
+Li, L.#, Cui, L.#, Lin, P.#, Liu, Z., Bao, S., Ma, X., Nan, H., Zhu, W., Cen, J., Mao, Y., Ma, X., Jiang, L., Nie, Y., Ginhoux, F., Li, Y.\*, **Li, H.\***, & Hui, L\*. Kupffer-cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers. Cell Stem Cell. [https://doi.org/10.1016/j.stem.2023.01.009](https://doi.org/10.1016/j.stem.2023.01.009) 
 
 ## 2022
 
