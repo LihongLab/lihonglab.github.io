@@ -13,7 +13,7 @@ layout: single
 ---
 # Selected publications
 
-Li, L.#, Cui, L.#, Lin, P.#, Liu, Z., Bao, S., Ma, X., Nan, H., Zhu, W., Cen, J., Mao, Y., Ma, X., Jiang, L., Nie, Y., Ginhoux, F., Li, Y.\*, **Li, H.\***, & Hui, L\*. Kupffer-cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers. Cell Stem Cell. [PDF](/assets/pdf/1-s2.0-S1934590923000097-main.pdf){: .btn .btn--info}
+Li, L.#, Cui, L.#, Lin, P.#, Liu, Z., Bao, S., Ma, X., Nan, H., Zhu, W., Cen, J., Mao, Y., Ma, X., Jiang, L., Nie, Y., Ginhoux, F., Li, Y.\*, **Li, H.\***, & Hui, L\*. (2023). Kupffer-cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers. Cell Stem Cell. [PDF](/assets/pdf/1-s2.0-S1934590923000097-main.pdf){: .btn .btn--info}
 
 Shen, B.#, Feng, F.#, Li, K., Lin, P., Ma, L., & **Li, H\***. (2022). A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. Briefings in bioinformatics, bbac605. Advance online publication. [PDF](/assets/pdf/bbac605.pdf){: .btn .btn--info}
 
@@ -35,7 +35,7 @@ Hu H#, **Li H#**, Jiao F, Han T, Zhuo M, Cui J, Li Y\*, Wang L\*. Association of
 
 ## 2023
 
-Li, L.#, Cui, L.#, Lin, P.#, Liu, Z., Bao, S., Ma, X., Nan, H., Zhu, W., Cen, J., Mao, Y., Ma, X., Jiang, L., Nie, Y., Ginhoux, F., Li, Y.\*, **Li, H.\***, & Hui, L\*. Kupffer-cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers. Cell Stem Cell. [https://doi.org/10.1016/j.stem.2023.01.009](https://doi.org/10.1016/j.stem.2023.01.009) 
+Li, L.#, Cui, L.#, Lin, P.#, Liu, Z., Bao, S., Ma, X., Nan, H., Zhu, W., Cen, J., Mao, Y., Ma, X., Jiang, L., Nie, Y., Ginhoux, F., Li, Y.\*, **Li, H.\***, & Hui, L\*. (2023). Kupffer-cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers. Cell Stem Cell. [https://doi.org/10.1016/j.stem.2023.01.009](https://doi.org/10.1016/j.stem.2023.01.009) 
 
 ## 2022
 
