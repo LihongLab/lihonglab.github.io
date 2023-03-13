@@ -51,7 +51,7 @@ feature_row:
     excerpt: >
       M.Sc. Student <br>
       yanxi2021:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/chenwanhong.jpg
+  - image_path: /assets/img/pic/chenwanhong1.jpg
     title: "Wanhong Chen"
     excerpt: >
       M.Sc. Student <br>
