@@ -30,7 +30,7 @@ feature_row:
     excerpt: >
       Ph.D. Student <br>
       lijiarong2020:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/shenbihan1.jpg
+  - image_path: /assets/img/pic/shenbihan01.jpg
     alt: "placeholder image 2"
     title: "Bihan Shen"
     excerpt: >
