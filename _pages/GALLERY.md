@@ -75,8 +75,8 @@ gallery:
   <a href="/assets/img/gallery/2021-12-02.jpg" title="2021-12-02" alt="2021-12-02">
   <img src="/assets/img/gallery/2021-12-02.jpg" title="2021-12-02" alt="2021-12-02"></a>
 
-  <a href="/assets/img/gallery/2022-02-18.jpg" title="GRAD" alt="GRAD">
-  <img src="/assets/img/gallery/2022-02-18.jpg" title="GRAD" alt="GRAD"></a>
+  <a href="/assets/img/gallery/2023-02-18.jpg" title="GRAD" alt="GRAD">
+  <img src="/assets/img/gallery/2023-02-18.jpg" title="GRAD" alt="GRAD"></a>
 
   <a href="/assets/img/gallery/2022-02-28.jpg" title="CCBSB 2022" alt="CCBSB 2022">
   <img src="/assets/img/gallery/2022-02-28.jpg" title="CCBSB 2022" alt="CCBSB 2022"></a>
