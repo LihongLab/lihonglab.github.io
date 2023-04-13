@@ -1,8 +1,9 @@
 ---
 title: "Gallery"
 permalink: /GALLERY/
-layout: single
+# layout: single
 # classes: wide
+# toc: false
 header:
   overlay_color: "#000"
   overlay_filter: "0"
@@ -41,15 +42,15 @@ gallery:
   #   image_path: /assets/img/gallery/2020-12-26.jpg
   #   alt: "Christmas"
   #   title: "Christmas 2020-12-25"
-gallery1:
-  - url: /assets/img/gallery/2023-01-28.jpg
-    image_path: /assets/img/gallery/2023-01-28.jpg
-    alt: "GRAD"
-    title: "GRAD 2023-02-18"
-  - url: /assets/img/gallery/2023-02-28.jpg
-    image_path: /assets/img/gallery/2023-02-28.jpg
-    alt: "CCBSB 2022"
-    title: "CCBSB 2023-02-28"
+# gallery1:
+#   - url: /assets/img/gallery/2023-01-28.jpg
+#     image_path: /assets/img/gallery/2023-01-28.jpg
+#     alt: "GRAD"
+#     title: "GRAD 2023-02-18"
+#   - url: /assets/img/gallery/2023-02-28.jpg
+#     image_path: /assets/img/gallery/2023-02-28.jpg
+#     alt: "CCBSB 2022"
+#     title: "CCBSB 2023-02-28"
   # - url: /assets/img/gallery/2021-12-31.jpg
   #   image_path: /assets/img/gallery/2021-12-31.jpg
   #   alt: "New Year's Eve"
@@ -68,14 +69,21 @@ gallery1:
   #   title: "Summer Ride 2022-07-28"
 ---
 
-<div class="feature__wrapper">
-<h1>Academic Events</h1>
-</div>
+# Academic Events
 
-{% include gallery1 %}
+<figure class="third">
+  <a href="/assets/img/gallery/2021-12-02.jpg" title="2021-12-02" alt="2021-12-02">
+  <img src="/assets/img/gallery/2021-12-02.jpg" title="2021-12-02" alt="2021-12-02"></a>
 
-<div class="feature__wrapper">
-<h1>Happy Moments</h1>
-</div>
+  <a href="/assets/img/gallery/2022-02-18.jpg" title="GRAD" alt="GRAD">
+  <img src="/assets/img/gallery/2022-02-18.jpg" title="GRAD" alt="GRAD"></a>
 
-{% include gallery %}
+  <a href="/assets/img/gallery/2022-02-28.jpg" title="CCBSB 2022" alt="CCBSB 2022">
+  <img src="/assets/img/gallery/2022-02-28.jpg" title="CCBSB 2022" alt="CCBSB 2022"></a>
+
+</figure>
+
+
+# Happy Moments
+
+{% include gallery id="gallery" %}
