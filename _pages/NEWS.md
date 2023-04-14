@@ -24,6 +24,13 @@ toc_icon: "bars"
 <small> [https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00009-7](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00009-7); [https://mp.weixin.qq.com/s/AZETQGZwPaWNrsHOVvGwog](https://mp.weixin.qq.com/s/AZETQGZwPaWNrsHOVvGwog); [https://mp.weixin.qq.com/s/RPDX-sPLKQ-O45TZIgcfHg](https://mp.weixin.qq.com/s/RPDX-sPLKQ-O45TZIgcfHg); [http://www.sinh.ac.cn/xwgg/kyjz/202302/t20230214_6677647.html](http://www.sinh.ac.cn/xwgg/kyjz/202302/t20230214_6677647.html)
 </small>
 
+* Congrats to Siyu Jing for being awarded for "2022 Best Research Report Award" in GRAD !
+
+<figure class="align-center">
+  <a href="/assets/img/news/GRAD2022.jpg" title="GRAD2022" alt="GRAD2022">
+  <img src="/assets/img/news/GRAD2022.jpg" title="GRAD2022" alt="GRAD2022"></a>
+</figure>
+
 # 2022
 
 ## December
