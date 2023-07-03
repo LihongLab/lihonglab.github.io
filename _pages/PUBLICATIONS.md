@@ -13,7 +13,7 @@ layout: single
 ---
 # Selected publications
 
-Lin, P.#, Yan, X., Jing, S., Wu, Y., Shan, Y., Guo, W., Gu, J., Li, Y., Zhang, H., & **Li, H.\*** (2023). Single-cell and spatially resolved transcriptomics for liver biology. *Hepatology (Baltimore, Md.)*, 10.1097/HEP.0000000000000387. Advance online publication. <i class="fa-regular fa-file-pdf"></i> [PDF](/assets/pdf/Single_cell_and_spatially_resolved_transcriptomics_for_liver_biology.pdf){: .btn .btn--info}
+Lin, P.#, Yan, X., Jing, S., Wu, Y., Shan, Y., Guo, W., Gu, J., Li, Y., Zhang, H., & **Li, H.\*** (2023). Single-cell and spatially resolved transcriptomics for liver biology. *Hepatology (Baltimore, Md.)*, 10.1097/HEP.0000000000000387. Advance online publication. <i class="fa-light fa-file-pdf" aria-hidden="true"></i> <i class="fa-light fa-newspaper" aria-hidden="true"></i> [PDF](/assets/pdf/Single_cell_and_spatially_resolved_transcriptomics_for_liver_biology.pdf){: .btn .btn--info}
 
 Li, L.#, Cui, L.#, Lin, P.#, Liu, Z., Bao, S., Ma, X., Nan, H., Zhu, W., Cen, J., Mao, Y., Ma, X., Jiang, L., Nie, Y., Ginhoux, F., Li, Y.\*, **Li, H.\***, & Hui, L\*. (2023). Kupffer-cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers. Cell Stem Cell. [PDF](/assets/pdf/1-s2.0-S1934590923000097-main.pdf){: .btn .btn--info}
 
