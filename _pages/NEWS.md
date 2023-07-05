@@ -25,10 +25,10 @@ toc_icon: "bars"
   <img src="/assets/img/news/HEP2023Fig2b.png" title="Figure 2b"></a>
   <a href="/assets/img/news/HEP2023Fig3.png" title="Figure 3">
   <img src="/assets/img/news/HEP2023Fig3.png" title="Figure 3"></a>
-  <a href="/assets/img/news/HEP2023Fig4.png" title="Figure 4">
-  <img src="/assets/img/news/HEP2023Fig4.png" title="Figure 4"></a>
-  <a href="/assets/img/news/HEP2023Fig5.png" title="Figure 5">
-  <img src="/assets/img/news/HEP2023Fig5.png" title="Figure 5"></a>
+  <a href="/assets/img/news/HEP2023Fig5.png" title="Figure 4">
+  <img src="/assets/img/news/HEP2023Fig5.png" title="Figure 4"></a>
+  <a href="/assets/img/news/HEP2023Fig6.png" title="Figure 5">
+  <img src="/assets/img/news/HEP2023Fig6.png" title="Figure 5"></a>
 </figure>
 
 <small>Recently, our lab contributes a review article entitled “Single-cell and spatially resolved transcriptomics for liver biology”. We introduced the basic knowledge about single-cell and spatially resolved techniques and the state-of-art computational tools used for data processing. Four common scenes were summarized when applying these techniques in the study of liver biology: (a) constructing the liver single-cell atlas; (b) the deduction of cellular transitions; (c) the characterization of tissue microenvironments; (d) the identification of potential therapy targets (Fig. 1). The four scenarios were seen in the settings of liver homeostasis, embryonic liver development, liver regeneration, non-alcoholic liver disease (NAFLD) and liver cancer. In each topic, we presented the cutting-edge progresses uncovered by single-cell and/or spatial techniques, such as the single-cell atlas of the liver under both diseased and homeostatic conditions (Fig. 2a), transcriptomic zonal patterns of hepatic cells (Fig. 2b), developmental trajectory of embryonic liver (Fig. 3), cell identity conversion of parenchymal cells upon injury, NAFLD-associated cell subtypes (Fig. 4), and cancer-associated cell populations within tumor microenvironments (Fig. 5). We highlighted the computational strategies that help achieve these accomplishments; and discussed the outstanding questions remaining elusive. Lastly, we pointed out the challenges when applying these technologies to the liver biology, and for each of which, we proposed possible solutions.</small>
@@ -41,7 +41,7 @@ toc_icon: "bars"
 
 ## February
 
-* Cancer Systems Biology group contributes a research paper entitled ["Kupffer cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers"](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00009-7) in _Cell Stem Cell_.
+* Cancer Systems Biology group contributes a research paper entitled ["Kupffer cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers"](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00009-7) in _Cell Stem Cell_. <a href="http://www.sinh.ac.cn/xwgg/kyjz/202302/t20230214_6677647.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 <figure class="align-center">
   <a href="/assets/img/news/CSC2023Fig3.png" title="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation; Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6" alt="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation; Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6.">
@@ -51,7 +51,9 @@ toc_icon: "bars"
 <small>Stem cell-independent reprogramming of differentiated cells has recently been identified as an important paradigm for repairing injured tissues. Following periportal injury, mature hepatocytes re-activate reprogramming/progenitor-related genes (RRGs) and dedifferentiate into liver progenitor-like cells (LPLCs) in both mice and humans, which contribute remarkably to regeneration. However, it remains unknown which and how external factors trigger hepatocyte reprogramming. Here, by employing single-cell transcriptional profiling we reconstructed the cellular trajectory of LPLC formation and deciphered the key pathways underlying cellular state transition during the process (Figure 1). We found that immune related pathways were highly correlated with LPLC formation. By utilizing lineage-specific deletion tools, we uncovered that periportal-specific LPLC formation was initiated by regionally activated Kupffer cells but not peripheral monocyte-derived macrophages (Figure 2). Unexpectedly, using in vivo screening, the proinflammatory factor IL-6 was identified as the niche signal repurposed for RRG induction via STAT3 activation, which drove RRG expression through binding to their pre-accessible enhancers. Notably, RRGs were activated through injury-specific rather than liver embryogenesis-related enhancers. Collectively, these findings depict an injury-specific niche signal and the inflammation-mediated transcription in driving the conversion of hepatocytes into a progenitor phenotype (Figure 2). Lu Li, Lei Cui from Shanghai Institute of Biochemistry and Cell Biology (SIBCB), Center for Excellence in Molecular Cell Science, CAS and Ping Lin from Cancer Systems Biology group at Shanghai Institute of Nutrition and Health (SINH), CAS serve as co-first authors. Professor Lijian Hui from SIBCB, Center for Excellence in Molecular Cell Science, CAS, Professor Hong Li from Cancer Systems Biology group at SINH, CAS and Professor Yixue Li from SINH, CAS serves as the co-corresponding authors. This work was supported by the funding from Chinese Academy of Sciences, the National Key Research and Development Project, the National Natural Science Foundation of China, CAS Youth Innovation Promotion Association, Shanghai Science and Technology Committee, Shanghai Municipal Science and Technology Major Project, and the Shanghai Sailing Program.</small>
 
 <small>For more information, please refer to: </small>
-<small> [https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00009-7](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00009-7); [https://mp.weixin.qq.com/s/AZETQGZwPaWNrsHOVvGwog](https://mp.weixin.qq.com/s/AZETQGZwPaWNrsHOVvGwog); [https://mp.weixin.qq.com/s/RPDX-sPLKQ-O45TZIgcfHg](https://mp.weixin.qq.com/s/RPDX-sPLKQ-O45TZIgcfHg); [http://www.sinh.ac.cn/xwgg/kyjz/202302/t20230214_6677647.html](http://www.sinh.ac.cn/xwgg/kyjz/202302/t20230214_6677647.html)
+<small> 
+<a href="https://mp.weixin.qq.com/s/AZETQGZwPaWNrsHOVvGwog" rel="nofollow noopener noreferrer"><i class="fa-solid fa-link" aria-hidden="true"></i>BioArt</a>
+<a href="https://mp.weixin.qq.com/s/RPDX-sPLKQ-O45TZIgcfHg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-link" aria-hidden="true"></i>iNature</a>
 </small>
 
 * Congrats to Siyu Jing for being awarded for "2022 Best Research Report Award" in GRAD !
@@ -67,7 +69,7 @@ toc_icon: "bars"
 
 * Congrats to professor Li for being awarded for "2022 Excellent Member Award, Youth Innovation Promotion Association, Chinese Academy of Sciences" !
 
-* Cancer Systems Biology group contributes a benchmarking paper entitled ["A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications"](https://mp.weixin.qq.com/s/09dBX0DAGto6RA0waZH4fw) in [_Briefings in Bioinformatics_](https://mp.weixin.qq.com/s/tjepBBL92wY890L4SD9ahg).
+* Cancer Systems Biology group contributes a benchmarking paper entitled ["A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications"](https://mp.weixin.qq.com/s/09dBX0DAGto6RA0waZH4fw) in _Briefings in Bioinformatics_. <a href="https://mp.weixin.qq.com/s/tjepBBL92wY890L4SD9ahg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 <figure class="half">
   <a href="/assets/img/news/BIB2022FIG3.jpg" title="Figure1. Overall performance of two typical deep learning paradigms for drug response prediction" alt="Figure1. Overall performance of two typical deep learning paradigms for drug response prediction">
