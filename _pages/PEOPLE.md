@@ -18,7 +18,7 @@ feature_row:
     excerpt: >
       Postdoc <br>
       linping:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/linping.jpg
+  - image_path: /assets/img/pic/tangzhixuan.jpg
     alt: "xxx"
     title: "Zhixuan Tang"
     excerpt: >
