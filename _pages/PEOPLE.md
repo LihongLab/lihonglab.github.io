@@ -19,7 +19,7 @@ feature_row:
       Postdoc <br>
       linping:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/tangzhixuan.jpg
-    alt: "xxx"
+    alt: "123"
     title: "Zhixuan Tang"
     excerpt: >
       Laboratory Manager <br>
