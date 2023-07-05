@@ -37,7 +37,7 @@ toc_icon: "bars"
 
 ## April
 * Congrats to professor Li for receiving the 2023 China Cell Biology Society-TianNeng Life Science Young Female Scientist Career Development Fund, category B ! <a href="https://www.thepaper.cn/newsDetail_forward_22710249" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
-* Congrats to Siyu Jing and Bihan Shen for being awarded for the 2023 Shanghai Branch of the Chinese Academy of Sciences "Rising Star in Technological Breakthroughs Award" ! <a href="http://www.sinh.cas.cn/xwgg/tzgg/202304/t20230420_6741935.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+* Congrats to Bihan Shen for being awarded for the 2023 Shanghai Branch of the Chinese Academy of Sciences "Rising Star in Technological Breakthroughs Award" ! <a href="http://www.sinh.cas.cn/xwgg/tzgg/202304/t20230420_6741935.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## February
 
