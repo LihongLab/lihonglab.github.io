@@ -9,6 +9,10 @@ toc_icon: "bars"
 ---
 # 2023
 
+## July
+* Welcome Fei Guo, Wenwen Zhang and Chenyihang Xiong for summer internship!
+* Welcome laboratory manager Zhixuan Tang to join our group!
+
 ## May
 * Cancer Systems Biology group contributes a review entitled ["Single-cell and spatially resolved transcriptomics for liver biology"](https://doi.org/10.1097/HEP.0000000000000387) in _Hepatology_. <a href="https://mp.weixin.qq.com/s/lJijLYq8vwityLLK8Ph3ew" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
@@ -29,6 +33,7 @@ toc_icon: "bars"
 
 <small>Recently, our lab contributes a review article entitled “Single-cell and spatially resolved transcriptomics for liver biology”. We introduced the basic knowledge about single-cell and spatially resolved techniques and the state-of-art computational tools used for data processing. Four common scenes were summarized when applying these techniques in the study of liver biology: (a) constructing the liver single-cell atlas; (b) the deduction of cellular transitions; (c) the characterization of tissue microenvironments; (d) the identification of potential therapy targets (Fig. 1). The four scenarios were seen in the settings of liver homeostasis, embryonic liver development, liver regeneration, non-alcoholic liver disease (NAFLD) and liver cancer. In each topic, we presented the cutting-edge progresses uncovered by single-cell and/or spatial techniques, such as the single-cell atlas of the liver under both diseased and homeostatic conditions (Fig. 2a), transcriptomic zonal patterns of hepatic cells (Fig. 2b), developmental trajectory of embryonic liver (Fig. 3), cell identity conversion of parenchymal cells upon injury, NAFLD-associated cell subtypes (Fig. 4), and cancer-associated cell populations within tumor microenvironments (Fig. 5). We highlighted the computational strategies that help achieve these accomplishments; and discussed the outstanding questions remaining elusive. Lastly, we pointed out the challenges when applying these technologies to the liver biology, and for each of which, we proposed possible solutions.</small>
 
+* Welcome Jingxuan Cai for summer internship!
 
 ## April
 * Congrats to professor Li for receiving the 2023 China Cell Biology Society-TianNeng Life Science Young Female Scientist Career Development Fund, category B ! <a href="https://www.thepaper.cn/newsDetail_forward_22710249" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
