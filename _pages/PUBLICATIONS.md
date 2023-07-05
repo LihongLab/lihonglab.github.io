@@ -13,9 +13,7 @@ layout: single
 ---
 # Selected publications
 
-Lin, P.#, Yan, X., Jing, S., Wu, Y., Shan, Y., Guo, W., Gu, J., Li, Y., Zhang, H., & **Li, H.\*** (2023). Single-cell and spatially resolved transcriptomics for liver biology. *Hepatology (Baltimore, Md.)*, 10.1097/HEP.0000000000000387. Advance online publication. <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> <i class="fa-regular fa-newspaper" aria-hidden="true"></i> <i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> <a href="www.baidu.com" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> </a>
-
-[PDF](/assets/pdf/Single_cell_and_spatially_resolved_transcriptomics_for_liver_biology.pdf){: .btn .btn--info}
+Lin, P.#, Yan, X., Jing, S., Wu, Y., Shan, Y., Guo, W., Gu, J., Li, Y., Zhang, H., & **Li, H.\*** (2023). Single-cell and spatially resolved transcriptomics for liver biology. *Hepatology (Baltimore, Md.)*, 10.1097/HEP.0000000000000387. Advance online publication. <a href="/assets/pdf/Single_cell_and_spatially_resolved_transcriptomics_for_liver_biology.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/lJijLYq8vwityLLK8Ph3ew" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Li, L.#, Cui, L.#, Lin, P.#, Liu, Z., Bao, S., Ma, X., Nan, H., Zhu, W., Cen, J., Mao, Y., Ma, X., Jiang, L., Nie, Y., Ginhoux, F., Li, Y.\*, **Li, H.\***, & Hui, L\*. (2023). Kupffer-cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers. Cell Stem Cell. [PDF](/assets/pdf/1-s2.0-S1934590923000097-main.pdf){: .btn .btn--info}
 
