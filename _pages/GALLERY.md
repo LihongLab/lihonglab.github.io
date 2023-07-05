@@ -34,6 +34,18 @@ gallery:
     image_path: /assets/img/gallery/2022-07-28.jpg
     alt: "Summer Ride 2022-07-28"
     title: "Summer Ride 2022-07-28"
+  - url: /assets/img/gallery/2022-11-12.jpg
+    image_path: /assets/img/gallery/2022-11-12.jpg
+    alt: "Dishui Lake 2022-11-12"
+    title: "Dishui Lake 2022-11-12"
+  - url: /assets/img/gallery/2023-06-25.jpg
+    image_path: /assets/img/gallery/2023-06-25.jpg
+    alt: "Home Party 2023-06-25"
+    title: "Home Party 2023-06-25"
+  - url: /assets/img/gallery/2023-06-26.jpg
+    image_path: /assets/img/gallery/2023-06-26.jpg
+    alt: "Home Party 2023-06-25"
+    title: "Home Party 2023-06-25"
   # - url: /assets/img/gallery/2022-2-25.jpg
   #   image_path: /assets/img/gallery/2022-2-25.jpg
   #   alt: "Hot Pot Party"
@@ -71,15 +83,21 @@ gallery:
 
 # Academic Events
 
-<figure class="third">
-  <a href="/assets/img/gallery/2021-12-02.jpg" title="2021-12-02" alt="2021-12-02">
-  <img src="/assets/img/gallery/2021-12-02.jpg" title="2021-12-02" alt="2021-12-02"></a>
+<figure class="half">
+  <!-- <a href="/assets/img/gallery/2021-12-02.jpg" title="2021-12-02" alt="2021-12-02">
+  <img src="/assets/img/gallery/2021-12-02.jpg" title="2021-12-02" alt="2021-12-02"></a> -->
 
   <a href="/assets/img/gallery/2023-02-18.jpg" title="GRAD" alt="GRAD">
   <img src="/assets/img/gallery/2023-02-18.jpg" title="GRAD" alt="GRAD"></a>
 
   <a href="/assets/img/gallery/2022-02-28.jpg" title="CCBSB 2022" alt="CCBSB 2022">
   <img src="/assets/img/gallery/2022-02-28.jpg" title="CCBSB 2022" alt="CCBSB 2022"></a>
+
+  <a href="/assets/img/gallery/2023-04-10.jpg" title="CSCB 2023-04" alt="CSCB 2023-04">
+  <img src="/assets/img/gallery/2023-04-10.jpg" title="CSCB 2023-04" alt="CSCB 2023-04"></a>
+
+  <a href="/assets/img/gallery/2023-06-19.jpg" title="BIIP 2023-06" alt="BIIP 2023-06">
+  <img src="/assets/img/gallery/2023-06-19.jpg" title="BIIP 2023-06" alt="BIIP 2023-06"></a>
 
 </figure>
 
