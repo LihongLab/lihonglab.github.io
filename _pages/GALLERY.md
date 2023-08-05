@@ -99,6 +99,9 @@ gallery:
   <a href="/assets/img/gallery/2023-06-19.jpg" title="BIIP 2023-06" alt="BIIP 2023-06">
   <img src="/assets/img/gallery/2023-06-19.jpg" title="BIIP 2023-06" alt="BIIP 2023-06"></a>
 
+  <a href="/assets/img/gallery/2023-08-04.jpg" title="GFS2023 2023-08" alt="GFS2023 2023-08">
+  <img src="/assets/img/gallery/2023-08-04.jpg" title="GFS2023 2023-08" alt="GFS2023 2023-08"></a>
+
 </figure>
 
 
