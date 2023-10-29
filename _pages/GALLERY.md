@@ -99,8 +99,29 @@ gallery:
   <a href="/assets/img/gallery/2023-06-19.jpg" title="BIIP 2023-06" alt="BIIP 2023-06">
   <img src="/assets/img/gallery/2023-06-19.jpg" title="BIIP 2023-06" alt="BIIP 2023-06"></a>
 
+  <a href="/assets/img/gallery/2023-07-20.jpg" title="生物物理大会 2023-07" alt="生物物理大会 2023-07">
+  <img src="/assets/img/gallery/2023-07-20.jpg" title="生物物理大会 2023-07" alt="生物物理大会 2023-07"></a>
+
   <a href="/assets/img/gallery/2023-08-04.jpg" title="GFS2023 2023-08" alt="GFS2023 2023-08">
   <img src="/assets/img/gallery/2023-08-04.jpg" title="GFS2023 2023-08" alt="GFS2023 2023-08"></a>
+
+  <a href="/assets/img/gallery/2023-10-14.jpg" title="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10" alt="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10">
+  <img src="/assets/img/gallery/2023-10-14.jpg" title="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10" alt="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10"></a>
+
+  <a href="/assets/img/gallery/2023-10-15.jpg" title="Quantitative Biology 2023-10" alt="Quantitative Biology 2023-10">
+  <img src="/assets/img/gallery/2023-10-15.jpg" title="Quantitative Biology 2023-10" alt="Quantitative Biology 2023-10"></a>
+
+  <a href="/assets/img/gallery/2023-10-21.jpg" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10">
+  <img src="/assets/img/gallery/2023-10-21.jpg" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10"></a>
+
+  <a href="/assets/img/gallery/2023-10-21-22.jpg" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10">
+  <img src="/assets/img/gallery/2023-10-21-22.jpg" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10"></a>
+  
+  <a href="/assets/img/gallery/2023-10-22.jpg" title="临床组学与人工智能大会 2023-10" alt="临床组学与人工智能大会 2023-10">
+  <img src="/assets/img/gallery/2023-10-22.jpg" title="临床组学与人工智能大会 2023-10" alt="临床组学与人工智能大会 2023-10"></a>
+
+  <a href="/assets/img/gallery/2023-10-24.jpg" title="交叉科学部第三届青年学术研讨会 2023-10" alt="交叉科学部第三届青年学术研讨会 2023-10">
+  <img src="/assets/img/gallery/2023-10-24.jpg" title="交叉科学部第三届青年学术研讨会 2023-10" alt="交叉科学部第三届青年学术研讨会 2023-10"></a>
 
 </figure>
 

@@ -45,6 +45,8 @@ Li, L.#, Cui, L.#, Lin, P.#, Liu, Z., Bao, S., Ma, X., Nan, H., Zhu, W., Cen, J.
 
 Shen, B.#, Feng, F.#, Li, K., Lin, P., Ma, L., & **Li, H\***. (2022). A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. *Briefings in bioinformatics*, bbac605. Advance online publication. [https://doi.org/10.1093/bib/bbac605](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac605/6961794?utm_source=authortollfreelink&utm_campaign=bib&utm_medium=email&guestAccessKey=b7e964fc-aafa-438c-8414-a8bdc22e2313) <a href="/assets/pdf/bbac605.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/tjepBBL92wY890L4SD9ahg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Liu D#, **Li H#**, Dong H#, Qu M, Yang L, Chen L, Li Y, Wang H*, He Y*. Spatial Multiomics Analysis Reveals Only Minor Genetic and Epigenetic Changes in Human Liver Cancer Stem-Like Cells Compared With Other Tumor Parenchymal Cells. Front Cell Dev Biol. 2022 Feb 9;10:810687. doi: 10.3389/fcell.2022.810687. PMID: 35223840; PMCID: PMC8863946.
+
 ## 2021
 
 Chen, Y., Zhou, C., Li, H., **Li, H.\***, & Li, Y\*. (2021). Identifying Key Genes for Nasopharyngeal Carcinoma by Prioritized Consensus Differentially Expressed Genes Caused by Aberrant Methylation. J Cancer, 12(3), 874-884. [https://doi.org/10.7150/jca.49392](https://doi.org/10.7150/jca.49392) 
