@@ -83,7 +83,7 @@ gallery:
 
 # Academic Events
 
-<figure class="half">
+<figure class="third">
   <!-- <a href="/assets/img/gallery/2021-12-02.jpg" title="2021-12-02" alt="2021-12-02">
   <img src="/assets/img/gallery/2021-12-02.jpg" title="2021-12-02" alt="2021-12-02"></a> -->
 
@@ -111,11 +111,11 @@ gallery:
   <a href="/assets/img/gallery/2023-10-15.jpg" title="Quantitative Biology 2023-10" alt="Quantitative Biology 2023-10">
   <img src="/assets/img/gallery/2023-10-15.jpg" title="Quantitative Biology 2023-10" alt="Quantitative Biology 2023-10"></a>
 
-  <a href="/assets/img/gallery/2023-10-21.jpg" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10">
-  <img src="/assets/img/gallery/2023-10-21.jpg" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10"></a>
+  <a href="/assets/img/gallery/2023-10-21.JPG" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10">
+  <img src="/assets/img/gallery/2023-10-21.JPG" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10"></a>
 
-  <a href="/assets/img/gallery/2023-10-21-22.jpg" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10">
-  <img src="/assets/img/gallery/2023-10-21-22.jpg" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10"></a>
+  <a href="/assets/img/gallery/2023-10-21-22.JPG" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10">
+  <img src="/assets/img/gallery/2023-10-21-22.JPG" title="生物信息学与计算生物学人才前沿论坛 2023-10" alt="生物信息学与计算生物学人才前沿论坛 2023-10"></a>
   
   <a href="/assets/img/gallery/2023-10-22.jpg" title="临床组学与人工智能大会 2023-10" alt="临床组学与人工智能大会 2023-10">
   <img src="/assets/img/gallery/2023-10-22.jpg" title="临床组学与人工智能大会 2023-10" alt="临床组学与人工智能大会 2023-10"></a>
