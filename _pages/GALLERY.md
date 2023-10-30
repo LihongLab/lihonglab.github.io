@@ -108,6 +108,9 @@ gallery:
   <a href="/assets/img/gallery/2023-10-14.jpg" title="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10" alt="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10">
   <img src="/assets/img/gallery/2023-10-14.jpg" title="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10" alt="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10"></a>
 
+  <a href="/assets/img/gallery/2023-10-16.jpg" title="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10" alt="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10">
+  <img src="/assets/img/gallery/2023-10-16.jpg" title="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10" alt="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10"></a>
+
   <a href="/assets/img/gallery/2023-10-15.jpg" title="Quantitative Biology 2023-10" alt="Quantitative Biology 2023-10">
   <img src="/assets/img/gallery/2023-10-15.jpg" title="Quantitative Biology 2023-10" alt="Quantitative Biology 2023-10"></a>
 
