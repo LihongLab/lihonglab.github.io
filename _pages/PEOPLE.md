@@ -16,7 +16,7 @@ feature_row:
     alt: "xxx"
     title: "Ping Lin"
     excerpt: >
-      Postdoc <br>
+      Associate Professor <br>
       linping:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/tangzhixuan.jpg
     alt: "123"
