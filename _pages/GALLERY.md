@@ -129,8 +129,8 @@ gallery:
   <a href="/assets/img/gallery/2023-11-22.jpg" title="SINH年会 2023-11" alt="SINH年会 2023-11">
   <img src="/assets/img/gallery/2023-11-22.jpg" title="SINH年会 2023-11" alt="SINH年会 2023-11"></a>
 
-  <a href="/assets/img/gallery/2023-12-25.jpg" title="2023BDTC 2023-12" alt="2023BDTC 2023-12">
-  <img src="/assets/img/gallery/2023-12-25.jpg" title="2023BDTC 2023-12" alt="2023BDTC 2023-12"></a>
+  <a href="/assets/img/gallery/2023-12-24.jpg" title="2023BDTC 2023-12" alt="2023BDTC 2023-12">
+  <img src="/assets/img/gallery/2023-12-24.jpg" title="2023BDTC 2023-12" alt="2023BDTC 2023-12"></a>
 
 </figure>
 

@@ -45,17 +45,17 @@ feature_row:
   - image_path: /assets/img/pic/likunshi.jpg
     title: "Kunshi Li"
     excerpt: >
-      M.Sc. Student <br>
+      Ph.D. Student <br>
       likunshi2021:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/wangheqi.jpg
     title: "Heqi Wang"
     excerpt: >
-      M.Sc. Student <br>
+      Ph.D. Student <br>
       wangheqi2021:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/yanxi.jpg
     title: "Xi Yan"
     excerpt: >
-      M.Sc. Student <br>
+      Ph.D. Student <br>
       yanxi2021:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/chenwanhong2.jpg
     title: "Wanhong Chen"
@@ -72,6 +72,16 @@ feature_row:
     excerpt: >
       M.Sc. Student <br>
       lixueliang2022:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/caijingxuan.jpg
+    title: "Jingxuan Cai"
+    excerpt: >
+      M.Sc. Student <br>
+      caijingxuan2023:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/yuanjiao.jpg
+    title: "Jiao Yuan"
+    excerpt: >
+      M.Sc. Student <br>
+      yuanjiao2023:paperclip:sinh**.**ac**.**cn
 feature_row2:
   - image_path: /assets/img/pic/lihong1.jpg
     alt: "Hong Li"
