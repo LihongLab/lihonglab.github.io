@@ -46,6 +46,18 @@ gallery:
     image_path: /assets/img/gallery/2023-06-26.jpg
     alt: "Home Party 2023-06-25"
     title: "Home Party 2023-06-25"
+  - url: /assets/img/gallery/2024-01-01.jpg
+    image_path: /assets/img/gallery/2024-01-01.jpg
+    alt: "Haidilao Hot Pot 2024-01-05"
+    title: "Haidilao Hot Pot 2024-01-05"
+  - url: /assets/img/gallery/2024-01-02.jpg
+    image_path: /assets/img/gallery/2024-01-02.jpg
+    alt: "MCITY 2024-01-05"
+    title: "MCITY 2024-01-05"
+  - url: /assets/img/gallery/2024-01-03.jpg
+    image_path: /assets/img/gallery/2024-01-03.jpg
+    alt: "MCITY 2024-01-05"
+    title: "MCITY 2024-01-05"
   # - url: /assets/img/gallery/2022-2-25.jpg
   #   image_path: /assets/img/gallery/2022-2-25.jpg
   #   alt: "Hot Pot Party"
