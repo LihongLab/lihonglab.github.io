@@ -58,79 +58,10 @@ gallery:
     image_path: /assets/img/gallery/2021-05-07.jpg
     alt: "Joint Meeting"
     title: "Joint Meeting 2021-05-07"
-gallery2:
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-01.jpg
-    image_path: /assets/img/gallery/2024-03-01.jpg
-    alt: "第三届长三角单细胞组学技术应用论坛暨空间组学前沿论坛 2024-03"
-    title: "第三届长三角单细胞组学技术应用论坛暨空间组学前沿论坛 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
-  - url: /assets/img/gallery/2024-03-31.jpg
-    image_path: /assets/img/gallery/2024-03-31.jpg
-    alt: "CSP2024 2024-03"
-    title: "CSP2024 2024-03"
+
 ---
 
 # Academic Events
-{% include gallery id="gallery2" %}
 
 <figure class="third">
 
