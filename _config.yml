@@ -140,7 +140,7 @@ footer:
       url: "http://www.sinh.cas.cn/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/LihongLab/"
+      url: "https://github.com/LiHongCSBLab/"
       # url:
     - label: "ResearchGate"
       icon: "fab fa-researchgate"

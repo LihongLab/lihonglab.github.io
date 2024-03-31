@@ -7,7 +7,25 @@ toc_label: " "
 toc_icon: "bars"
 # classes: wide
 ---
+# 2024
+## March
+* Congrats to professor Li for being awarded for the 2024 Shanghai Science and Technology System "March 8th Red-Banner Pacesetter" ! <a href="https://mp.weixin.qq.com/s/9VoGugtHL44hSb2lmo5BbQ" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+* Cancer Systems Biology group contributes a research paper entitled ["Applying machine learning for multi-individual Raman spectroscopic data to identify different stages of proliferating human hepatocytes"](https://doi.org/10.1016/j.isci.2024.109500) in _iScience_.
+
+<figure class="align-center">
+  <a href="/assets/img/news/ISC2024.jpg" title="Graphical abstract" alt="Graphical abstract">
+  <img src="/assets/img/news/ISC2024.jpg" title="Graphical abstract" alt="Graphical abstract"></a>
+</figure>
+
+<small>Cell therapy using proliferating human hepatocytes (ProliHHs) is an effective treatment approach for advanced liver diseases. However, rapid and accurate identification of high-quality ProliHHs from different donors is challenging due to individual heterogeneity. Here, we developed a machine learning framework to integrate single-cell Raman spectroscopy from multiple donors and identify different stages of ProliHHs. A repository of more than 14,000 Raman spectra, consisting of primary human hepatocytes (PHHs) and different passages of ProliHHs from six donors, was generated. Using a sliding window algorithm, potential biomarkers distinguishing the different cell stages were identified through differential analysis. Leveraging machine learning models, accurate classification of cell stages was achieved in both within-donor and cross-donor prediction tasks. Furthermore, the study assessed the relationship between donor and cell numbers and its impact on prediction accuracy, facilitating improved quality control design. A similar workflow can also be extended to encompass other cell types.</small>
+
+## January
+* We are Recruiting! Please contact us by email (lihong01:paperclip:sinh**.**ac**.**cn). <a href="https://mp.weixin.qq.com/s/uaxEfxhoeMX3E_xv92_c8w" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 # 2023
+## December
+* We welcome new graduate students Jingxuan Cai and Jiao Yuan to join our group!
+* Congrats to Bihan Shen for being awarded for "2023 Best Poster Award" in GRAD ! <a href="https://mp.weixin.qq.com/s/lyE2UrryXebuaJZ--X1LQg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## November
 * Welcome Jingxuan Cai and Jiao Yuan for Lab Rotation!

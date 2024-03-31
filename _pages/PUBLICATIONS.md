@@ -35,6 +35,9 @@ Hu H#, **Li H#**, Jiao F, Han T, Zhuo M, Cui J, Li Y\*, Wang L\*. Association of
 
 # All publications
 
+## 2024
+Shen, B.#, Ma, C.#, Tang, L., Wu, Z., Peng, Z., Pan, G.\*, & **Li, H.\*** (2024). Applying machine learning for multi-individual Raman spectroscopic data to identify different stages of proliferating human hepatocytes. iScience. [https://doi.org/10.1016/j.isci.2024.109500](https://doi.org/10.1016/j.isci.2024.109500) <a href="/assets/pdf/PIIS2589004224007211.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
+
 ## 2023
 
 Lin, P.#, Yan, X., Jing, S., Wu, Y., Shan, Y., Guo, W., Gu, J., Li, Y., Zhang, H., & **Li, H.\*** (2023). Single-cell and spatially resolved transcriptomics for liver biology. *Hepatology (Baltimore, Md.)*, 10.1097/HEP.0000000000000387. Advance online publication. [https://doi.org/10.1097/HEP.0000000000000387](https://doi.org/10.1097/HEP.0000000000000387) <a href="/assets/pdf/Single_cell_and_spatially_resolved_transcriptomics_for_liver_biology.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/lJijLYq8vwityLLK8Ph3ew" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
