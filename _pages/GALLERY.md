@@ -7,8 +7,8 @@ permalink: /GALLERY/
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/img/photos/header3.jpg
-excerpt: " <br> <br> <br>"
+  overlay_image: /assets/img/photos/header9.jpg
+# excerpt: " <br> <br> <br>"
 gallery:
   - url: /assets/img/gallery/2024-01-02.jpg
     image_path: /assets/img/gallery/2024-01-02.jpg

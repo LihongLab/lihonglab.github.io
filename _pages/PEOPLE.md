@@ -9,8 +9,8 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/img/photos/header2.jpg
-excerpt: " <br> <br> <br>"
+  overlay_image: /assets/img/photos/header8.jpg
+# excerpt: " <br> <br> <br>"
 feature_row:
   - image_path: /assets/img/pic/linping.jpg
     alt: "xxx"

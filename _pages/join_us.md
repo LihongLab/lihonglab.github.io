@@ -5,8 +5,8 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/img/photos/header1.jpg
-excerpt: " <br> <br> <br>"
+  overlay_image: /assets/img/photos/header7.jpg
+# excerpt: " <br> <br> <br>"
 intro: 
   - excerpt: 'The Cancer Systems Biology (CSB) group is recruiting bioinformatics graduate students, postdocs, and research scientists.'
 feature_row3:
