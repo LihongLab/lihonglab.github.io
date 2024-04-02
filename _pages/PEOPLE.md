@@ -23,7 +23,7 @@ feature_row:
     title: "Zhixuan Tang"
     excerpt: >
       Laboratory Manager <br>
-      tangzhixuan:paperclip:sinh**.**ac**.**cn
+      zxtang:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/jingsiyu.jpg
     alt: "placeholder image 2"
     title: "Siyu Jing"
