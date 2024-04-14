@@ -64,7 +64,9 @@ gallery:
 # Academic Events
 
 <figure class="third">
-
+  <a href="/assets/img/gallery/2024-04-13.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04">
+  <img src="/assets/img/gallery/2024-04-13.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04"></a>
+  
   <a href="/assets/img/gallery/2024-03-31.jpg" title="CSP2024 2024-03" alt="CSP2024 2024-03">
   <img src="/assets/img/gallery/2024-03-31.jpg" title="CSP2024 2024-03" alt="CSP2024 2024-03"></a>
 
