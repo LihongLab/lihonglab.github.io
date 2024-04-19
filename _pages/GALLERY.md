@@ -10,6 +10,18 @@ header:
   overlay_image: /assets/img/photos/header9.jpg
 # excerpt: " <br> <br> <br>"
 gallery:
+  - url: /assets/img/gallery/2024-04-19_1.jpg
+    image_path: /assets/img/gallery/2024-04-19_1.jpg
+    alt: "Hengsha Ride 2024-04-19"
+    title: "Hengsha Ride 2024-04-19"
+  - url: /assets/img/gallery/2024-04-19_2.jpg
+    image_path: /assets/img/gallery/2024-04-19_2.jpg
+    alt: "Hengsha Ride 2024-04-19"
+    title: "Hengsha Ride 2024-04-19"
+  - url: /assets/img/gallery/2024-04-19_3.jpg
+    image_path: /assets/img/gallery/2024-04-19_3.jpg
+    alt: "Hengsha Ride 2024-04-19"
+    title: "Hengsha Ride 2024-04-19"
   - url: /assets/img/gallery/2024-01-02.jpg
     image_path: /assets/img/gallery/2024-01-02.jpg
     alt: "MCITY 2024-01-05"
