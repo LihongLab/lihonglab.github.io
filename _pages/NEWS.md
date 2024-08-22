@@ -8,6 +8,28 @@ toc_icon: "bars"
 # classes: wide
 ---
 # 2024
+
+## August
+* Interview with professor Li. <a href="https://mp.weixin.qq.com/s/xYAXy_DWhmmSfA7mxnujYA" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+* Cancer Systems Biology group contributes a research paper entitled ["Spatial multiomics reveals a subpopulation of fibroblasts associated with cancer stemness in human hepatocellular carcinoma"](https://doi.org/10.1186/s13073-024-01367-8) in _Genome Medicine_.
+
+<figure class="align-center">
+  <a href="/assets/img/news/GM2024.jpg" title="Graphical abstract" alt="Graphical abstract">
+  <img src="/assets/img/news/GM2024.jpg" title="Graphical abstract" alt="Graphical abstract"></a>
+</figure>
+
+<small>Cancer-associated fibroblasts (CAFs) are the prominent cell type in the tumor microenvironment (TME), and CAF subsets have been identified in various tumors. However, how CAFs spatially coordinate other cell populations within the liver TME to promote cancer progression remain unclear. In the study,  researchers combined multi-region proteomics (6 patients, 24 samples), 10X Genomics Visium spatial transcriptomics (11 patients, 25 samples) and multiplexed imaging (92 patients, 264 samples) technologies to decipher the expression heterogeneity, functional diversity, spatial distribution, colocalization and interaction of fibroblasts. The newly identified CAF subpopulation was validated by cells isolated from 5 liver cancer patients and in vitro functional assays. The study identified a liver CAF subpopulation, marked by the expression of COL1A2, COL4A1, COL4A2, CTGF and FSTL1 and named F5-CAF. F5-CAF preferentially located within and around tumor nests and colocalizes with cancer cells with higher stemness in hepatocellular carcinoma (HCC). Multiplexed staining of 92 patients and the bulk transcriptome of 371 patients demonstrated that the abundance of F5-CAFs in HCC was associated with a worse prognosis. Further in vitro experiments showed that F5-CAFs isolated from liver cancer patients can promote the proliferation and stemness of HCC cells.
+
+Siyu Jing from Cancer Systems Biology group at Shanghai Institute of Nutrition and Health (SINH), CAS, Dan Liu, Na Feng and Hui Dong from National Center for Liver Cancer, Eastern Hepatobiliary Surgery Hospital serves as the co-corresponding authors. This work was supported by the funding from Chinese Academy of Sciences, the National Key Research and Development Project, the National Natural Science Foundation of China, CAS Youth Innovation Promotion Association, Shanghai Science and Technology Committee, Shanghai Municipal Science and Technology Major Project, and the Shanghai Sailing Program.
+
+For more information, please refer to: 
+[https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01367-8](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01367-8)
+</small>
+
+## July
+* Congrats to Bihan Shen, Heqi Wang and Xueliang Li for the awards ! <a href="https://mp.weixin.qq.com/s/LyYTmlLaLA_mo-55R_1Rxg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+
 ## March
 * Congrats to professor Li for being awarded for the 2024 Shanghai Science and Technology System "March 8th Red-Banner Pacesetter" ! <a href="https://mp.weixin.qq.com/s/9VoGugtHL44hSb2lmo5BbQ" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 * Cancer Systems Biology group contributes a research paper entitled ["Applying machine learning for multi-individual Raman spectroscopic data to identify different stages of proliferating human hepatocytes"](https://doi.org/10.1016/j.isci.2024.109500) in _iScience_.
