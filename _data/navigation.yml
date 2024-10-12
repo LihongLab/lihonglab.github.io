@@ -8,13 +8,14 @@ main:
     url: "/PUBLICATIONS/"
   - title: "NEWS"
     url: "/NEWS/"
-  - title: "JOIN US"
-    url: "/join_us/"
+  - title: "TOOLS"
+    url: "/TOOLS/"
   - title: "GALLERY"
     url: "/GALLERY/"
   - title: "CONTACT"
     url: "/CONTACT/"
-
+  - title: "AWARDS"
+    url: "/AWARDS/"
 #  - title:
 #    url: 
 #  - title:
@@ -29,3 +30,5 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+    # - title: "JOIN US"
+    # url: "/join_us/"
