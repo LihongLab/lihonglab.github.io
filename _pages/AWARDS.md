@@ -9,7 +9,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/img/photos/header4.jpg
+  overlay_image: /assets/img/photos/W020130816502215805063.jpg
 # excerpt: " <br> <br> <br>"
 
 ---
@@ -20,7 +20,7 @@ header:
 2021年获国家自然科学基金优秀青年项目资助；
 2020年获上海市人才发展基金资助；
 2018年入选中国科学院青年创新促进会；
-2015年入选上海市青年科技英才扬帆计划；
+2015年入选上海市青年科技英才扬帆计划。
 
 # 荣誉奖项
 
