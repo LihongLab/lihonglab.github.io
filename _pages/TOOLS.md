@@ -1,7 +1,7 @@
 ---
 title: "Tools"
 permalink: /TOOLS/
-layout: splash
+# layout: splash
 # toc: true
 # toc_sticky: true
 # toc_label: " "

@@ -6,17 +6,17 @@ layout: splash
 # toc_sticky: true
 # toc_label: " "
 # toc_icon: "bars"
-# header:
-#   overlay_color: "#000"
-#   overlay_filter: "0"
-#   overlay_image: /assets/img/photos/header8.jpg
+header:
+  overlay_color: "#000"
+  overlay_filter: "0"
+  overlay_image: /assets/img/photos/header4.jpg
 # excerpt: " <br> <br> <br>"
 
 ---
 
 # 人才项目
 
-2022年入选中国科学院青年创新促进会优秀会员；
+李虹研究员2022年入选中国科学院青年创新促进会优秀会员；
 2021年获国家自然科学基金优秀青年项目资助；
 2020年获上海市人才发展基金资助；
 2018年入选中国科学院青年创新促进会；
