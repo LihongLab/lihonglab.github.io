@@ -10,6 +10,18 @@ header:
   overlay_image: /assets/img/photos/header9.jpg
 # excerpt: " <br> <br> <br>"
 gallery:
+  - url: /assets/img/gallery/2024-10-01.jpg
+    image_path: /assets/img/gallery/2024-10-01.jpg
+    alt: "Hengsha Ride 2024-04-19"
+    title: "Hengsha Ride 2024-04-19"
+  - url: /assets/img/gallery/2024-10-02.jpg
+    image_path: /assets/img/gallery/2024-10-02.jpg
+    alt: "Hengsha Ride 2024-04-19"
+    title: "Hengsha Ride 2024-04-19"
+  - url: /assets/img/gallery/2024-10-03.jpg
+    image_path: /assets/img/gallery/2024-10-03.jpg
+    alt: "Hengsha Ride 2024-04-19"
+    title: "Hengsha Ride 2024-04-19"
   - url: /assets/img/gallery/2024-04-19_1.jpg
     image_path: /assets/img/gallery/2024-04-19_1.jpg
     alt: "Hengsha Ride 2024-04-19"
@@ -76,6 +88,15 @@ gallery:
 # Academic Events
 
 <figure class="third">
+  <a href="/assets/img/gallery/2024-10-12.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04">
+  <img src="/assets/img/gallery/2024-10-12.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04"></a>
+
+  <a href="/assets/img/gallery/2024-10-11.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04">
+  <img src="/assets/img/gallery/2024-10-11.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04"></a>
+
+  <a href="/assets/img/gallery/2024-10-10.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04">
+  <img src="/assets/img/gallery/2024-10-10.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04"></a>
+
   <a href="/assets/img/gallery/2024-04-13.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04">
   <img src="/assets/img/gallery/2024-04-13.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04"></a>
   
