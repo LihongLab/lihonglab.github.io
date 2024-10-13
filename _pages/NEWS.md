@@ -9,6 +9,20 @@ toc_icon: "bars"
 ---
 # 2024
 
+## October
+* Cancer Systems Biology group contributes a research paper entitled "Dual-view jointly learning improves personalized drug synergy prediction" in _Bioinformatics_.
+
+<figure class="align-center">
+  <a href="/assets/img/news/BIO2024.png" title="Graphical abstract" alt="Graphical abstract">
+  <img src="/assets/img/news/BIO2024.png" title="Graphical abstract" alt="Graphical abstract"></a>
+</figure>
+
+
+<small>Accurate and robust estimation of the synergistic drug combination is important for medicine precision. Although some computational methods have been developed, some predictions are still unreliable especially for the cross-dataset predictions, due to the complex mechanism of drug combinations and heterogeneity of cancer samples. We have proposed JointSyn that utilizes dual-view jointly learning to predict sample-specific effects of drug combination from drug and cell features. JointSyn outperforms existing state-of-the-art methods in predictive accuracy and robustness across various benchmarks. Each view of JointSyn captures drug synergy-related characteristics and make complementary contributes to the final pre-diction of drug combination. Moreover, JointSyn with fine-tuning improves its generalization ability to predict a novel drug combination or cancer sample using a small number of experimental measure-ments. We also used JointSyn to generate an estimated atlas of drug synergy for pan-cancer and explored the differential pattern among cancers. These results demonstrate the potential of JointSyn to predict drug synergy, supporting the development of personalized combinatorial therapies.</small>
+
+<small>Xueliang Li serves as the first author, while Hong Li, both from the Cancer Systems Biology group at the Shanghai Institute of Nutrition and Health (SINH), CAS, serves as the corresponding author. This work was supported by the funding from National Natural Science Foundation of China, Natural Science Foundation of Shanghai and CAS Youth Innovation Promotion Association.</small>
+
+
 ## August
 * Interview with professor Li. <a href="https://mp.weixin.qq.com/s/xYAXy_DWhmmSfA7mxnujYA" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 * Cancer Systems Biology group contributes a research paper entitled ["Spatial multiomics reveals a subpopulation of fibroblasts associated with cancer stemness in human hepatocellular carcinoma"](https://doi.org/10.1186/s13073-024-01367-8) in _Genome Medicine_.
