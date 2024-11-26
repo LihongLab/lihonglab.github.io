@@ -88,6 +88,18 @@ gallery:
 # Academic Events
 
 <figure class="third">
+  <a href="/assets/img/gallery/2024-10-20.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10">
+  <img src="/assets/img/gallery/2024-10-20.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10"></a>
+
+<figure class="third">
+  <a href="/assets/img/gallery/2024-10-19.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10">
+  <img src="/assets/img/gallery/2024-10-19.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10"></a>
+
+<figure class="third">
+  <a href="/assets/img/gallery/2024-10-18.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10">
+  <img src="/assets/img/gallery/2024-10-18.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10"></a>
+
+<figure class="third">
   <a href="/assets/img/gallery/2024-10-12.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04">
   <img src="/assets/img/gallery/2024-10-12.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04"></a>
 
