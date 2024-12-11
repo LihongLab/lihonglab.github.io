@@ -13,7 +13,7 @@ toc_icon: "bars"
 * "A disentangled generative model for improved drug response prediction in patients via sample synthesis" in _Journal of Pharmaceutical Analysis_.
 
 <figure class="align-center">
-  <a href="/assets/img/news/JPA2024.png" title="Graphical abstract" alt="Graphical abstract">
+  <a href="/assets/img/news/JPA2024.png" width='500' title="Graphical abstract" alt="Graphical abstract">
   <img src="/assets/img/news/JPA2024.png" width="500" title="Graphical abstract" alt="Graphical abstract"/></a>
 </figure>
 
