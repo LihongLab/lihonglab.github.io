@@ -14,7 +14,7 @@ toc_icon: "bars"
 
 <figure class="align-center">
   <a href="/assets/img/news/JPA2024.png" title="Graphical abstract" alt="Graphical abstract">
-  <img src="/assets/img/news/JPA2024.png" width="700px" title="Graphical abstract" alt="Graphical abstract"></a>
+  <img src="/assets/img/news/JPA2024.png" width="700px" title="Graphical abstract" alt="Graphical abstract"/></a>
 </figure>
 
 <small>Personalized drug response prediction from molecular data is an important challenge in precision medicine for treating cancer. Computational methods have been widely explored and have become increasingly accurate in recent years. However, the clinical application of prediction methods is still in its infancy due to large discrepancies between preclinial models and patients. We present a novel disentangled synthesis transfer network (DiSyn) for drug response prediction specifically designed for transfer learning from preclinical models to clinical patients. DiSyn uses a domain separation network to disentangle drug response-related features, employs data synthesis technology to increase the sample size and iteratively trains for better feature disentanglement. DiSyn is pretrained on large-scale unlabeled cancer samples and validated by three datasets, TCGA, I-SPY2 and NIBR PDXE, achieving competitive accuracy with the state-of-the-art methods on cancer patients and mice. Furthermore, the application of DiSyn to thousands of breast cancer patients show the heterogeneity in drug responses and demonstrate its potential value in biomarker discovery and drug combination prediction.</small>
@@ -27,7 +27,7 @@ toc_icon: "bars"
 
 <figure class="align-center">
   <a href="/assets/img/news/BIO2024.png" title="Graphical abstract" alt="Graphical abstract">
-  <img src="/assets/img/news/BIO2024.png" width="40%" title="Graphical abstract" alt="Graphical abstract"></a>
+  <img src="/assets/img/news/BIO2024.png" width="40%" title="Graphical abstract" alt="Graphical abstract"/></a>
 </figure>
 
 
@@ -42,7 +42,7 @@ toc_icon: "bars"
 
 <figure class="align-center">
   <a href="/assets/img/news/GM2024.jpg" title="Graphical abstract" alt="Graphical abstract">
-  <img src="/assets/img/news/GM2024.jpg" width="40%" title="Graphical abstract" alt="Graphical abstract"></a>
+  <img src="/assets/img/news/GM2024.jpg" width="40%" title="Graphical abstract" alt="Graphical abstract"/></a>
 </figure>
 
 <small>Cancer-associated fibroblasts (CAFs) are the prominent cell type in the tumor microenvironment (TME), and CAF subsets have been identified in various tumors. However, how CAFs spatially coordinate other cell populations within the liver TME to promote cancer progression remain unclear. In the study,  researchers combined multi-region proteomics (6 patients, 24 samples), 10X Genomics Visium spatial transcriptomics (11 patients, 25 samples) and multiplexed imaging (92 patients, 264 samples) technologies to decipher the expression heterogeneity, functional diversity, spatial distribution, colocalization and interaction of fibroblasts. The newly identified CAF subpopulation was validated by cells isolated from 5 liver cancer patients and in vitro functional assays. The study identified a liver CAF subpopulation, marked by the expression of COL1A2, COL4A1, COL4A2, CTGF and FSTL1 and named F5-CAF. F5-CAF preferentially located within and around tumor nests and colocalizes with cancer cells with higher stemness in hepatocellular carcinoma (HCC). Multiplexed staining of 92 patients and the bulk transcriptome of 371 patients demonstrated that the abundance of F5-CAFs in HCC was associated with a worse prognosis. Further in vitro experiments showed that F5-CAFs isolated from liver cancer patients can promote the proliferation and stemness of HCC cells.</small>
