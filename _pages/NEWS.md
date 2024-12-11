@@ -9,6 +9,19 @@ toc_icon: "bars"
 ---
 # 2024
 
+## November
+* "A disentangled generative model for improved drug response prediction in patients via sample synthesis" in _Journal of Pharmaceutical Analysis_.
+
+<figure class="align-center">
+  <a href="/assets/img/news/JPA2024.png" title="Graphical abstract" alt="Graphical abstract">
+  <img src="/assets/img/news/JPA2024.png" title="Graphical abstract" alt="Graphical abstract"></a>
+</figure>
+
+<small>Personalized drug response prediction from molecular data is an important challenge in precision medicine for treating cancer. Computational methods have been widely explored and have become increasingly accurate in recent years. However, the clinical application of prediction methods is still in its infancy due to large discrepancies between preclinial models and patients. We present a novel disentangled synthesis transfer network (DiSyn) for drug response prediction specifically designed for transfer learning from preclinical models to clinical patients. DiSyn uses a domain separation network to disentangle drug response-related features, employs data synthesis technology to increase the sample size and iteratively trains for better feature disentanglement. DiSyn is pretrained on large-scale unlabeled cancer samples and validated by three datasets, TCGA, I-SPY2 and NIBR PDXE, achieving competitive accuracy with the state-of-the-art methods on cancer patients and mice. Furthermore, the application of DiSyn to thousands of breast cancer patients show the heterogeneity in drug responses and demonstrate its potential value in biomarker discovery and drug combination prediction.</small>
+
+<small>Kunshi Li and Bihan Shen serve as the first authors, while Hong Li, both from the Cancer Systems Biology group at the Shanghai Institute of Nutrition and Health (SINH), CAS, serves as the corresponding author. This work was supported by the funding from National Natural Science Foundation of China, Natural Science Foundation of Shanghai and CAS Youth Innovation Promotion Association.</small>
+
+
 ## October
 * Cancer Systems Biology group contributes a research paper entitled "Dual-view jointly learning improves personalized drug synergy prediction" in _Bioinformatics_.
 
