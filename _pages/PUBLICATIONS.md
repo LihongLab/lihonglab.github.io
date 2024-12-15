@@ -13,6 +13,10 @@ layout: single
 ---
 # Selected publications
 
+Li, K.#, Shen, B.#, Feng F, Li, X., Wang, Y., Feng, N., Tang, Z., Ma, L., & **Li, H\***. (2024). A disentangled generative model for improved drug response prediction in patients via sample synthesis. **Journal of Pharmaceutical Analysis**, 101128. https://doi.org/10.1016/j.jpha.2024.101128
+
+Li, X.#, Shen, B., Feng F, Li, K., Tang, Z., Ma, L., & **Li, H\***. (2024). Dual-view jointly learning improves personalized drug synergy prediction. **Bioinformatics**, 40(10), btae604. https://doi.org/10.1093/bioinformatics/btae604
+
 Jing, S. Y.#, Liu, D.#, Feng, N.#, Dong, H.#, Wang, H. Q., Yan, X., Chen, X. F., Qu, M. C., Lin, P., Yi, B., Feng, F., Chen, L.\*, Wang, H. Y.\*, **Li, H.\***, & He, Y. F\*. (2024). Spatial multiomics reveals a subpopulation of fibroblasts associated with cancer stemness in human hepatocellular carcinoma. **Genome Medicine**, 16(1), 98. [https://doi.org/10.1186/s13073-024-01367-8](https://doi.org/10.1186/s13073-024-01367-8) <a href="/assets/pdf/s13073-024-01367-8.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
 
 Lin, P.#, Yan, X., Jing, S., Wu, Y., Shan, Y., Guo, W., Gu, J., Li, Y., Zhang, H., & **Li, H.\*** (2023). Single-cell and spatially resolved transcriptomics for liver biology. **Hepatology (Baltimore, Md.)**, 10.1097/HEP.0000000000000387. Advance online publication. <a href="/assets/pdf/Single_cell_and_spatially_resolved_transcriptomics_for_liver_biology.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/lJijLYq8vwityLLK8Ph3ew" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
@@ -38,6 +42,11 @@ Hu H#, **Li H#**, Jiao F, Han T, Zhuo M, Cui J, Li Y\*, Wang L\*. Association of
 # All publications
 
 ## 2024
+
+Li, K.#, Shen, B.#, Feng F, Li, X., Wang, Y., Feng, N., Tang, Z., Ma, L., & **Li, H\***. (2024). A disentangled generative model for improved drug response prediction in patients via sample synthesis. **Journal of Pharmaceutical Analysis**, 101128. https://doi.org/10.1016/j.jpha.2024.101128
+
+Li, X.#, Shen, B., Feng F, Li, K., Tang, Z., Ma, L., & **Li, H\***. (2024). Dual-view jointly learning improves personalized drug synergy prediction. **Bioinformatics**, 40(10), btae604. https://doi.org/10.1093/bioinformatics/btae604
+
 Shen, B.#, Ma, C.#, Tang, L., Wu, Z., Peng, Z., Pan, G.\*, & **Li, H.\*** (2024). Applying machine learning for multi-individual Raman spectroscopic data to identify different stages of proliferating human hepatocytes. **iScience**. [https://doi.org/10.1016/j.isci.2024.109500](https://doi.org/10.1016/j.isci.2024.109500) <a href="/assets/pdf/PIIS2589004224007211.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
 
 Jing, S. Y.#, Liu, D.#, Feng, N.#, Dong, H.#, Wang, H. Q., Yan, X., Chen, X. F., Qu, M. C., Lin, P., Yi, B., Feng, F., Chen, L.\*, Wang, H. Y.\*, **Li, H.\***, & He, Y. F\*. (2024). Spatial multiomics reveals a subpopulation of fibroblasts associated with cancer stemness in human hepatocellular carcinoma. **Genome Medicine**, 16(1), 98. [https://doi.org/10.1186/s13073-024-01367-8](https://doi.org/10.1186/s13073-024-01367-8) <a href="/assets/pdf/s13073-024-01367-8.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
