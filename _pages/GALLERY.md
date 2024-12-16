@@ -12,16 +12,16 @@ header:
 gallery:
   - url: /assets/img/gallery/2024-10-01.jpg
     image_path: /assets/img/gallery/2024-10-01.jpg
-    alt: "Hengsha Ride 2024-04-19"
-    title: "Hengsha Ride 2024-04-19"
+    alt: "Laboratory photo"
+    title: "Laboratory photo"
   - url: /assets/img/gallery/2024-10-02.jpg
     image_path: /assets/img/gallery/2024-10-02.jpg
-    alt: "Hengsha Ride 2024-04-19"
-    title: "Hengsha Ride 2024-04-19"
+    alt: "Laboratory photo"
+    title: "Laboratory photo"
   - url: /assets/img/gallery/2024-10-03.jpg
     image_path: /assets/img/gallery/2024-10-03.jpg
-    alt: "Hengsha Ride 2024-04-19"
-    title: "Hengsha Ride 2024-04-19"
+    alt: "Laboratory photo"
+    title: "Laboratory photo"
   - url: /assets/img/gallery/2024-04-19_1.jpg
     image_path: /assets/img/gallery/2024-04-19_1.jpg
     alt: "Hengsha Ride 2024-04-19"
@@ -88,13 +88,19 @@ gallery:
 # Academic Events
 
 <figure class="third">
-
-  <a href="/assets/img/gallery/2024-10-20.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10">
-  <img src="/assets/img/gallery/2024-10-20.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10"></a>
-
+  <a href="/assets/img/gallery/20241216121252.jpg" title="Frontiers in Single Cell Genomics in Awaji 2024-11" alt="Frontiers in Single Cell Genomics in Awaji 2024-11">
+  <img src="/assets/img/gallery/20241216121252.jpg" title="Frontiers in Single Cell Genomics in Awaji 2024-11" alt="Frontiers in Single Cell Genomics in Awaji 2024-11"></a>
 
   <a href="/assets/img/gallery/2024-10-19.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10">
   <img src="/assets/img/gallery/2024-10-19.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10"></a>
+
+
+  <a href="/assets/img/gallery/20241216121846.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10">
+  <img src="/assets/img/gallery/20241216121846.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10"></a>
+
+
+  <a href="/assets/img/gallery/2024-10-20.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10">
+  <img src="/assets/img/gallery/2024-10-20.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10"></a>
 
 
   <a href="/assets/img/gallery/2024-10-18.jpg" title="上海市生物信息学会2024年学术年会 2024-10" alt="上海市生物信息学会2024年学术年会 2024-10">
