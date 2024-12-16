@@ -13,9 +13,9 @@ layout: single
 ---
 # Selected publications
 
-Li, K.#, Shen, B.#, Feng F, Li, X., Wang, Y., Feng, N., Tang, Z., Ma, L., & **Li, H\***. (2024). A disentangled generative model for improved drug response prediction in patients via sample synthesis. **Journal of Pharmaceutical Analysis**, 101128. https://doi.org/10.1016/j.jpha.2024.101128
+Li, K.#, Shen, B.#, Feng F, Li, X., Wang, Y., Feng, N., Tang, Z., Ma, L., & **Li, H\***. (2024). A disentangled generative model for improved drug response prediction in patients via sample synthesis. **Journal of Pharmaceutical Analysis**, 101128. [https://doi.org/10.1016/j.jpha.2024.101128](https://doi.org/10.1016/j.jpha.2024.101128) <a href="/assets/pdf/JPHA101128.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
 
-Li, X.#, Shen, B., Feng F, Li, K., Tang, Z., Ma, L., & **Li, H\***. (2024). Dual-view jointly learning improves personalized drug synergy prediction. **Bioinformatics**, 40(10), btae604. https://doi.org/10.1093/bioinformatics/btae604
+Li, X.#, Shen, B., Feng F, Li, K., Tang, Z., Ma, L., & **Li, H\***. (2024). Dual-view jointly learning improves personalized drug synergy prediction. **Bioinformatics**, 40(10), btae604. [https://doi.org/10.1093/bioinformatics/btae604](https://doi.org/10.1093/bioinformatics/btae604) <a href="/assets/pdf/btae604.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
 
 Jing, S. Y.#, Liu, D.#, Feng, N.#, Dong, H.#, Wang, H. Q., Yan, X., Chen, X. F., Qu, M. C., Lin, P., Yi, B., Feng, F., Chen, L.\*, Wang, H. Y.\*, **Li, H.\***, & He, Y. F\*. (2024). Spatial multiomics reveals a subpopulation of fibroblasts associated with cancer stemness in human hepatocellular carcinoma. **Genome Medicine**, 16(1), 98. [https://doi.org/10.1186/s13073-024-01367-8](https://doi.org/10.1186/s13073-024-01367-8) <a href="/assets/pdf/s13073-024-01367-8.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
 
