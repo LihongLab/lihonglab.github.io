@@ -31,7 +31,13 @@ feature_row3:
     url: "https://github.com/LiHongCSBLab/SOAPy"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-
+feature_row4:
+  - image_path: /assets/img/tools/Raman.jpg
+    title: "Raman Analysis"
+    excerpt: "Cell therapy using proliferating human hepatocytes (ProliHHs) is an effective treatment approach for advanced liver diseases. However, rapid and accurate identification of high-quality ProliHHs from different donors is challenging due to individual heterogeneity. Here, we developed a machine learning framework to integrate single-cell Raman spectroscopy from multiple donors and identify different stages of ProliHHs. A repository of more than 14,000 Raman spectra, consisting of primary human hepatocytes (PHHs) and different passages of ProliHHs from six donors, was generated. Using a sliding window algorithm, potential biomarkers distinguishing the different cell stages were identified through differential analysis. Leveraging machine learning models, accurate classification of cell stages was achieved in both within-donor and cross-donor prediction tasks. Furthermore, the study assessed the relationship between donor and cell numbers and its impact on prediction accuracy, facilitating improved quality control design. A similar workflow can also be extended to encompass other cell types."
+    url: "https://github.com/LiHongCSBLab/Raman_ProliHH"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 
 # Cancer Precision Medicine
@@ -43,3 +49,7 @@ feature_row3:
 # Spatial Omics Analysis
 
 {% include feature_row id="feature_row3" type="left" %}
+
+# Single Cell Analysis
+
+{% include feature_row id="feature_row4" type="left" %}
