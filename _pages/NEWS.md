@@ -10,7 +10,7 @@ toc_icon: "bars"
 # 2024
 
 ## November
-* Cancer Systems Biology group contributes a research paper entitled "A disentangled generative model for improved drug response prediction in patients via sample synthesis" in _Journal of Pharmaceutical Analysis_.
+* Cancer Systems Biology group contributes a research paper entitled ["A disentangled generative model for improved drug response prediction in patients via sample synthesis"](https://doi.org/10.1016/j.jpha.2024.101128) in _Journal of Pharmaceutical Analysis_.
 
 <figure class="align-center">
   <a href="/assets/img/news/JPA2024.png" title="Graphical abstract" alt="Graphical abstract">
@@ -23,7 +23,7 @@ toc_icon: "bars"
 
 
 ## October
-* Cancer Systems Biology group contributes a research paper entitled "Dual-view jointly learning improves personalized drug synergy prediction" in _Bioinformatics_.
+* Cancer Systems Biology group contributes a research paper entitled ["Dual-view jointly learning improves personalized drug synergy prediction"](https://doi.org/10.1093/bioinformatics/btae604) in _Bioinformatics_.
 
 <figure class="align-center">
   <a href="/assets/img/news/BIO2024.png" title="Graphical abstract" alt="Graphical abstract">
