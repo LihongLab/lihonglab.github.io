@@ -82,6 +82,21 @@ feature_row:
     excerpt: >
       M.Sc. Student <br>
       yuanjiao2023:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/qiuyiling.jpg
+    title: "Yiling Qiu"
+    excerpt: >
+      M.Sc. Student <br>
+      qiuyiling2024:paperclip:sinh**.**ac**.**cn
+  # - image_path: /assets/img/pic/ratio34.jpg
+  #   title: "Yan Zang"
+  #   excerpt: >
+  #     M.Sc. Student <br>
+  #     qiuyiling2024:paperclip:sinh**.**ac**.**cn
+  # - image_path: /assets/img/pic/qiuyiling.jpg
+  #   title: "Yiling Qiu"
+  #   excerpt: >
+  #     M.Sc. Student <br>
+  #     qiuyiling2024:paperclip:sinh**.**ac**.**cn
 feature_row2:
   - image_path: /assets/img/pic/lihong1.jpg
     alt: "Hong Li"
