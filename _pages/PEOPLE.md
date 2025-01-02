@@ -87,7 +87,7 @@ feature_row:
     excerpt: >
       M.Sc. Student <br>
       qiuyilig2024:paperclip:sinh**.**ac**.**cn
- - image_path: /assets/img/pic/beiyongqi.jpg
+  - image_path: /assets/img/pic/beiyongqi.jpg
     title: "Yongqi Bei"
     excerpt: >
       M.Sc. Student <br>
