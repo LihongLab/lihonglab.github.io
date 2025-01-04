@@ -7,6 +7,13 @@ toc_label: " "
 toc_icon: "bars"
 # classes: wide
 ---
+# 2025
+
+## January
+
+* Congratulations to <strong>Yan Zang</strong>, <strong>Yiling Qiu</strong>, and <strong>Yongqi Bei</strong> on joining our group as new graduate students! We are excited to have you on board and look forward to working with you.
+
+
 # 2024
 
 ## November
