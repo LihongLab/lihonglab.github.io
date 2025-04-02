@@ -88,6 +88,9 @@ gallery:
 # Academic Events
 
 <figure class="third">
+  <a href="/assets/img/gallery/2025-03-24.jpg" title="冷泉港亚洲学术会议: Liver Metabolism, Inflammation, and Cancer" alt="冷泉港亚洲学术会议: Liver Metabolism, Inflammation, and Cancer">
+  <img src="/assets/img/gallery/2025-03-24.jpg" title="冷泉港亚洲学术会议: Liver Metabolism, Inflammation, and Cancer" alt="冷泉港亚洲学术会议: Liver Metabolism, Inflammation, and Cancer"></a>
+  
   <a href="/assets/img/gallery/20241216121252.jpg" title="Frontiers in Single Cell Genomics in Awaji 2024-11" alt="Frontiers in Single Cell Genomics in Awaji 2024-11">
   <img src="/assets/img/gallery/20241216121252.jpg" title="Frontiers in Single Cell Genomics in Awaji 2024-11" alt="Frontiers in Single Cell Genomics in Awaji 2024-11"></a>
 
