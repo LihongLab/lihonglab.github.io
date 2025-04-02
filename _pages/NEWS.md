@@ -9,6 +9,20 @@ toc_icon: "bars"
 ---
 # 2025
 
+## March
+
+* Cancer Systems Biology group contributes a research paper entitled ["SOAPy: a Python package to dissect spatial architecture, dynamics, and communication"](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03550-5) in _Genome Biology_.
+
+<figure class="align-center">
+  <a href="/assets/img/news/GB2025.png" title="Graphical abstract" alt="Graphical abstract">
+  <img src="/assets/img/news/GB2025.png" title="Graphical abstract" alt="Graphical abstract"/></a>
+</figure>
+
+<small>A research team led by Prof. Hong Li from Shanghai Institute of Nutrition and Health (SINH) of the Chinese Academy of Sciences, developed and released a new toolkit named “SOAPy” for analyzing spatial omics data. </small>
+<small>Spatial organization and microenvironment are important for understanding the tissues in normal and disease states. Spatial omics especially spatial transcriptomes have become popular in recent years, but extracting useful information from these complex spatial data is still challenging. Previous algorithms were often designed for one specific task, so a toolkit for the integrative analysis of microenvironmental spatial organization is in an urgent need.</small>
+<small>Prof Li’s group developed a Python package named “SOAPy”. It provides methods for spatial domain identification, spatial expression tendency, spatiotemporal expression pattern, cellular co-localization, multi-cellular niches, and cell–cell communication. SOAPy can be applied to various spatial omics technologies and multiple areas in physiological and pathological contexts, such as tumor biology and development biology. </small>
+<small>In summary, this study presents a valuable tool for spatial omics analysis, facilitating the dissection of microenvironment architecture and deepening biological insights.</small>
+
 ## January
 
 * Congratulations to <strong>Yan Zang</strong>, <strong>Yiling Qiu</strong>, and <strong>Yongqi Bei</strong> on joining our group as new graduate students! We are excited to have you on board and look forward to working with you.
