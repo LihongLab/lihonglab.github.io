@@ -11,6 +11,17 @@ toc_icon: "bars"
 
 ## March
 
+* Cancer Systems Biology group contributes a research paper entitled ["Quantifying and interpreting biologically meaningful spatial signatures within tumor microenvironments"](https://doi.org/10.1038/s41698-025-00857-1) in _npj Precision Oncology_.
+
+<figure class="align-center">
+  <a href="/assets/img/news/npj2025.png" title="Graphical abstract" alt="Graphical abstract">
+  <img src="/assets/img/news/npj2025.png" title="Graphical abstract" alt="Graphical abstract"/></a>
+</figure>
+
+<small>A research team led by Prof. Hong Li from Shanghai Institute of Nutrition and Health (SINH) of the Chinese Academy of Sciences, publicated a new research paper on _npj Precision Oncology_. </small>
+<small>The tumor microenvironment (TME) plays a crucial role in orchestrating tumor cell behavior and cancer progression. Recent advances in spatial profiling technologies have uncovered novel spatial signatures, including univariate distribution patterns, bivariate spatial relationships, and higher-order structures. These signatures have the potential to revolutionize tumor mechanism and treatment. This review summarize the current state of spatial signature research, highlighting computational methods to uncover spatially relevant biological significance. We discuss the impact of these advances on fundamental cancer biology and translational research, address current challenges and future research directions.</small>
+<small>Si-yu Jing serve as the first authors, while Hong Li, both from the Cancer Systems Biology group at the Shanghai Institute of Nutrition and Health (SINH), CAS, serves as the corresponding author. This work was supported by the funding from National Natural Science Foundation of China, Natural Science Foundation of Shanghai and CAS Youth Innovation Promotion Association. </small>
+
 * Cancer Systems Biology group contributes a research paper entitled ["SOAPy: a Python package to dissect spatial architecture, dynamics, and communication"](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03550-5) in _Genome Biology_.
 
 <figure class="align-center">
