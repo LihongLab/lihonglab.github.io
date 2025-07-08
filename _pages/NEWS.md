@@ -9,6 +9,10 @@ toc_icon: "bars"
 ---
 # 2025
 
+## June
+
+Congratulations to Dr. Bihan Shen and Dr. Siyu Jing on their successful graduation! We are incredibly proud of your achievements and grateful for your contributions to the group. Wishing you all the best in your future endeavors!
+
 ## March
 
 * Cancer Systems Biology group contributes a research paper entitled ["Quantifying and interpreting biologically meaningful spatial signatures within tumor microenvironments"](https://doi.org/10.1038/s41698-025-00857-1) in _npj Precision Oncology_.
