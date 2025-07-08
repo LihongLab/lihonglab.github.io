@@ -10,6 +10,18 @@ header:
   overlay_image: /assets/img/photos/header9.jpg
 # excerpt: " <br> <br> <br>"
 gallery:
+  - url: /assets/img/gallery/2025070801.jpg
+    image_path: /assets/img/gallery/2025070801.jpg
+    alt: "Laboratory photo"
+    title: "Laboratory photo"
+  - url: /assets/img/gallery/2025070802.jpg
+    image_path: /assets/img/gallery/2025070802.jpg
+    alt: "Laboratory photo"
+    title: "Laboratory photo"
+  - url: /assets/img/gallery/2025070803.jpg
+    image_path: /assets/img/gallery/2025070803.jpg
+    alt: "Laboratory photo"
+    title: "Laboratory photo"
   - url: /assets/img/gallery/2024-10-01.jpg
     image_path: /assets/img/gallery/2024-10-01.jpg
     alt: "Laboratory photo"
