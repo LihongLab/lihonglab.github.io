@@ -11,7 +11,7 @@ toc_icon: "bars"
 
 ## June
 
-Congratulations to Dr. Bihan Shen and Dr. Siyu Jing on their successful graduation! We are incredibly proud of your achievements and grateful for your contributions to the group. Wishing you all the best in your future endeavors!
+* Congratulations to Dr. <strong>Bihan Shen</strong> and Dr. <strong>Siyu Jing</strong> on their successful graduation! We are incredibly proud of your achievements and grateful for your contributions to the group. Wishing you all the best in your future endeavors!
 
 ## March
 
