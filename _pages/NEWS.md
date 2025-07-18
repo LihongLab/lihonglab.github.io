@@ -9,6 +9,9 @@ toc_icon: "bars"
 ---
 # 2025
 
+## July
+* Welcome Feifei Sun, Wenxin Yang and Jiawei Hu for summer internship!
+
 ## June
 * Congratulations to Dr. <strong>Siyu Jing</strong> on continuing her impressive academic journey as a postdoctoral researcher in our lab!
 
