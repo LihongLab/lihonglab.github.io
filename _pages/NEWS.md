@@ -10,6 +10,7 @@ toc_icon: "bars"
 # 2025
 
 ## June
+* Congratulations to Dr. <strong>Siyu Jing</strong> on continuing her impressive academic journey as a postdoctoral researcher in our lab!
 
 * Congratulations to Dr. <strong>Bihan Shen</strong> and Dr. <strong>Siyu Jing</strong> on their successful graduation! We are incredibly proud of your achievements and grateful for your contributions to the group. Wishing you all the best in your future endeavors!
 
