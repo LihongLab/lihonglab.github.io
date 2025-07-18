@@ -15,13 +15,13 @@ toc_icon: "bars"
 
 <figure class="align-center">
   <a href="/assets/img/news/biyezhao01_500px.jpg" title="happy graduation" alt="happy graduation">
-    <img class="custom-image" src="/assets/img/news/biyezhao01_500px.jpg"/>
+    <img class="news-image" src="/assets/img/news/biyezhao01_500px.jpg"/>
   </a>
 </figure>
 
 <!-- <figure class="align-center">
   <a href="/assets/img/news/biyezhao02_500px.jpg" title="happy graduation" alt="happy graduation">
-    <img class="custom-image" src="/assets/img/news/biyezhao02_500px.jpg"/>
+    <img class="news-image" src="/assets/img/news/biyezhao02_500px.jpg"/>
   </a>
 </figure> -->
 
@@ -31,7 +31,8 @@ toc_icon: "bars"
 
 <figure class="align-center">
   <a href="/assets/img/news/npj2025.png" title="Graphical abstract" alt="Graphical abstract">
-  <img src="/assets/img/news/npj2025.png" title="Graphical abstract" alt="Graphical abstract"/></a>
+    <img class="news-image" src="/assets/img/news/npj2025.png"/>
+  </a>
 </figure>
 
 <small>A research team led by Prof. Hong Li from Shanghai Institute of Nutrition and Health (SINH) of the Chinese Academy of Sciences, publicated a new research paper on _npj Precision Oncology_. </small>
