@@ -13,17 +13,13 @@ toc_icon: "bars"
 
 * Congratulations to Dr. <strong>Bihan Shen</strong> and Dr. <strong>Siyu Jing</strong> on their successful graduation! We are incredibly proud of your achievements and grateful for your contributions to the group. Wishing you all the best in your future endeavors!
 
-<figure class="align-center">
-  <a href="/assets/img/news/biyezhao01_500px.jpg" title="happy graduation" alt="happy graduation">
-    <img src="/assets/img/news/biyezhao01_500px.jpg"/>
-  </a>
+<figure class="half">
+  <a href="/assets/img/news/biyezhao01_500px.jpg" title="Figure 1">
+  <img src="/assets/img/news/biyezhao01_500px.jpg" title="Figure 1"></a>
+  <a href="/assets/img/news/biyezhao02_500px.jpg" title="Figure 2">
+  <img src="/assets/img/news/biyezhao02_500px.jpg" title="Figure 2"></a>
 </figure>
 
-<!-- <figure class="align-center">
-  <a href="/assets/img/news/biyezhao02_500px.jpg" title="happy graduation" alt="happy graduation">
-    <img src="/assets/img/news/biyezhao02_500px.jpg"/>
-  </a>
-</figure> -->
 
 ## March
 
