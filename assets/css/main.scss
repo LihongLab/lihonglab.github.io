@@ -16,9 +16,11 @@ search: false
 //     @include span(11 of 12 last);
 //   }
 
-.align-center {
-    text-align: center;
-    max-width: 500px;
-    width: 55%;
-    height: auto;
-}
+/* 屏幕宽度大于 768px 时，图片宽度为 55%（适用于桌面） */
+@media screen and (min-width: 768px) {
+    .align-center {
+        text-align: center;
+        max-width: 500px;
+        width: 55%;
+    }
+  }
