@@ -78,22 +78,10 @@ gallery:
     image_path: /assets/img/gallery/2022-06-23.jpg
     alt: "Haidilao Hot Pot"
     title: "Haidilao Hot Pot"
-  - url: /assets/img/gallery/2022-2-15.jpg
-    image_path: /assets/img/gallery/2022-2-15.jpg
-    alt: "Lantern Festival"
-    title: "Lantern Festival 2022-02-15"
-  - url: /assets/img/gallery/2021-12-31.jpg
-    image_path: /assets/img/gallery/2021-12-31.jpg
-    alt: "New Year's Eve"
-    title: "New Year's Eve 2021-12-31"
   - url: /assets/img/gallery/2021-09-10.jpg
     image_path: /assets/img/gallery/2021-09-10.jpg
     alt: "Teachers' Day"
     title: "Teachers' Day 2021-09-10"
-  - url: /assets/img/gallery/2021-05-07.jpg
-    image_path: /assets/img/gallery/2021-05-07.jpg
-    alt: "Joint Meeting"
-    title: "Joint Meeting 2021-05-07"
 
 ---
 
@@ -195,3 +183,10 @@ gallery:
 # Happy Moments
 
 {% include gallery id="gallery" %}
+
+# Academic Events
+
+<figure class="third">
+  <a href="/assets/img/news/biyezhao02_500px.jpg" >
+  <img src="/assets/img/news/biyezhao02_500px.jpg"></a>
+</figure>
