@@ -192,10 +192,10 @@ gallery:
 # Graduation Events
 
 <figure class="third">
-  <a href="/assets/img/news/biyezhao03_11_500px.jpg" >
-  <img src="/assets/img/news/biyezhao03_11_500px.jpg"></a>
-  <a href="/assets/img/news/biyezhao04_500px.jpg" >
-  <img src="/assets/img/news/biyezhao04_500px.jpg"></a>
-  <a href="/assets/img/news/biyezhao02_500px.jpg" >
-  <img src="/assets/img/news/biyezhao02_500px.jpg"></a>
+  <a href="/assets/img/gallery/biyezhao03_11_500px.jpg" >
+  <img src="/assets/img/gallery/biyezhao03_11_500px.jpg"></a>
+  <a href="/assets/img/gallery/biyezhao04_500px.jpg" >
+  <img src="/assets/img/gallery/biyezhao04_500px.jpg"></a>
+  <a href="/assets/img/gallery/biyezhao02_11_500px.jpg" >
+  <img src="/assets/img/gallery/biyezhao02_11_500px.jpg"></a>
 </figure>
