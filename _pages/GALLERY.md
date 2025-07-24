@@ -8,6 +8,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0"
   overlay_image: /assets/img/photos/header9.jpg
+toc: true
+toc_sticky: true
+toc_label: " "
+toc_icon: "bars"
+layout: single
 # excerpt: " <br> <br> <br>"
 gallery:
   - url: /assets/img/gallery/2025070801.jpg
@@ -184,7 +189,7 @@ gallery:
 
 {% include gallery id="gallery" %}
 
-# Academic Events
+# Graduation Events
 
 <figure class="third">
   <a href="/assets/img/news/biyezhao02_500px.jpg" >
