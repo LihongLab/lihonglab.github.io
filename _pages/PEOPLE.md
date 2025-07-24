@@ -24,12 +24,6 @@ feature_row:
     excerpt: >
       Laboratory Manager <br>
       zxtang:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/jingsiyu.jpg
-    alt: "placeholder image 2"
-    title: "Siyu Jing"
-    excerpt: >
-      Ph.D. Student <br>
-      jingsiyu2020:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/lijiarong.jpg
     alt: "placeholder image 2"
     title: "Jiarong Li"
@@ -121,11 +115,18 @@ feature_row2:
       <small>2021 National Natural Science Found for Excellent Youth Scientists <br></small>
 feature_row3:
   - image_path: /assets/img/pic/ffym.jpg
-    alt: "xxx"
+    alt: "Fangyoumin Feng"
     title: "Fangyoumin Feng"
     excerpt: >
-      Postdoc (2020-2022)<br>
+      Postdoc. (2020-2022)<br>
       fengfangyoumin:paperclip:picb**.**ac**.**cn
+
+  - image_path: /assets/img/pic/jingsiyu.jpg
+    alt: "placeholder image 2"
+    title: "Siyu Jing"
+    excerpt: >
+      Postdoc. <br>
+      jingsiyu2020:paperclip:sinh**.**ac**.**cn
 
 ---
 
