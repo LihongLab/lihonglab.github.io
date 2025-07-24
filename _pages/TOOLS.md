@@ -27,7 +27,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/img/tools/soapy.png
     title: "SOAPy"
-    excerpt: "SOAPy is an integrated toolkit that focuses on addressing spatial heterogeneity. SOAPy contains four data preprocessing modules (“Data Import”, “spatial network”, and “Spatial Domain”), three modules for analyzing spatial expression patterns of genes (“Spatial Variation”, “Spatial Tendency”, and “Spatiotemporal Pattern”), two modules for analyzing the spatial architecture of cells (“Spatial Proximity”, “Spatial Composition”), and two module for analyzing Spatial Communication."
+    excerpt: "SOAPy is an integrated toolkit that focuses on addressing spatial heterogeneity. SOAPy contains four data preprocessing modules (“Data Import”, “spatial network”, and “Spatial Domain”), three modules for analyzing spatial expression patterns of genes (“Spatial Variation”, “Spatial Tendency”, and “Spatiotemporal Pattern”), two modules for analyzing the spatial architecture of cells (“Spatial Proximity”, “Spatial Composition”), and two module for analyzing Spatial Communication. <a href="https://pubmed.ncbi.nlm.nih.gov/40158115/" title="PubMed"> Article in Genome Biology (2025) </a>"
     url: "https://github.com/LiHongCSBLab/SOAPy"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
