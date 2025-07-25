@@ -16,8 +16,14 @@ feature_row:
     alt: "xxx"
     title: "Ping Lin"
     excerpt: >
-      Associate Professor <br>
+      Associate Professor<br>
       linping:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/jingsiyu.jpg
+    alt: "Siyu Jing"
+    title: "Siyu Jing"
+    excerpt: >
+      Associate Professor<br>
+      jingsiyu2020:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/tangzhixuan.jpg
     alt: "123"
     title: "Zhixuan Tang"
@@ -120,14 +126,6 @@ feature_row3:
     excerpt: >
       Postdoc. (2020-2022)<br>
       fengfangyoumin:paperclip:picb**.**ac**.**cn
-
-  - image_path: /assets/img/pic/jingsiyu.jpg
-    alt: "placeholder image 2"
-    title: "Siyu Jing"
-    excerpt: >
-      Postdoc. <br>
-      jingsiyu2020:paperclip:sinh**.**ac**.**cn
-
 ---
 
 
