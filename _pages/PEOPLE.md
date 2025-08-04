@@ -153,4 +153,4 @@ feature_row3:
     </div> -->
 </div>
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row3" %}
