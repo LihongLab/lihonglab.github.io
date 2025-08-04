@@ -36,12 +36,6 @@ feature_row:
     excerpt: >
       Ph.D. Student <br>
       lijiarong2020:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/shenbihan1.jpg
-    alt: "placeholder image 2"
-    title: "Bihan Shen"
-    excerpt: >
-      Ph.D. Student <br>
-      shenbihan2020:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/likunshi.jpg
     title: "Kunshi Li"
     excerpt: >
@@ -126,6 +120,12 @@ feature_row3:
     excerpt: >
       Postdoc. (2020-2022)<br>
       fengfangyoumin:paperclip:picb**.**ac**.**cn
+  - image_path: /assets/img/pic/shenbihan1.jpg
+    alt: "placeholder image 2"
+    title: "Bihan Shen"
+    excerpt: >
+      Ph.D. Student (2020-2025)<br>
+      shenbihan2020:paperclip:sinh**.**ac**.**cn
 ---
 
 
