@@ -22,7 +22,7 @@ feature_row:
     alt: "Siyu Jing"
     title: "Siyu Jing"
     excerpt: >
-      Associate Professor<br>
+      Postdoctoral Researcher<br>
       jingsiyu2020:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/tangzhixuan.jpg
     alt: "123"
