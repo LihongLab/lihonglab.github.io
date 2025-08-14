@@ -52,6 +52,8 @@ feature_row5:
 
 # Cancer Precision Medicine
 
+{% include feature_row id="feature_row5" type="left" %}
+
 {% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
