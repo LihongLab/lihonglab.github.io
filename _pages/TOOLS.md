@@ -38,6 +38,13 @@ feature_row4:
     url: "https://github.com/LiHongCSBLab/Raman_ProliHH"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+feature_row5:
+  - image_path: /assets/img/tools/IGeS-BS.jpg
+    title: "IGeS-BS"
+    excerpt: "IGeS-BS is a computational framework designed to enhance the efficacy of immunotherapy by identifying compounds that can potentially overcome resistance to immune checkpoint blockade (ICB) across multiple cancer types. By integrating gene expression data from cancer patients and high-throughput compound perturbation experiments, IGeS-BS constructs an immuno-boosting landscape that evaluates the potential of over 10,000 compounds. The framework employs machine learning models to prioritize compounds based on their ability to modulate immune-related gene signatures associated with ICB response. The effectiveness of IGeS-BS has been validated through computational predictions and experimental studies, demonstrating its capacity to identify promising candidates for combination therapy in cancer treatment."
+    url: "https://github.com/LiHongCSBLab/IGeS-BS"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 # Spatial Omics Analysis
 
