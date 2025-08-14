@@ -47,6 +47,14 @@ Hu H#, **Li H#**, Jiao F, Han T, Zhuo M, Cui J, Li Y\*, Wang L\*. Association of
 
 # All publications
 
+## 2025
+
+Feng, F.#, He, T.#, Lin, P.#, Hu, J.#, Shen, B., Tang, Z., Zhou, J., Fan, J., Hu, B., & **Li, H\***. (2025). Computational framework for prioritizing candidate compounds overcoming the resistance of pancancer immunotherapy. **Cell reports. Medicine**, 102276. [https://doi.org/10.1016/j.xcrm.2025.102276](https://doi.org/10.1016/j.xcrm.2025.102276) <a href="/assets/pdf/10.1016_j.xcrm.2025.102276.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a> <a href="https://mp.weixin.qq.com/s/EWo4mlz5kguKo485QZmiXA" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+Jing S.#, Wang, H., Lin, P., Yuan, J., Tang, Z., & **Li, H\***. (2025). Quantifying and interpreting biologically meaningful spatial signatures within tumor microenvironments. **npj Precision Oncology**, 9, 68.[https://doi.org/10.1038/s41698-025-00857-1](https://doi.org/10.1038/s41698-025-00857-1) <a href="/assets/pdf/s41698-025-00857-1.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>
+
+Wang, H.#, Li, J.#, Jing S, Lin, P., Qiu, Y., Yan, X., Yuan, J., Tang, Z., Li, Y., Zhang, H., Chen, Y., Wang, Z., & **Li, H\***. (2025). SOAPy: a Python package to dissect spatial architecture, dynamics, and communication. **Genome Biology**, 26, 80. [https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03550-5](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03550-5) <a href="/assets/pdf/GB2025.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s?__biz=MzU2MTgwNjkwMQ" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 ## 2024
 
 Li, K.#, Shen, B.#, Feng F, Li, X., Wang, Y., Feng, N., Tang, Z., Ma, L., & **Li, H\***. (2024). A disentangled generative model for improved drug response prediction in patients via sample synthesis. **Journal of Pharmaceutical Analysis**, 101128. [https://doi.org/10.1016/j.jpha.2024.101128](https://doi.org/10.1016/j.jpha.2024.101128) <a href="/assets/pdf/JPHA101128.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/Orkd7PvtgZHcq_gAQrNV5w" rel="nofollow noopener noreferrer"> JPA recommendation<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
