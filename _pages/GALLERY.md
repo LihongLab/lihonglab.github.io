@@ -27,16 +27,16 @@ gallery:
     image_path: /assets/img/gallery/2025tuanjian03_1366px.png
     alt: "Laboratory photo"
     title: "Laboratory photo"
-  - url: /assets/img/gallery/2025jiaoshijie01.jpg
-    image_path: /assets/img/gallery/2025jiaoshijie01.jpg
+  - url: /assets/img/gallery/2025jiaoshijie01_1366px.jpg
+    image_path: /assets/img/gallery/2025jiaoshijie01_1366px.jpg
     alt: "Laboratory photo"
     title: "Laboratory photo"
-  - url: /assets/img/gallery/2025jiaoshijie02.jpg
-    image_path: /assets/img/gallery/2025jiaoshijie02.jpg
+  - url: /assets/img/gallery/2025jiaoshijie02_1366px.jpg
+    image_path: /assets/img/gallery/2025jiaoshijie02_1366px.jpg
     alt: "Laboratory photo"
     title: "Laboratory photo"
-  - url: /assets/img/gallery/2025jiaoshijie03.jpg
-    image_path: /assets/img/gallery/2025jiaoshijie03.jpg
+  - url: /assets/img/gallery/2025jiaoshijie03_1366px.jpg
+    image_path: /assets/img/gallery/2025jiaoshijie03_1366px.jpg
     alt: "Laboratory photo"
     title: "Laboratory photo"
   - url: /assets/img/gallery/2025070801.jpg
