@@ -15,18 +15,6 @@ toc_icon: "bars"
 layout: single
 # excerpt: " <br> <br> <br>"
 gallery:
-  - url: /assets/img/gallery/2025tuanjian01_1366px.jpg
-    image_path: /assets/img/gallery/2025tuanjian01_1366px.jpg
-    alt: "Laboratory photo"
-    title: "Laboratory photo"
-  - url: /assets/img/gallery/2025tuanjian02_1366px.jpg
-    image_path: /assets/img/gallery/2025tuanjian02_1366px.jpg
-    alt: "Laboratory photo"
-    title: "Laboratory photo"
-  - url: /assets/img/gallery/2025tuanjian03_1366px.png
-    image_path: /assets/img/gallery/2025tuanjian03_1366px.png
-    alt: "Laboratory photo"
-    title: "Laboratory photo"
   - url: /assets/img/gallery/2025jiaoshijie01_1366px.jpg
     image_path: /assets/img/gallery/2025jiaoshijie01_1366px.jpg
     alt: "Laboratory photo"
@@ -37,6 +25,18 @@ gallery:
     title: "Laboratory photo"
   - url: /assets/img/gallery/2025jiaoshijie03_1366px.jpg
     image_path: /assets/img/gallery/2025jiaoshijie03_1366px.jpg
+    alt: "Laboratory photo"
+    title: "Laboratory photo"
+  - url: /assets/img/gallery/2025tuanjian01_1366px.jpg
+    image_path: /assets/img/gallery/2025tuanjian01_1366px.jpg
+    alt: "Laboratory photo"
+    title: "Laboratory photo"
+  - url: /assets/img/gallery/2025tuanjian02_1366px.jpg
+    image_path: /assets/img/gallery/2025tuanjian02_1366px.jpg
+    alt: "Laboratory photo"
+    title: "Laboratory photo"
+  - url: /assets/img/gallery/2025tuanjian03_1366px.png
+    image_path: /assets/img/gallery/2025tuanjian03_1366px.png
     alt: "Laboratory photo"
     title: "Laboratory photo"
   - url: /assets/img/gallery/2025070801.jpg
