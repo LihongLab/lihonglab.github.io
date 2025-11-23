@@ -117,6 +117,15 @@ gallery:
 # Academic Events
 
 <figure class="third">
+  <a href="/assets/img/gallery/20251123122205.jpg" >
+  <img src="/assets/img/gallery/20251123122205.jpg"></a>
+  
+  <a href="/assets/img/gallery/20251123122137.jpg" >
+  <img src="/assets/img/gallery/20251123122137.jpg"></a>
+
+  <a href="/assets/img/gallery/20251123120846.jpg" >
+  <img src="/assets/img/gallery/20251123120846.jpg"></a>
+  
   <a href="/assets/img/gallery/xihu2025_500px.jpg" >
   <img src="/assets/img/gallery/xihu2025_500px.jpg"></a>
   

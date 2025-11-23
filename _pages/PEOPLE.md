@@ -91,6 +91,16 @@ feature_row:
     excerpt: >
       M.Sc. Student <br>
       zangyan2024:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/HuJiawei.jpg
+    title: "Jiawei Hu"
+    excerpt: >
+      M.Sc. Student <br>
+      hujiawei2025:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/YangWenxin.jpg
+    title: "Wenxin Yang"
+    excerpt: >
+      M.Sc. Student <br>
+      yangwenxin2025:paperclip:sinh**.**ac**.**cn
 feature_row2:
   - image_path: /assets/img/pic/lihong1.jpg
     alt: "Hong Li"

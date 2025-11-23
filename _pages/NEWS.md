@@ -9,6 +9,19 @@ toc_icon: "bars"
 ---
 # 2025
 
+## November
+
+* Congratulations to <strong>Jiawei Hu</strong> and <strong>Wenxin Yang</strong> on joining our group as new graduate students! We are excited to have you on board and look forward to working with you.
+
+* Congratulations to <strong>Jiarong Li</strong> for winning Third Prize in the Oral Presentation and to <strong>Heqi Wang</strong> for achieving First Prize in the Poster Award at the Shanghai Society for Bioinformatics!
+
+<figure class="align-center">
+  <a href="/assets/img/news/20251123120846.jpg" title="pic" alt="pic">
+    <img src="/assets/img/news/20251123120846.jpg"/>
+  </a>
+</figure>
+
+
 ## July
 * Welcome <strong>Feifei Sun</strong>, <strong>Wenxin Yang</strong> and <strong>Jiawei Hu</strong> for summer internship!
 
