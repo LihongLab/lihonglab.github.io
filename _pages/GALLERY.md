@@ -117,6 +117,9 @@ gallery:
 # Academic Events
 
 <figure class="third">
+  <a href="/assets/img/gallery/20251123122432_854px.png" >
+  <img src="/assets/img/gallery/20251123122432_854px.png"></a>
+  
   <a href="/assets/img/gallery/20251123122205.jpg" >
   <img src="/assets/img/gallery/20251123122205.jpg"></a>
   
