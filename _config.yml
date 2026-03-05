@@ -78,7 +78,8 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
-
+head_scripts:
+  - /assets/css/academicons.min.css
 # Social Sharing
 twitter:
   username               :
@@ -145,6 +146,9 @@ footer:
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Hong-Li-13"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0001-5679-9980"
     - label: "CONTACT"
       icon: "far fa-envelope"
       url: "/CONTACT/"
