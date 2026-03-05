@@ -145,7 +145,7 @@ footer:
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Hong-Li-13"
     - label: "ORCID"
-      icon: "ai ai-orcid"
+      icon: "fas fa-orcid"
       url: "https://orcid.org/0000-0001-5679-9980"
     - label: "CONTACT"
       icon: "far fa-envelope"
