@@ -78,8 +78,6 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
-head_scripts:
-  - /assets/css/academicons.min.css
 # Social Sharing
 twitter:
   username               :
