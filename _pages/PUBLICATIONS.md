@@ -13,39 +13,103 @@ layout: single
 ---
 # Selected publications
 
-Feng, F.#, He, T.#, Lin, P.#, Hu, J.#, Shen, B., Tang, Z., Zhou, J., Fan, J., Hu, B., & **Li, H\***. (2025). Computational framework for prioritizing candidate compounds overcoming the resistance of pancancer immunotherapy. **Cell reports. Medicine**, 102276. [https://doi.org/10.1016/j.xcrm.2025.102276](https://doi.org/10.1016/j.xcrm.2025.102276) <a href="/assets/pdf/10.1016_j.xcrm.2025.102276.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a> <a href="https://mp.weixin.qq.com/s/EWo4mlz5kguKo485QZmiXA" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+Feng F#, He T#, Lin P#, Hu J#, Shen B, Tang Z, Zhou J, Fan J, Hu B, **Li  H\***. Computational framework for prioritizing candidate compounds overcoming the resistance of pancancer immunotherapy. **Cell Rep Med**. 2025 Aug 19;6(8):102276. doi: 10.1016/j.xcrm.2025.102276. Epub 2025 Aug 5. PMID: 40769146; PMCID: PMC12432370.
 
-Jing S.#, Wang, H., Lin, P., Yuan, J., Tang, Z., & **Li, H\***. (2025). Quantifying and interpreting biologically meaningful spatial signatures within tumor microenvironments. **npj Precision Oncology**, 9, 68.[https://doi.org/10.1038/s41698-025-00857-1](https://doi.org/10.1038/s41698-025-00857-1) <a href="/assets/pdf/s41698-025-00857-1.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>
+[https://doi.org/10.1016/j.xcrm.2025.102276](https://doi.org/10.1016/j.xcrm.2025.102276) <a href="/assets/pdf/10.1016_j.xcrm.2025.102276.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>   <a href="https://mp.weixin.qq.com/s/EWo4mlz5kguKo485QZmiXA" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-Wang, H.#, Li, J.#, Jing S, Lin, P., Qiu, Y., Yan, X., Yuan, J., Tang, Z., Li, Y., Zhang, H., Chen, Y., Wang, Z., & **Li, H\***. (2025). SOAPy: a Python package to dissect spatial architecture, dynamics, and communication. **Genome Biology**, 26, 80. [https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03550-5](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03550-5) <a href="/assets/pdf/GB2025.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s?__biz=MzU2MTgwNjkwMQ" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-Li, K.#, Shen, B.#, Feng F, Li, X., Wang, Y., Feng, N., Tang, Z., Ma, L., & **Li, H\***. (2024). A disentangled generative model for improved drug response prediction in patients via sample synthesis. **Journal of Pharmaceutical Analysis**, 101128. [https://doi.org/10.1016/j.jpha.2024.101128](https://doi.org/10.1016/j.jpha.2024.101128) <a href="/assets/pdf/JPHA101128.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/Orkd7PvtgZHcq_gAQrNV5w" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-Li, X.#, Shen, B., Feng F, Li, K., Tang, Z., Ma, L., & **Li, H\***. (2024). Dual-view jointly learning improves personalized drug synergy prediction. **Bioinformatics**, 40(10), btae604. [https://doi.org/10.1093/bioinformatics/btae604](https://doi.org/10.1093/bioinformatics/btae604) <a href="/assets/pdf/btae604.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/8M566CyBKOpngoJ1BHqmxQ" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+Jing SY#, Wang HQ, Lin P, Yuan J, Tang ZX,**Li  H\***. Quantifying and interpreting biologically meaningful spatial signatures within tumor microenvironments. **NPJ Precis Oncol**. 2025 Mar 11;9(1):68. doi: 10.1038/s41698-025-00857-1. PMID: 40069556; PMCID: PMC11897387.
 
-Jing, S. Y.#, Liu, D.#, Feng, N.#, Dong, H.#, Wang, H. Q., Yan, X., Chen, X. F., Qu, M. C., Lin, P., Yi, B., Feng, F., Chen, L.\*, Wang, H. Y.\*, **Li, H.\***, & He, Y. F\*. (2024). Spatial multiomics reveals a subpopulation of fibroblasts associated with cancer stemness in human hepatocellular carcinoma. **Genome Medicine**, 16(1), 98. [https://doi.org/10.1186/s13073-024-01367-8](https://doi.org/10.1186/s13073-024-01367-8) <a href="/assets/pdf/s13073-024-01367-8.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/V_5ghZeRTrUTWsNIatVB2w" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+[https://doi.org/10.1038/s41698-025-00857-1](https://doi.org/10.1038/s41698-025-00857-1) <a href="/assets/pdf/s41698-025-00857-1.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>
 
-Lin, P.#, Yan, X., Jing, S., Wu, Y., Shan, Y., Guo, W., Gu, J., Li, Y., Zhang, H., & **Li, H.\*** (2023). Single-cell and spatially resolved transcriptomics for liver biology. **Hepatology (Baltimore, Md.)**, 10.1097/HEP.0000000000000387. Advance online publication. <a href="/assets/pdf/Single_cell_and_spatially_resolved_transcriptomics_for_liver_biology.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/lJijLYq8vwityLLK8Ph3ew" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-Li, L.#, Cui, L.#, Lin, P.#, Liu, Z., Bao, S., Ma, X., Nan, H., Zhu, W., Cen, J., Mao, Y., Ma, X., Jiang, L., Nie, Y., Ginhoux, F., Li, Y.\*, **Li, H.\***, & Hui, L\*. (2023). Kupffer-cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers. **Cell Stem Cell**. <a href="/assets/pdf/1-s2.0-S1934590923000097-main.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="http://www.sinh.ac.cn/xwgg/kyjz/202302/t20230214_6677647.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/AZETQGZwPaWNrsHOVvGwog" rel="nofollow noopener noreferrer"><i class="fa-solid fa-link" aria-hidden="true"></i>BioArt</a> <a href="https://mp.weixin.qq.com/s/RPDX-sPLKQ-O45TZIgcfHg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-link" aria-hidden="true"></i>iNature</a>
 
-Shen, B.#, Feng, F.#, Li, K., Lin, P., Ma, L., & **Li, H\***. (2022). A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. **Briefings in bioinformatics**, bbac605. Advance online publication. <a href="/assets/pdf/bbac605.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/tjepBBL92wY890L4SD9ahg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+Wang H#, Li J#, Jing S, Lin P, Qiu Y, Yan X, Yuan J, Tang Z, Li Y, Zhang H, Chen Y, Wang Z, **Li  H\***. SOAPy: a Python package to dissect spatial architecture, dynamics, and communication. **Genome Biol**. 2025 Mar 29;26(1):80. doi: 10.1186/s13059-025-03550-5. PMID: 40158115; PMCID: PMC11954224.
 
-Yang J#, Lin P#, Yang M#, Liu W, Fu X, Liu D, Tao L, Huo Y, Zhang J, Hua R, Zhang Z\*, Li Y\*, Wang L\*, Xue J\*, **Li H\***, Sun Y\*. Integrated genomic and transcriptomic analysis reveals unique characteristics of hepatic metastases and pro-metastatic role of complement C1q in pancreatic ductal adenocarcinoma. **Genome biology** 2021, 22(1): 4. <a href="/assets/pdf/s13059-020-02222-w.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
+[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03550-5](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03550-5) <a href="/assets/pdf/GB2025.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s?__biz=MzU2MTgwNjkwMQ" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+
+
+Li K#, Shen B#, Feng F, Li X, Wang Y, Feng N, Tang Z, Ma L, **Li  H\***. A disentangled generative model for improved drug response prediction in patients via sample synthesis.**J Pharm Anal**. 2025 Jun;15(6):101128. doi: 10.1016/j.jpha.2024.101128. Epub 2024 Oct 24. PMID: 40678484; PMCID: PMC12268049.
+
+[https://doi.org/10.1016/j.jpha.2024.101128](https://doi.org/10.1016/j.jpha.2024.101128) <a href="/assets/pdf/JPHA101128.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/Orkd7PvtgZHcq_gAQrNV5w" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+
+</a>
+
+Li X#, Shen B, Feng F, Li K, Tang Z, Ma L,**Li  H\***. Dual-view jointly learning improves personalized drug synergy prediction. **Bioinformatics**. 2024 Oct 1;40(10):btae604. doi: 10.1093/bioinformatics/btae604. PMID: 39423102; PMCID: PMC11524890.
+
+[https://doi.org/10.1093/bioinformatics/btae604](https://doi.org/10.1093/bioinformatics/btae604) <a href="/assets/pdf/btae604.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/8M566CyBKOpngoJ1BHqmxQ" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+
+</a>
+
+Jing SY#, Liu D#, Feng N#, Dong H#, Wang HQ, Yan X, Chen XF, Qu MC, Lin P, Yi B, Feng F, Chen L\*, Wang HY\*, **Li  H\***, He YF\*. Spatial multiomics reveals a subpopulation of fibroblasts associated with cancer stemness in human hepatocellular carcinoma. **Genome Med**. 2024 Aug 13;16(1):98. doi: 10.1186/s13073-024-01367-8. PMID: 39138551; PMCID: PMC11320883. [https://doi.org/10.1186/s13073-024-01367-8](https://doi.org/10.1186/s13073-024-01367-8) <a href="/assets/pdf/s13073-024-01367-8.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/V_5ghZeRTrUTWsNIatVB2w" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+
+
+Lin P#, Yan X, Jing S, Wu Y, Shan Y, Guo W, Gu J, Li Y, Zhang H, **Li  H\***. Single-cell and spatially resolved transcriptomics for liver biology. **Hepatology**. 2024 Sep 1;80(3):698-720. doi: 10.1097/HEP.0000000000000387. Epub 2023 Apr 3. PMID: 37002587.
+
+ <a href="/assets/pdf/Single_cell_and_spatially_resolved_transcriptomics_for_liver_biology.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/lJijLYq8vwityLLK8Ph3ew" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>
+
+</a>
+
+Li L#, Cui L#, Lin P#, Liu Z, Bao S, Ma X, Nan H, Zhu W, Cen J, Mao Y, Ma X, Jiang L, Nie Y, Ginhoux F, Li Y\*, **Li  H\***, Hui L\*. Kupffer-cell-derived IL-6 is repurposed for hepatocyte dedifferentiation via activating progenitor genes from injury-specific enhancers. **Cell Stem Cell**. 2023 Mar 2;30(3):283-299.e9. doi: 10.1016/j.stem.2023.01.009. Epub 2023 Feb 13. PMID: 36787740.
+
+ <a href="/assets/pdf/1-s2.0-S1934590923000097-main.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="http://www.sinh.ac.cn/xwgg/kyjz/202302/t20230214_6677647.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/AZETQGZwPaWNrsHOVvGwog" rel="nofollow noopener noreferrer"><i class="fa-solid fa-link" aria-hidden="true"></i>BioArt</a> <a href="https://mp.weixin.qq.com/s/RPDX-sPLKQ-O45TZIgcfHg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-link" aria-hidden="true"></i>iNature
+
+</a>
+
+Shen B#, Feng F#, Li K, Lin P, Ma L, **Li  H\***. A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. **Brief Bioinform**. 2023 Jan 19;24(1):bbac605. doi: 10.1093/bib/bbac605. PMID: 36575826.
+
+ <a href="/assets/pdf/bbac605.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/tjepBBL92wY890L4SD9ahg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+
+
+Yang J#, Lin P#, Yang M#, Liu W, Fu X, Liu D, Tao L, Huo Y, Zhang J, Hua R, Zhang Z\*, Li Y\*, Wang L\*, Xue J\*, **Li  H\***, Sun Y\*. Integrated genomic and transcriptomic analysis reveals unique characteristics of hepatic metastases and pro-metastatic role of complement C1q in pancreatic ductal adenocarcinoma. **Genome Biol**. 2021 Jan 4;22(1):4. doi: 10.1186/s13059-020-02222-w. PMID: 33397441; PMCID: PMC7780398.
+
+ <a href="/assets/pdf/s13059-020-02222-w.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
+
+
 
 Feng F, Shen B, Mou X, Li Y, **Li H\***. Large-scale pharmacogenomic studies and drug response prediction for personalized cancer medicine. **J Genet Genomics**. 2021;48(7):540-55 <a href="/assets/pdf/1-s2.0-S1673852721000849-main.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
 
-Hu B#, **Li H#**, Guo W, Sun YF, Zhang X, Tang WG, Yang LX, Xu Y, Tang XY, Ding GH, Qiu SJ, Zhou J, Li YX, Fan J\*, Yang XR\*. Establishment of a hepatocellular carcinoma patient-derived xenograft platform and its application in biomarker identification. **Int J Cancer** 2020 Mar 15;146(6):1606-1617. <a href="/assets/pdf/Intl Journal of Cancer - 2019 - Hu - Establishment of a hepatocellular carcinoma patient‐derived xenograft platform and its.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
 
-Qiu Z#, **Li H#**, Zhang Z#, Zhu Z, He S, Wang X, Wang P, Qin J, Zhuang L, Wang W, Xie F, Gu Y, Zou K, Li C, Li C, Wang C, Cen J, Chen X, Shu Y, Zhang Z, Sun L, Min L, Fu Y, Huang X, Lv H, Zhou H, Ji Y, Zhang Z, Meng Z, Shi X, Zhang H\*, Li Y\*, Hui L\*. A Pharmacogenomic Landscape in Human Liver Cancers. **Cancer Cell** 2019 Aug 12;36(2):179-193.e11. <a href="/assets/pdf/PIIS1535610819303289.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
 
-Li W#, Yang L#, He Q, Hu C, Zhu L, Ma X, Ma X, Bao S, Li L, Chen Y, Deng X, Zhang X, Cen J, Zhang L, Wang Z, Xie WF, **Li H\***, Li Y\*, Hui L\*. A Homeostatic Arid1a-Dependent Permissive Chromatin State Licenses Hepatocyte Responsiveness to Liver-Injury-Associated YAP Signaling. **Cell Stem Cell** 2019 Jul 3;25(1):54-68.e5. <a href="/assets/pdf/PIIS1934590919302723.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
+Hu B#, **Li  H#**, Guo W, Sun YF, Zhang X, Tang WG, Yang LX, Xu Y, Tang XY, Ding GH, Qiu SJ, Zhou J, Li YX, Fan J\*, Yang XR\*. Establishment of a hepatocellular carcinoma patient-derived xenograft platform and its application in biomarker identification. **Int J Cancer**. 2020 Mar 15;146(6):1606-1617. doi: 10.1002/ijc.32564. Epub 2019 Aug 9. PMID: 31310010.
 
-Cheng J#, Wei D, Ji Y, Chen L, Yang L, Li G, Wu L, Hou T, Xie L, Ding G, **Li H\***, Li Y\*. Integrative analysis of DNA methylation and gene expression reveals hepatocellular carcinoma-specific diagnostic biomarkers. **Genome Medl** 2018 May 30;10(1):42. <a href="/assets/pdf/s13073-018-0548-z.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
+ <a href="/assets/pdf/Intl Journal of Cancer - 2019 - Hu - Establishment of a hepatocellular carcinoma patient‐derived xenograft platform and its.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
 
-Hu H#, **Li H#**, Jiao F, Han T, Zhuo M, Cui J, Li Y\*, Wang L\*. Association of a novel point mutation in MSH2 gene with familial multiple primary cancers. **J Hematol Oncol** 2017 Oct 3;10(1):158. <a href="/assets/pdf/s13045-017-0523-y.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
+
+
+Qiu Z#, **Li H#**, Zhang Z#, Zhu Z, He S, Wang X, Wang P, Qin J, Zhuang L, Wang W, Xie F, Gu Y, Zou K, Li C, Li C, Wang C, Cen J, Chen X, Shu Y, Zhang Z, Sun L, Min L, Fu Y, Huang X, Lv H, Zhou H, Ji Y, Zhang Z, Meng Z, Shi X, Zhang H\*, Li Y\*, Hui L\*. A Pharmacogenomic Landscape in Human Liver Cancers. **Cancer Cell**. 2019 Aug 12;36(2):179-193.e11. doi: 10.1016/j.ccell.2019.07.001. Epub 2019 Aug 1. PMID: 31378681; PMCID: PMC7505724.
+
+ <a href="/assets/pdf/PIIS1535610819303289.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
+
+
+
+Li W#, Yang L#, He Q, Hu C, Zhu L, Ma X, Ma X, Bao S, Li L, Chen Y, Deng X, Zhang X, Cen J, Zhang L, Wang Z, Xie WF, **Li  H\***, Li Y\*, Hui L\*. A Homeostatic Arid1a-Dependent Permissive Chromatin State Licenses Hepatocyte Responsiveness to Liver-Injury-Associated YAP Signaling. **Cell Stem Cell**. 2019 Jul 3;25(1):54-68.e5. doi: 10.1016/j.stem.2019.06.008. PMID: 31271748.
+
+ <a href="/assets/pdf/PIIS1934590919302723.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
+
+
+
+Cheng J#, Wei D, Ji Y, Chen L, Yang L, Li G, Wu L, Hou T, Xie L, Ding G, **Li  H\***, Li Y\*. Integrative analysis of DNA methylation and gene expression reveals hepatocellular carcinoma-specific diagnostic biomarkers.**Genome Med**. 2018 May 30;10(1):42. doi: 10.1186/s13073-018-0548-z. PMID: 29848370; PMCID: PMC5977535.
+
+ <a href="/assets/pdf/s13073-018-0548-z.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
+
+
+
+Hu H#,**Li  H#**, Jiao F, Han T, Zhuo M, Cui J, Li Y\*, Wang L\*. Association of a novel point mutation in MSH2 gene with familial multiple primary cancers. **J Hematol Oncol**. 2017 Oct 3;10(1):158. doi: 10.1186/s13045-017-0523-y. PMID: 28974240; PMCID: PMC5627420.
+
+ <a href="/assets/pdf/s13045-017-0523-y.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a>
+
+
 
 # All publications
+
+## 2026
+
+Xia Y#, Zhang X#, Liu Y#, Sheng J, Hu S, Li J, Yuan L, Zhu S, **Li  H\***, Wu X\*, Fan J\*. Single-cell transcriptomics uncovers malignant potential of gallbladder adenomyomatosis and identifies PRDX1+ immunosuppressive macrophages in gallbladder carcinoma. **Int J Surg**. 2026 Jan 23. doi: 10.1097/JS9.0000000000004916. Epub ahead of print. PMID: 41570280.
 
 ## 2025
 
@@ -203,5 +267,4 @@ Zheng, G.#, **Li, H.#**, Wang, C., Sheng, Q., Fan, H., Yang, S., Liu, B., Dai, J
 **Li, H.#**, Ding, G., Xie, L.\*, & Li, Y.\* (2009). PAnnBuilder: an R package for assembling proteomic annotation data. **Bioinformatics (Oxford, England)**, 25, 1094-1095. [https://doi.org/10.1093/bioinformatics/btp100](https://doi.org/10.1093/bioinformatics/btp100) 
 
 Ding, G., Sun, Y., **Li, H.**, Wang, Z., Fan, H., Wang, C., Yang, D., & Li, Y. (2008). EPGD: a comprehensive web resource for integrating and displaying eukaryotic paralog/paralogon information. **Nucleic acids research**, 36, D255-262. [https://doi.org/10.1093/nar/gkm924](https://doi.org/10.1093/nar/gkm924) 
-
 

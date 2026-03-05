@@ -25,14 +25,13 @@ toc_icon: "bars"
 ## July
 * Welcome <strong>Feifei Sun</strong>, <strong>Wenxin Yang</strong> and <strong>Jiawei Hu</strong> for summer internship!
 
-* A research team led by Prof. Hong Li from the Shanghai Institute of Nutrition and Health (SINH), Chinese Academy of Sciences, has published a new study in Cell Reports Medicine presenting a novel computational framework for identifying compounds capable of overcoming resistance to pancancer immunotherapy.
+* A research team led by Prof. Hong Li from the Shanghai Institute of Nutrition and Health (SINH), Chinese Academy of Sciences, has published a new study in Cell Reports Medicine presenting [a novel computational framework for identifying compounds capable of overcoming resistance to pancancer immunotherapy](https://doi.org/10.1016/j.xcrm.2025.102261).
 
 <figure class="align-center">
   <a href="/assets/img/news/CReports_854px.png" title="Graphical abstract" alt="Graphical abstract">
     <img src="/assets/img/news/CReports_854px.png"/>
   </a>
 </figure>
-
 <small>Immunotherapy has revolutionized cancer treatment, but many patients experience resistance. To tackle this issue, Fangyoumin Feng—first author of the study—and colleagues developed a method named IGeS-BS to prioritize candidate compounds that could enhance immunotherapeutic responses. Through meta-analysis of approximately 1,000 transcriptomes from immunotherapy-treated patients, the team identified 33 tumor microenvironment (TME) signatures capable of accurately predicting patient responses.</small>
 
 <small>This study not only offers a powerful computational tool for drug discovery but also provides new therapeutic opportunities to overcome immune resistance in cancer. Prof. Hong Li, corresponding author, emphasized the translational potential of these findings in guiding combination immunotherapy strategies. The work was supported by the National Natural Science Foundation of China, the Natural Science Foundation of Shanghai, the CAS Youth Innovation Promotion Association, and the Shanghai Sailing Program.</small>
