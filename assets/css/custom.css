@@ -1,0 +1,16 @@
+/* ORCID 专用样式：黑色圆形背景 + 白色符号 */
+.ai-orcid,
+.ai-orcid-square {
+  background-color: #000000;          /* 纯黑背景 */
+  color: #ffffff !important;          /* 强制白色 "id" 符号 */
+  border-radius: 50%;                 /* 圆形（确保填充成圆盘） */
+  display: inline-block;              /* 让背景包裹图标 */
+  width: 1.2em;                       /* 固定尺寸，保持比例（根据字体大小调整） */
+  height: 1.2em;
+  line-height: 1.2em;                 /* 垂直居中 */
+  text-align: center;
+  font-size: 1em;                     /* 与其他图标一致，可调大如 1.2em */
+  vertical-align: middle;             /* 对齐文本 */
+  padding: 0;                         /* 无内边距，或微调 0.1em */
+  box-sizing: border-box;             /* 包含边框/填充 */
+}
