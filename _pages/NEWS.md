@@ -7,6 +7,26 @@ toc_label: " "
 toc_icon: "bars"
 # classes: wide
 ---
+# 2026
+
+## January
+
+- Cancer Systems Biology group contributes a research paper entitled ["Single-cell transcriptomics uncovers malignant potential of gallbladder adenomyomatosis and identifies PRDX1+ immunosuppressive macrophages in gallbladder carcinoma"](https://journals.lww.com/international-journal-of-surgery/fulltext/9900/single_cell_transcriptomics_uncovers_malignant.4534.aspx) in _International Journal Of Surgery_. <a href="https://mp.weixin.qq.com/s/buQPkjr0-pYSk6AoeFcnFg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+  <figure class="align-center">
+    <a href="/assets/img/news/IntJSurg2026FIG1.png" title="Graphical abstract" alt="Graphical abstract">
+      <img src="/assets/img/news/IntJSurg2026FIG1.png"/>
+    </a>
+  </figure>
+
+  <small>While the inflammation-to-carcinoma transition in gallbladder carcinogenesis is well recognized, the molecular pathogenesis of gallbladder adenomyomatosis (GBA), which is clinically associated with both chronic cholecystitis (CCS) and gallbladder carcinoma (GBC), remains poorly understood. Hence, we aimed to evaluate the premalignant potential of GBA and to identify previously unrecognized molecular pathways involved in gallbladder carcinogenesis.</small>
+
+  <small>We first conducted single-cell RNA sequencing and downstream bioinformatics analyses on samples from nine patients with CCS, GBA, and GBC. Key molecular findings were subsequently validated using publicly available bulk RNA-seq datasets (*n* = 80) and multiplex immunohistochemistry in an independent cohort (*n* = 62). Functional validation of tumor microenvironment-associated molecules was performed through a series of *in vitro* and *in vivo* assays.</small>
+
+  <small>We profiled the transcriptomic landscape of 89 428 single cells and uncovered distinct epithelial and immune ecosystems across different disease stages. A transitional epithelial subset (SPP1–CCL20⁺ EpiC3) and PTGER4+CCL5⁺ CD8⁺T cells were identified in GBA tissues, indicating malignant potential. Notably, PRDX1 was selectively upregulated in the GBC-derived Macro04 macrophages, which displayed strong interactions with exhausted T cells and malignant epithelial cells. Functionally, PRDX1 knockdown in macrophages disrupted mitochondrial oxidative metabolism, leading to metabolic reprogramming and diminished M2 polarization, thereby attenuating tumor cell proliferation, migration, and invasion both *in vitro* and *in vivo*. Mechanistically, PRDX1 loss downregulated PPAR-δ and CPT1A, whereas PPAR-δ agonist GW1516 restored CPT1A expression as well as the associated metabolic and polarization defects, supporting a PRDX1/PPAR-δ/CPT1A regulatory axis governing macrophage immunometabolism in GBC.</small>
+
+  <small>Our study reveals that GBA harbors malignant potential at both epithelial and immune microenvironmental levels. The expression of CCL20, CCL5, and PRDX1 may serve as molecular markers for stratifying high-risk GBA, while PRDX1 represents a promising therapeutic target for reprogramming the tumor immune microenvironment in GBC.</small>
+
 # 2025
 
 ## November
@@ -200,7 +220,6 @@ toc_icon: "bars"
   <a href="/assets/img/news/CSC2023Fig3.png" title="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation; Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6" alt="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation; Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6.">
   <img src="/assets/img/news/CSC2023Fig3.png" title="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation; Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6" alt="Figure 1. ScRNA-seq delineates the cellular transition and the molecular dynamics of LPLC formation; Figure 2. Regionally-activated Kupffer cells induce LPLC formation via IL-6."></a>
 </figure>
-
 <small>Stem cell-independent reprogramming of differentiated cells has recently been identified as an important paradigm for repairing injured tissues. Following periportal injury, mature hepatocytes re-activate reprogramming/progenitor-related genes (RRGs) and dedifferentiate into liver progenitor-like cells (LPLCs) in both mice and humans, which contribute remarkably to regeneration. However, it remains unknown which and how external factors trigger hepatocyte reprogramming. Here, by employing single-cell transcriptional profiling we reconstructed the cellular trajectory of LPLC formation and deciphered the key pathways underlying cellular state transition during the process (Figure 1). We found that immune related pathways were highly correlated with LPLC formation. By utilizing lineage-specific deletion tools, we uncovered that periportal-specific LPLC formation was initiated by regionally activated Kupffer cells but not peripheral monocyte-derived macrophages (Figure 2). Unexpectedly, using in vivo screening, the proinflammatory factor IL-6 was identified as the niche signal repurposed for RRG induction via STAT3 activation, which drove RRG expression through binding to their pre-accessible enhancers. Notably, RRGs were activated through injury-specific rather than liver embryogenesis-related enhancers. Collectively, these findings depict an injury-specific niche signal and the inflammation-mediated transcription in driving the conversion of hepatocytes into a progenitor phenotype (Figure 2). Lu Li, Lei Cui from Shanghai Institute of Biochemistry and Cell Biology (SIBCB), Center for Excellence in Molecular Cell Science, CAS and Ping Lin from Cancer Systems Biology group at Shanghai Institute of Nutrition and Health (SINH), CAS serve as co-first authors. Professor Lijian Hui from SIBCB, Center for Excellence in Molecular Cell Science, CAS, Professor Hong Li from Cancer Systems Biology group at SINH, CAS and Professor Yixue Li from SINH, CAS serves as the co-corresponding authors. This work was supported by the funding from Chinese Academy of Sciences, the National Key Research and Development Project, the National Natural Science Foundation of China, CAS Youth Innovation Promotion Association, Shanghai Science and Technology Committee, Shanghai Municipal Science and Technology Major Project, and the Shanghai Sailing Program.</small>
 
 <small>For more information, please refer to: </small>
