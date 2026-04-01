@@ -13,6 +13,10 @@ layout: single
 ---
 # Selected publications
 
+Zhang Z#, **Li H#\***, Chen L#, Lu T, Shentu X, Liu Y, Tang Z, Ji S, Qiu Z, Zou Y, Wen H, Han J, Jiang Z, Fan J, Gao X, Li D, Mesropian A, Pinyol R, Llovet JM, Dong H, Ji Y\*, Hui L\*. Molecular insights into early malignant transition of hepatocellular carcinoma. **Cancer Cell**. 2026 Mar 26:S1535-6108(26)00157-1. doi: 10.1016/j.ccell.2026.03.005. Epub ahead of print. PMID: 41895279.[https://www.sciencedirect.com/science/article/pii/S1535610826001571](https://www.sciencedirect.com/science/article/pii/S1535610826001571) <a href="/assets/pdf/10.1016_j.xcrm.2025.102276.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>   <a href="https://mp.weixin.qq.com/s/y2DJxxM4r7Fz3vjOkonJoQ" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+
+
 Feng F#, He T#, Lin P#, Hu J#, Shen B, Tang Z, Zhou J, Fan J, Hu B, **Li  H\***. Computational framework for prioritizing candidate compounds overcoming the resistance of pancancer immunotherapy. **Cell Rep Med**. 2025 Aug 19;6(8):102276. doi: 10.1016/j.xcrm.2025.102276. Epub 2025 Aug 5. PMID: 40769146; PMCID: PMC12432370. [https://doi.org/10.1016/j.xcrm.2025.102276](https://doi.org/10.1016/j.xcrm.2025.102276) <a href="/assets/pdf/10.1016_j.xcrm.2025.102276.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>   <a href="https://mp.weixin.qq.com/s/EWo4mlz5kguKo485QZmiXA" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 
