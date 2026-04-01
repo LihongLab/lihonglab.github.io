@@ -17,6 +17,10 @@ Zhang Z#, **Li H#\***, Chen L#, Lu T, Shentu X, Liu Y, Tang Z, Ji S, Qiu Z, Zou 
 
 
 
+Yang J#, Chen W#, Duan Z, Yang M, Tao L, Huo Y, Liu W, Zhang J, Yao L, Liu Y\*, Lin P\*, **Li H\***, Sun Y\*. A malignant subpopulation of H2AFZ+ cells interacts with myeloid cells to promote an anti-inflammatory microenvironment and drive hepatic metastasis, revealing an immunotherapeutic strategy for pancreatic ductal adenocarcinoma. **Clin Cancer Res**. 2026 Mar 16. doi: 10.1158/1078-0432.CCR-25-3359. Epub ahead of print. PMID: 41837750.[https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-3359/775442](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-3359/775442) <a href="/assets/pdf/Cancer Cell 2026.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>   <a href="https://mp.weixin.qq.com/s/IBEdBr328AbMhZk6xxpbiA" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+
+
 Feng F#, He T#, Lin P#, Hu J#, Shen B, Tang Z, Zhou J, Fan J, Hu B, **Li  H\***. Computational framework for prioritizing candidate compounds overcoming the resistance of pancancer immunotherapy. **Cell Rep Med**. 2025 Aug 19;6(8):102276. doi: 10.1016/j.xcrm.2025.102276. Epub 2025 Aug 5. PMID: 40769146; PMCID: PMC12432370. [https://doi.org/10.1016/j.xcrm.2025.102276](https://doi.org/10.1016/j.xcrm.2025.102276) <a href="/assets/pdf/10.1016_j.xcrm.2025.102276.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>   <a href="https://mp.weixin.qq.com/s/EWo4mlz5kguKo485QZmiXA" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 
