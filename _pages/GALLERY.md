@@ -116,15 +116,14 @@ gallery:
 
 # Academic Events
 
-<a href="/assets/img/gallery/第三届全国生物医学女科学家学术研讨会会议202603.jpg" title="第三届全国生物医学女科学家学术研讨会会议202603" alt="AI虚拟细胞研讨会">  <img src="/assets/img/gallery/第三届全国生物医学女科学家学术研讨会会议202603.jpg" title="第三届全国生物医学女科学家学术研讨会会议202603" alt="第三届全国生物医学女科学家学术研讨会会议202603"> </a>
-
-<a href="/assets/img/gallery/AI虚拟细胞研讨会202603.jpg" title="AI虚拟细胞研讨会" alt="AI虚拟细胞研讨会">  <img src="/assets/img/gallery/AI虚拟细胞研讨会202603.jpg" title="AI虚拟细胞研讨会" alt="AI虚拟细胞研讨会202603"> </a>
-
 <figure class="third">
   <a href="/assets/img/gallery/20251123122432_854px.png" >
   <img src="/assets/img/gallery/20251123122432_854px.png"></a>
 <a href="/assets/img/gallery/20251123122205.jpg" >
   <img src="/assets/img/gallery/20251123122205.jpg"></a>
+<a href="/assets/img/gallery/第三届全国生物医学女科学家学术研讨会会议202603.jpg" title="第三届全国生物医学女科学家学术研讨会会议202603" alt="AI虚拟细胞研讨会">  <img src="/assets/img/gallery/第三届全国生物医学女科学家学术研讨会会议202603.jpg" title="第三届全国生物医学女科学家学术研讨会会议202603" alt="第三届全国生物医学女科学家学术研讨会会议202603"> </a>
+
+<a href="/assets/img/gallery/AI虚拟细胞研讨会202603.jpg" title="AI虚拟细胞研讨会" alt="AI虚拟细胞研讨会">  <img src="/assets/img/gallery/AI虚拟细胞研讨会202603.jpg" title="AI虚拟细胞研讨会" alt="AI虚拟细胞研讨会202603"> </a>
 
   <a href="/assets/img/gallery/20251123122137.jpg" >
   <img src="/assets/img/gallery/20251123122137.jpg"></a>
