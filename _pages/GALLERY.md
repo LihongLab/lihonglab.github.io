@@ -119,22 +119,26 @@ gallery:
 <figure class="third">
   <a href="/assets/img/gallery/20251123122432_854px.png" >
   <img src="/assets/img/gallery/20251123122432_854px.png"></a>
-  
-  <a href="/assets/img/gallery/20251123122205.jpg" >
+
+<a href="/assets/img/gallery/第三届全国生物医学女科学家学术研讨会会议202603.jpg" title="第三届全国生物医学女科学家学术研讨会会议202603" alt="AI虚拟细胞研讨会">  <img src="/assets/img/gallery/第三届全国生物医学女科学家学术研讨会会议202603.jpg" title="第三届全国生物医学女科学家学术研讨会会议202603" alt="第三届全国生物医学女科学家学术研讨会会议202603"> </a>
+
+<a href="/assets/img/gallery/AI虚拟细胞研讨会202603.jpg" title="AI虚拟细胞研讨会" alt="AI虚拟细胞研讨会">  <img src="/assets/img/gallery/AI虚拟细胞研讨会202603.jpg" title="AI虚拟细胞研讨会" alt="AI虚拟细胞研讨会202603"> </a>
+
+<a href="/assets/img/gallery/20251123122205.jpg" >
   <img src="/assets/img/gallery/20251123122205.jpg"></a>
-  
+
   <a href="/assets/img/gallery/20251123122137.jpg" >
   <img src="/assets/img/gallery/20251123122137.jpg"></a>
 
   <a href="/assets/img/gallery/20251123120846.jpg" >
   <img src="/assets/img/gallery/20251123120846.jpg"></a>
-  
+
   <a href="/assets/img/gallery/xihu2025_500px.jpg" >
   <img src="/assets/img/gallery/xihu2025_500px.jpg"></a>
-  
+
   <a href="/assets/img/gallery/2025-03-24.jpg" title="冷泉港亚洲学术会议: Liver Metabolism, Inflammation, and Cancer" alt="冷泉港亚洲学术会议: Liver Metabolism, Inflammation, and Cancer">
   <img src="/assets/img/gallery/2025-03-24.jpg" title="冷泉港亚洲学术会议: Liver Metabolism, Inflammation, and Cancer" alt="冷泉港亚洲学术会议: Liver Metabolism, Inflammation, and Cancer"></a>
-  
+
   <a href="/assets/img/gallery/20241216121252.jpg" title="Frontiers in Single Cell Genomics in Awaji 2024-11" alt="Frontiers in Single Cell Genomics in Awaji 2024-11">
   <img src="/assets/img/gallery/20241216121252.jpg" title="Frontiers in Single Cell Genomics in Awaji 2024-11" alt="Frontiers in Single Cell Genomics in Awaji 2024-11"></a>
 
@@ -165,7 +169,7 @@ gallery:
 
   <a href="/assets/img/gallery/2024-04-13.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04">
   <img src="/assets/img/gallery/2024-04-13.jpg" title="2024年长三角第二届生物信息学学术大会 2024-04" alt="2024年长三角第二届生物信息学学术大会 2024-04"></a>
-  
+
   <a href="/assets/img/gallery/2024-03-31.jpg" title="CSP2024 2024-03" alt="CSP2024 2024-03">
   <img src="/assets/img/gallery/2024-03-31.jpg" title="CSP2024 2024-03" alt="CSP2024 2024-03"></a>
 
@@ -193,7 +197,7 @@ gallery:
   <a href="/assets/img/gallery/2023-10-15.jpg" title="Quantitative Biology 2023-10" alt="Quantitative Biology 2023-10">
   <img src="/assets/img/gallery/2023-10-15.jpg" title="Quantitative Biology 2023-10" alt="Quantitative Biology 2023-10"></a>
 
-  
+
   <a href="/assets/img/gallery/2023-10-16.jpg" title="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10" alt="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10">
   <img src="/assets/img/gallery/2023-10-16.jpg" title="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10" alt="上海市生物信息学会2023年-大模型时代的生物信息学-学术年会 2023-10"></a>
 
