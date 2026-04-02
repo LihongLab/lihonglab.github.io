@@ -14,8 +14,8 @@ toc_icon: "bars"
 - Cancer Systems Biology group contributes a research paper entitled ["Single-cell transcriptomics uncovers malignant potential of gallbladder adenomyomatosis and identifies PRDX1+ immunosuppressive macrophages in gallbladder carcinoma"](https://journals.lww.com/international-journal-of-surgery/fulltext/9900/single_cell_transcriptomics_uncovers_malignant.4534.aspx) in _International Journal Of Surgery_. <a href="https://mp.weixin.qq.com/s/buQPkjr0-pYSk6AoeFcnFg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
   <figure class="align-center">
-    <a href="/assets/img/news/IntJSurg2026FIG1.png" title="Graphical abstract" alt="Graphical abstract">
-      <img src="/assets/img/news/IntJSurg2026FIG1.png"/>
+    <a href="/assets/img/news/IntJSurg2026FIG9.png" title="Graphical abstract" alt="Graphical abstract">
+      <img src="/assets/img/news/IntJSurg2026FIG9.png"/>
     </a>
   </figure>
 
