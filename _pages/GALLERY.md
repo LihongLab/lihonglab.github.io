@@ -15,6 +15,14 @@ toc_icon: "bars"
 layout: single
 # excerpt: " <br> <br> <br>"
 gallery:
+  - url: /assets/img/gallery/20260115-2.jpg
+    image_path: /assets/img/gallery/20260115-2.jpg
+    alt: "Laboratory photo"
+    title: "Laboratory photo"
+  - url: /assets/img/gallery/20260115-1.jpg
+    image_path: /assets/img/gallery/20260115-1.jpg
+    alt: "Laboratory photo"
+    title: "Laboratory photo"
   - url: /assets/img/gallery/2025jiaoshijie01_1366px.jpg
     image_path: /assets/img/gallery/2025jiaoshijie01_1366px.jpg
     alt: "Laboratory photo"
