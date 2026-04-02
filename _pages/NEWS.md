@@ -9,6 +9,24 @@ toc_icon: "bars"
 ---
 # 2026
 
+## March
+
+- Cancer Systems Biology group contributes a research paper entitled ["A malignant subpopulation of H2AFZ+ cells interacts with myeloid cells to promote  an anti-inflammatory microenvironment and drive hepatic metastasis, revealing an  immunotherapeutic strategy for pancreatic ductal adenocarcinoma "](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-3359/775442/A-malignant-subpopulation-of-H2AFZ-cells-interacts?guestAccessKey=) in _Clinical Cancer Research_. <a href="https://mp.weixin.qq.com/s/buQPkjr0-pYSk6AoeFcnFg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+<figure class="align-center">
+  <a href="/assets/img/news/ClinicalCancerResearch2026FIG6.pdf" title="Graphical abstract" alt="Graphical abstract">
+    <img src="/assets/img/news/ClinicalCancerResearch2026FIG6.pdf"/>
+  </a>
+</figure>
+
+<small>Hepatic metastasis is the leading cause of death in pancreatic ductal adenocarcinoma  (PDAC). However, the underlying cellular and molecular programs remain poorly understood,  leading to limited therapeutics for this disease.   </small>
+
+<small>Here, we integrated single-cell RNA sequencing data from paired  primary tumors (PTs) and hepatic metastases (HMs), along with bulk RNA sequencing and  immunohistochemistry data from hundreds of patients to elucidate metastasis-associated  programs.  </small>
+
+<small>Our analysis identified a metastasis-prone malignant subpopulation, which is  associated with a higher risk of hepatic metastasis and a transitional plastic state. This malignant  subpopulation represents a poorly differentiated and highly proliferative phenotype, with  H2AFZ potentially contributing to this phenomenon. Moreover, the presence of tumor cells in  the liver was accompanied by an increased abundance of M2 macrophages, regulatory T cells,  and exhausted T cells in HMs compared with adjacent tissues, indicative of a shift toward an  immune suppressive environment. Notably, within the tumor environment of HMs, exhausted  T cells exhibited elevated expression of PDCD1 and LAG3. The combined therapy targeting  these two genes effectively inhibited tumor growth in mouse models of metastatic PDAC.   </small>
+
+<small> In conclusion, we reveal a metastasis-associated malignant subpopulation and  provide a promising therapeutic strategy for metastatic PDAC.</small>
+
 ## January
 
 - Cancer Systems Biology group contributes a research paper entitled ["Single-cell transcriptomics uncovers malignant potential of gallbladder adenomyomatosis and identifies PRDX1+ immunosuppressive macrophages in gallbladder carcinoma"](https://journals.lww.com/international-journal-of-surgery/fulltext/9900/single_cell_transcriptomics_uncovers_malignant.4534.aspx) in _International Journal Of Surgery_. <a href="https://mp.weixin.qq.com/s/buQPkjr0-pYSk6AoeFcnFg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
