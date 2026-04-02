@@ -11,11 +11,23 @@ toc_icon: "bars"
 
 ## March
 
+- Cancer Systems Biology group contributes a research paper entitled ["Molecular insights into early malignant transition of hepatocellular carcinoma "](https://www.sciencedirect.com/science/article/pii/S1535610826001571) in _Cancer Cell_. <a href="https://mp.weixin.qq.com/s/buQPkjr0-pYSk6AoeFcnFg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+<figure class="align-center">
+  <a href="/assets/img/news/CancerCell2026GraphicalAbstract.jpg" title="Graphical abstract" alt="Graphical abstract">
+    <img src="/assets/img/news/CancerCell2026GraphicalAbstract.jpg"/>
+  </a>
+</figure>
+
+<small>Understanding the molecular drivers of the premalignant-to-malignant transition is essential for early cancer detection and intervention, yet this process remains poorly characterized due to limited access to evolutionarily related lesions. Here, we comprehensively profiled the genomic and immunological landscapes of 21 very early hepatocellular carcinomas (veHCCs) arising within 17 cancer-prone dysplastic nodules (DNs). Notably, 82% of cancer-prone DNs harbored *TERT* alterations, suggesting a predisposing rather than causative role of *TERT* alteration in malignant transition. Notably, the accumulation of copy number alterations (CNAs), rather than single-nucleotide variants, is strongly associated with malignant transition. Intriguingly, different from the paradigm that HCC arises in chronic inflammation, cancer-prone DNs displayed immune inactivity. Strikingly, 43% of veHCCs showed an inflamed yet immune-evasive phenotype. These findings propose two evolutionary scenarios of early hepatocarcinogenesis, CNA-dominant progression and inflamed progression with early immune evasion, underscoring the potential of immunotherapy for early intervention.</small>
+
+
+
 - Cancer Systems Biology group contributes a research paper entitled ["A malignant subpopulation of H2AFZ+ cells interacts with myeloid cells to promote  an anti-inflammatory microenvironment and drive hepatic metastasis, revealing an  immunotherapeutic strategy for pancreatic ductal adenocarcinoma "](https://aacrjournals.org/clincancerres/article/doi/10.1158/1078-0432.CCR-25-3359/775442/A-malignant-subpopulation-of-H2AFZ-cells-interacts?guestAccessKey=) in _Clinical Cancer Research_. <a href="https://mp.weixin.qq.com/s/buQPkjr0-pYSk6AoeFcnFg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 <figure class="align-center">
-  <a href="/assets/img/news/ClinicalCancerResearch2026FIG6.pdf" title="Graphical abstract" alt="Graphical abstract">
-    <img src="/assets/img/news/ClinicalCancerResearch2026FIG6.pdf"/>
+  <a href="/assets/img/news/ClinicalCancerResearch2026FIG6.jpg" title="Graphical abstract" alt="Graphical abstract">
+    <img src="/assets/img/news/ClinicalCancerResearch2026FIG6.jpg"/>
   </a>
 </figure>
 
