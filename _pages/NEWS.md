@@ -7,6 +7,8 @@ toc_label: " "
 toc_icon: "bars"
 # classes: wide
 ---
+
+
 # 2026
 
 ## March
@@ -38,6 +40,10 @@ toc_icon: "bars"
 <small>Our analysis identified a metastasis-prone malignant subpopulation, which is  associated with a higher risk of hepatic metastasis and a transitional plastic state. This malignant  subpopulation represents a poorly differentiated and highly proliferative phenotype, with  H2AFZ potentially contributing to this phenomenon. Moreover, the presence of tumor cells in  the liver was accompanied by an increased abundance of M2 macrophages, regulatory T cells,  and exhausted T cells in HMs compared with adjacent tissues, indicative of a shift toward an  immune suppressive environment. Notably, within the tumor environment of HMs, exhausted  T cells exhibited elevated expression of PDCD1 and LAG3. The combined therapy targeting  these two genes effectively inhibited tumor growth in mouse models of metastatic PDAC.   </small>
 
 <small> In conclusion, we reveal a metastasis-associated malignant subpopulation and  provide a promising therapeutic strategy for metastatic PDAC.</small>
+
+
+
+- Congratulations to the Cancer Systems Biology group on winning the "March 8th Red Banner Collective" award.
 
 ## January
 
