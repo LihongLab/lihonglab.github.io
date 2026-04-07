@@ -13,6 +13,10 @@ layout: single
 ---
 # Selected publications
 
+Jing SY#, Li XL#, Wen H#, Cai JX, Bei YQ, Zhao XL, Zhang ZT, Fan XH, Zou YN, Chen LL, Wang YL, Wang CY, Li X, Meng LL, Lin P, Yan X, Ji Y\*,**Li H\***. Multimodal AI model for early detection of hepatocellular carcinoma. NPJ Precis Oncol. 2026 Apr 2. doi: 10.1038/s41698-026-01393-2. Epub ahead of print. PMID: 41927783.[https://www.nature.com/articles/s41698-026-01393-2](https://www.nature.com/articles/s41698-026-01393-2) <a href="/assets/pdf/npj Precision Oncology 2026.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>   <a href="https://mp.weixin.qq.com/s/HuhXxEepynKt_MW7lR1DIQ" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+
+
 Zhang Z#, **Li H#\***, Chen L#, Lu T, Shentu X, Liu Y, Tang Z, Ji S, Qiu Z, Zou Y, Wen H, Han J, Jiang Z, Fan J, Gao X, Li D, Mesropian A, Pinyol R, Llovet JM, Dong H, Ji Y\*, Hui L\*. Molecular insights into early malignant transition of hepatocellular carcinoma. **Cancer Cell**. 2026 Mar 26:S1535-6108(26)00157-1. doi: 10.1016/j.ccell.2026.03.005. Epub ahead of print. PMID: 41895279.[https://www.sciencedirect.com/science/article/pii/S1535610826001571](https://www.sciencedirect.com/science/article/pii/S1535610826001571) <a href="/assets/pdf/Cancer Cell 2026.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>   <a href="https://mp.weixin.qq.com/s/y2DJxxM4r7Fz3vjOkonJoQ" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 
