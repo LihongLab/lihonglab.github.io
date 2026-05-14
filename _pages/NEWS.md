@@ -8,10 +8,39 @@ toc_icon: "bars"
 # classes: wide
 ---
 
-
 # 2026
 
+## May
+
+- Congratulations to Dr. <strong>Heqi Wang</strong> , Dr. <strong>Kunshi Li</strong>, Dr. <strong>Xi Yan</strong> and Dr. <strong>Jiarong Li</strong> on their successful graduation! We are incredibly proud of your achievements and grateful for your contributions to the group. Wishing you all the best in your future endeavors!
+
+<figure class="half">
+  <a href="/assets/img/news/王鹤锜20260511.jpg" title="Figure 1">
+  <img src="/assets/img/news/王鹤锜20260511.jpg" title="Figure 1"></a>
+  <a href="/assets/img/news/李坤实20260511.jpg" title="Figure 2">
+  <img src="/assets/img/news/李坤实20260511.jpg" title="Figure 2"></a>
+</figure>
+
+<figure class="half">
+  <a href="/assets/img/news/颜溪20260514.jpg" title="Figure 3">
+  <img src="/assets/img/news/颜溪20260514.jpg" title="Figure 3"></a>
+  <a href="/assets/img/news/李家荣20260514.jpg" title="Figure 4">
+  <img src="/assets/img/news/李家荣20260514.jpg" title="Figure 4"></a>
+</figure>
+
 ## April
+
+- Cancer Systems Biology group contributes a research paper entitled ["Pan-cancer analysis of spatial transcriptomics reveals heterogeneous tumor spatial microenvironment"](https://www.sciencedirect.com/science/article/pii/S2666379126001680) in _Cell Reports Medicine_. <a href="https://mp.weixin.qq.com/s/HuhXxEepynKt_MW7lR1DIQ" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+<figure class="align-center">
+  <a href="/assets/img/news/CellReportsMedicine2026.jpg" title="Graphical abstract" alt="Graphical abstract">
+    <img src="/assets/img/news/CellReportsMedicine2026.jpg"/>
+  </a>
+</figure>
+
+<small>On April 17, the research team led by Professor Li Hong at the Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, published an online research paper titled "Pan-cancer analysis of spatial transcriptomics reveals heterogeneous tumor spatial microenvironment" in the international academic journal *Cell Reports Medicine*. This study defined conserved and core spatial niches across pan-cancer, systematically dissected the complexity of the pan-cancer spatial microenvironment as well as the common laws and unique patterns among different cancer types, and elucidated niche-associated molecular features and their associations with patient prognosis and immunotherapy response.</small>
+
+
 
 - Cancer Systems Biology group contributes a research paper entitled ["Multimodal AI model for early detection of hepatocellular  carcinoma"](https://www.nature.com/articles/s41698-026-01393-2) in _NPJ Precis Oncol_. <a href="https://mp.weixin.qq.com/s/HuhXxEepynKt_MW7lR1DIQ" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 

@@ -13,6 +13,10 @@ layout: single
 ---
 # Selected publications
 
+Jiarong Li#, Ping Lin, Heqi Wang, Zhixuan Tang, Xi Yan, Xufeng Chen, Jiao Yuan, Wanhong Chen, **Hong Li\***, Pan-cancer analysis of spatial transcriptomics reveals heterogeneous tumor spatial microenvironment, Cell Reports Medicine, 2026, 102751, ISSN 2666-3791, https://doi.org/10.1016/j.xcrm.2026.102751.<a href="/assets/pdf/Cell Reports Medicine 2026.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>   <a href="https://mp.weixin.qq.com/s/V_SyCje-hs4o5pVHJmDU3Q" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+
+
 Jing SY#, Li XL#, Wen H#, Cai JX, Bei YQ, Zhao XL, Zhang ZT, Fan XH, Zou YN, Chen LL, Wang YL, Wang CY, Li X, Meng LL, Lin P, Yan X, Ji Y\*,**Li H\***. Multimodal AI model for early detection of hepatocellular carcinoma. NPJ Precis Oncol. 2026 Apr 2. doi: 10.1038/s41698-026-01393-2. Epub ahead of print. PMID: 41927783.[https://www.nature.com/articles/s41698-026-01393-2](https://www.nature.com/articles/s41698-026-01393-2) <a href="/assets/pdf/npj Precision Oncology 2026.pdf" rel="nofollow noopener noreferrer"> <i class="fa-regular fa-file-pdf" aria-hidden="true"></i> </a>   <a href="https://mp.weixin.qq.com/s/HuhXxEepynKt_MW7lR1DIQ" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 
