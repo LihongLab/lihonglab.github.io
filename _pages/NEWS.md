@@ -28,6 +28,15 @@ toc_icon: "bars"
   <img src="/assets/img/news/李家荣20260514.jpg" title="Figure 4"></a>
 </figure>
 
+- Congratulations to Cancer Systems Biology group on relocating to the new **Caobao Road campus**!
+
+  
+
+  <figure>
+    <a href="/assets/img/news/漕宝路园区202605.jpg" title="Caobao Road campus">
+    <img src="/assets/img/news/漕宝路园区202605.jpg" title="Caobao Road campus"></a>
+  </figure>
+
 ## April
 
 - Cancer Systems Biology group contributes a research paper entitled ["Pan-cancer analysis of spatial transcriptomics reveals heterogeneous tumor spatial microenvironment"](https://www.sciencedirect.com/science/article/pii/S2666379126001680) in _Cell Reports Medicine_. <a href="https://mp.weixin.qq.com/s/HuhXxEepynKt_MW7lR1DIQ" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
