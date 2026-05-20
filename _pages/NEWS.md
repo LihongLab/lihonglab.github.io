@@ -46,7 +46,6 @@ toc_icon: "bars"
     <img src="/assets/img/news/CellReportsMedicine2026.jpg"/>
   </a>
 </figure>
-
 <small>On April 17, the research team led by Professor Li Hong at the Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, published an online research paper titled "Pan-cancer analysis of spatial transcriptomics reveals heterogeneous tumor spatial microenvironment" in the international academic journal *Cell Reports Medicine*. This study defined conserved and core spatial niches across pan-cancer, systematically dissected the complexity of the pan-cancer spatial microenvironment as well as the common laws and unique patterns among different cancer types, and elucidated niche-associated molecular features and their associations with patient prognosis and immunotherapy response.</small>
 
 
