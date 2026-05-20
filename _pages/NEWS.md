@@ -15,18 +15,12 @@ toc_icon: "bars"
 - Congratulations to Dr. <strong>Heqi Wang</strong> , Dr. <strong>Kunshi Li</strong>, Dr. <strong>Xi Yan</strong> and Dr. <strong>Jiarong Li</strong> on their successful graduation! We are incredibly proud of your achievements and grateful for your contributions to the group. Wishing you all the best in your future endeavors!
 
 <figure class="half">
-  <a href="/assets/img/news/王鹤锜20260511.jpg" title="Figure 1">
-  <img src="/assets/img/news/王鹤锜20260511.jpg" title="Figure 1"></a>
-  <a href="/assets/img/news/李坤实20260511.jpg" title="Figure 2">
-  <img src="/assets/img/news/李坤实20260511.jpg" title="Figure 2"></a>
+  <a href="/assets/img/news/20260511.jpg" title="Figure 1">
+  <img src="/assets/img/news/20260511.jpg" title="Figure 1"></a>
+  <a href="/assets/img/news/20260514.jpg" title="Figure 2">
+  <img src="/assets/img/news/20260514.jpg" title="Figure 2"></a>
 </figure>
 
-<figure class="half">
-  <a href="/assets/img/news/颜溪20260514.jpg" title="Figure 3">
-  <img src="/assets/img/news/颜溪20260514.jpg" title="Figure 3"></a>
-  <a href="/assets/img/news/李家荣20260514.jpg" title="Figure 4">
-  <img src="/assets/img/news/李家荣20260514.jpg" title="Figure 4"></a>
-</figure>
 
 - Congratulations to Cancer Systems Biology group on relocating to the new **Caobao Road campus**!
 
