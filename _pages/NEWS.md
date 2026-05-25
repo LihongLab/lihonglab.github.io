@@ -17,8 +17,8 @@ toc_icon: "bars"
 <figure class="half">
   <a href="/assets/img/news/20260511.jpg" title="Figure 1">
   <img src="/assets/img/news/20260511.jpg" title="Figure 1"></a>
-  <a href="/assets/img/news/20260514.jpg" title="Figure 2">
-  <img src="/assets/img/news/20260514.jpg" title="Figure 2"></a>
+  <a href="/assets/img/news/20260514.png" title="Figure 2">
+  <img src="/assets/img/news/20260514.png" title="Figure 2"></a>
 </figure>
 
 
