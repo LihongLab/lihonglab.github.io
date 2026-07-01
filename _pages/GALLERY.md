@@ -240,13 +240,13 @@ gallery:
 
 <figure class="third">
   <a href="/assets/img/gallery/毕业照202606.jpg" >
-  <img src="/assets/img/gallery/毕业照202606.jpg" style="height: 500px; width: auto;></a>
+  <img src="/assets/img/gallery/毕业照202606.jpg" style="height: 500px; width: auto;"></a>
   <a href="/assets/img/gallery/毕业照202606_李坤实.jpg" >
-  <img src="/assets/img/gallery/毕业照202606_李坤实.jpg" style="height: 500px; width: auto;></a>
+  <img src="/assets/img/gallery/毕业照202606_李坤实.jpg" style="height: 500px; width: auto;"></a>
   <a href="/assets/img/gallery/毕业照202606_李家荣.jpg" >
-  <img src="/assets/img/gallery/毕业照202606_李家荣.jpg" style="height: 500px; width: auto;></a>
+  <img src="/assets/img/gallery/毕业照202606_李家荣.jpg" style="height: 500px; width: auto;"></a>
   <a href="/assets/img/gallery/毕业照202606_颜溪.jpg" >
-  <img src="/assets/img/gallery/毕业照202606_颜溪.jpg" style="height: 500px; width: auto;></a>
+  <img src="/assets/img/gallery/毕业照202606_颜溪.jpg" style="height: 500px; width: auto;"></a>
 </figure>
 
 <figure class="third">
