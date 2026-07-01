@@ -238,9 +238,11 @@ gallery:
 
 # Graduation Events
 
-<figure class="third">
+<figure class="ha'l'f">  
   <a href="/assets/img/gallery/毕业照202606.jpg" >
   <img src="/assets/img/gallery/毕业照202606.jpg"></a>
+</figure>
+<figure class="third">
   <a href="/assets/img/gallery/毕业照202606_李坤实.jpg" >
   <img src="/assets/img/gallery/毕业照202606_李坤实.jpg"></a>
   <a href="/assets/img/gallery/毕业照202606_李家荣.jpg" >
