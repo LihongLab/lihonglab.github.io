@@ -238,7 +238,7 @@ gallery:
 
 # Graduation Events
 
-<figure class="ha'l'f">  
+<figure class="half">  
   <a href="/assets/img/gallery/毕业照202606.jpg" >
   <img src="/assets/img/gallery/毕业照202606.jpg"></a>
 </figure>
