@@ -238,6 +238,8 @@ gallery:
 
 # Graduation Events
 
+## 2026
+
 <figure class="half">  
   <a href="/assets/img/gallery/毕业照202606.jpg" >
   <img src="/assets/img/gallery/毕业照202606.jpg"></a>
@@ -252,6 +254,8 @@ gallery:
   <a href="/assets/img/gallery/毕业照202606_王鹤锜.jpg" >
   <img src="/assets/img/gallery/毕业照202606_王鹤锜.jpg"></a>
 </figure>
+## 2025
+
 
 <figure class="third">
   <a href="/assets/img/gallery/biyezhao02_11_500px.jpg" >
