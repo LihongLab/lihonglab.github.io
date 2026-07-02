@@ -249,6 +249,8 @@ gallery:
   <img src="/assets/img/gallery/毕业照202606_李家荣.jpg"></a>
   <a href="/assets/img/gallery/毕业照202606_颜溪.jpg" >
   <img src="/assets/img/gallery/毕业照202606_颜溪1.jpg"></a>
+  <a href="/assets/img/gallery/毕业照202606_王鹤锜.jpg" >
+  <img src="/assets/img/gallery/毕业照202606_王鹤锜.jpg"></a>
 </figure>
 
 <figure class="third">
