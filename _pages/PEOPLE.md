@@ -30,27 +30,6 @@ feature_row:
     excerpt: >
       Laboratory Manager <br>
       zxtang:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/lijiarong.jpg
-    alt: "placeholder image 2"
-    title: "Jiarong Li"
-    excerpt: >
-      Ph.D. Student <br>
-      lijiarong2020:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/likunshi.jpg
-    title: "Kunshi Li"
-    excerpt: >
-      Ph.D. Student <br>
-      likunshi2021:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/wangheqi.jpg
-    title: "Heqi Wang"
-    excerpt: >
-      Ph.D. Student <br>
-      wangheqi2021:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/yanxi.jpg
-    title: "Xi Yan"
-    excerpt: >
-      Ph.D. Student <br>
-      yanxi2021:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/chenwanhong.jpg
     title: "Wanhong Chen"
     excerpt: >
@@ -101,6 +80,11 @@ feature_row:
     excerpt: >
       M.Sc. Student <br>
       yangwenxin2025:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/zengyixin.jpg
+    title: "Yixin Zeng"
+    excerpt: >
+      M.Sc. Student <br>
+      zengyixin2026:paperclip:sinh**.**ac**.**cn
 feature_row2:
   - image_path: /assets/img/pic/lihong1.jpg
     alt: "Hong Li"
@@ -136,8 +120,31 @@ feature_row3:
     excerpt: >
       Ph.D. Student (2020-2025)<br>
       shenbihan2020:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/lijiarong.jpg
+    alt: "placeholder image 2"
+    title: "Jiarong Li"
+    excerpt: >
+      Ph.D. Student (2020-2026)<br>
+      lijiarong2020:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/likunshi.jpg
+    alt: "placeholder image 2"
+    title: "Kunshi Li"
+    excerpt: >
+      Ph.D. Student (2021-2026)<br>
+      likunshi2021:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/wangheqi.jpg
+    alt: "placeholder image 2"
+    title: "Heqi Wang"
+    excerpt: >
+      Ph.D. Student (2021-2026)<br>
+      wangheqi2021:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/yanxi.jpg
+    alt: "placeholder image 2"
+    title: "Xi Yan"
+    excerpt: >
+      Ph.D. Student (2021-2026)<br>
+      yanxi2021:paperclip:sinh**.**ac**.**cn
 ---
-
 
 {% include feature_row id="feature_row2" type="left" %}
 
