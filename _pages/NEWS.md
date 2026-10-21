@@ -10,6 +10,22 @@ toc_icon: "bars"
 
 # 2026
 
+## October
+
+- Congratulations to <strong>YiXin Zeng</strong>, <strong>XinRu Xu</strong> and <strong>XinPing Yu</strong> on joining our group as new graduate students! We are excited to have you on board and look forward to working with you.
+
+- Cancer Systems Biology group contributes a research paper entitled ["Decomposing multi-scale dynamic regulation from single-cell multiomics with scMagnify"](https://www.nature.com/articles/s41467-026-78441-9) in _*Nature Communications*_. <a href="https://mp.weixin.qq.com/s/HuhXxEepynKt_MW7lR1DIQ" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+  <small>On October 17, the research team led by Professor Li Hong at the Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences, published an online research paper titled "Decomposing multi-scale dynamic regulation from single-cell multiomics with scMagnify" in the international academic journal *Nature Communications*. The article introduces scMagnify, a deep learning-based framework that leverages chromatin accessibility and gene expression to reconstruct and decompose multi-scale gene regulatory networks (GRNs) through Granger causality. scMagnify provides a robust computational framework for dissecting the multi-scale regulatory logic governing complex biological processes in development and disease.</small>
+
+  <figure class="align-center">
+    <a href="/assets/img/news/NatureCommunications2026.png" title="Graphical abstract" alt="Graphical abstract">
+      <img src="/assets/img/news/NatureCommunications2026.png"/>
+    </a>
+  </figure>
+
+  
+
 ## May
 
 - Congratulations to Dr. <strong>Heqi Wang</strong> , Dr. <strong>Kunshi Li</strong>, Dr. <strong>Xi Yan</strong> and Dr. <strong>Jiarong Li</strong> on their successful graduation! We are incredibly proud of your achievements and grateful for your contributions to the group. Wishing you all the best in your future endeavors!

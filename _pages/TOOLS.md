@@ -45,10 +45,26 @@ feature_row5:
     url: "https://github.com/LiHongCSBLab/IGeS-BS"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+feature_row6:
+  - image_path: /assets/img/tools/spcoral.png
+    title: "SPCoral"
+    excerpt: "SPCoral is a Python package designed for diagonal integration of spatial multi-omics data from adjacent tissue slices. It comprises two modules: Alignment and Integration. The alignment module employs graph neural networks and Gromov-Wasserstein optimal transport to perform slice-to-slice positional alignment without relying on shared molecular features. The integration module builds upon these aligned coordinates, using a cross-modal attention mechanism to fuse molecular features across different modalities and resolutions. SPCoral supports a variety of downstream applications, including spatial domain identification, cross-omics prediction, spatial cell-cell communication inference, and other spatial multi-omics analyses."
+    url: "https://github.com/LiHongCSBLab/SPCoral"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+feature_row7:
+  - image_path: /assets/img/tools/scMagnify.png
+    title: "scMagnify"
+    excerpt: "scMagnify is a computational framework to infer GRNs and explore dynamic regulation synergy from single-cell multiome data."
+    url: "https://github.com/LiHongCSBLab/scMagnify"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 ---
 # Spatial Omics Analysis
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row6" type="left" %}
 
 # Cancer Precision Medicine
 
@@ -61,3 +77,5 @@ feature_row5:
 # Single Cell Analysis
 
 {% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row7" type="left" %}

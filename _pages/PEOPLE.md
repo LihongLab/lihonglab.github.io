@@ -85,6 +85,17 @@ feature_row:
     excerpt: >
       M.Sc. Student <br>
       zengyixin2026:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/xuxinru.jpg
+    title: "XinRu Xu"
+    excerpt: >
+      M.Sc. Student <br>
+      xuxinru2026:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/yuxinping.jpg
+    title: "XinPing Yu"
+    excerpt: >
+      M.Sc. Student <br>
+      yuxinping2026:paperclip:sinh**.**ac**.**cn
+
 feature_row2:
   - image_path: /assets/img/pic/lihong1.jpg
     alt: "Hong Li"
