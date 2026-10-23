@@ -81,9 +81,9 @@ Jing S.#, Wang, H., Lin, P., Yuan, J., Tang, Z., & **Li, H\***. (2025). Quantify
 
 Wang, H.#, Li, J.#, Jing S, Lin, P., Qiu, Y., Yan, X., Yuan, J., Tang, Z., Li, Y., Zhang, H., Chen, Y., Wang, Z., & **Li, H\***. (2025). SOAPy: a Python package to dissect spatial architecture, dynamics, and communication. **Genome Biology**, 26, 80. [https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03550-5](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03550-5) <a href="/assets/pdf/GB2025.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s?__biz=MzU2MTgwNjkwMQ" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-## 2024
-
 Li K#, Shen B#, Feng F, Li X, Wang Y, Feng N, Tang Z, Ma L, **Li  H\***. A disentangled generative model for improved drug response prediction in patients via sample synthesis.**J Pharm Anal**. 2025 Jun;15(6):101128. doi: 10.1016/j.jpha.2024.101128. Epub 2024 Oct 24. PMID: 40678484; PMCID: PMC12268049. [https://doi.org/10.1016/j.jpha.2024.101128](https://doi.org/10.1016/j.jpha.2024.101128) <a href="/assets/pdf/JPHA101128.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/Orkd7PvtgZHcq_gAQrNV5w" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+## 2024
 
 Li X#, Shen B, Feng F, Li K, Tang Z, Ma L,**Li  H\***. Dual-view jointly learning improves personalized drug synergy prediction. **Bioinformatics**. 2024 Oct 1;40(10):btae604. doi: 10.1093/bioinformatics/btae604. PMID: 39423102; PMCID: PMC11524890. [https://doi.org/10.1093/bioinformatics/btae604](https://doi.org/10.1093/bioinformatics/btae604) <a href="/assets/pdf/btae604.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/8M566CyBKOpngoJ1BHqmxQ" rel="nofollow noopener noreferrer">Recommendation Article<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
@@ -100,8 +100,6 @@ Li, L.#, Cui, L.#, Lin, P.#, Liu, Z., Bao, S., Ma, X., Nan, H., Zhu, W., Cen, J.
 Shen B#, Feng F#, Li K, Lin P, Ma L, **Li  H\***. A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. **Brief Bioinform**. 2023 Jan 19;24(1):bbac605. doi: 10.1093/bib/bbac605. PMID: 36575826. <a href="/assets/pdf/bbac605.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/tjepBBL92wY890L4SD9ahg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2022
-
-Shen, B.#, Feng, F.#, Li, K., Lin, P., Ma, L., & **Li, H\***. (2022). A systematic assessment of deep learning methods for drug response prediction: from in vitro to clinical applications. **Briefings in bioinformatics**, bbac605. Advance online publication. [https://doi.org/10.1093/bib/bbac605](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac605/6961794?utm_source=authortollfreelink&utm_campaign=bib&utm_medium=email&guestAccessKey=b7e964fc-aafa-438c-8414-a8bdc22e2313) <a href="/assets/pdf/bbac605.pdf" rel="nofollow noopener noreferrer"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i></a> <a href="https://mp.weixin.qq.com/s/tjepBBL92wY890L4SD9ahg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Liu D#, **Li H#**, Dong H#, Qu M, Yang L, Chen L, Li Y, Wang H*, He Y*. Spatial Multiomics Analysis Reveals Only Minor Genetic and Epigenetic Changes in Human Liver Cancer Stem-Like Cells Compared With Other Tumor Parenchymal Cells. **Front Cell Dev Biol**. 2022 Feb 9;10:810687. [doi: 10.3389/fcell.2022.810687](doi: 10.3389/fcell.2022.810687). PMID: 35223840; PMCID: PMC8863946.
 
